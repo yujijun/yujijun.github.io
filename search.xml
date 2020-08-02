@@ -37,6 +37,24 @@ sci-hub: https://scihub.wikicn.top/
       </tags>
   </entry>
   <entry>
+    <title>R语言中常用的颜色设置</title>
+    <url>/2020/06/25/R%E4%B8%AD%E5%B8%B8%E7%94%A8%E7%9A%84%E9%A2%9C%E8%89%B2%E8%AE%BE%E7%BD%AE/</url>
+    <content><![CDATA[<h2 id="R语言中常用的specific-colors："><a href="#R语言中常用的specific-colors：" class="headerlink" title="R语言中常用的specific colors："></a>R语言中常用的specific colors：</h2><figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">col_heatmap1 &lt;- colorRampPalette(rev(c(&quot;Yellow&quot;, &quot;black&quot;,&quot;#FF00FF&quot;)))( 10)</span><br><span class="line"></span><br><span class="line">col_heatmap2 &lt;- colorRampPalette(rev(c(&quot;#67001F&quot;, &quot;#B2182B&quot;, &quot;#D6604D&quot;, &quot;#F4A582&quot;,</span><br><span class="line">                               &quot;#FDDBC7&quot;, &quot;#FFFFFF&quot;, &quot;#D1E5F0&quot;, &quot;#92C5DE&quot;,</span><br><span class="line">                               &quot;#4393C3&quot;, &quot;#2166AC&quot;, &quot;#053061&quot;)))(11)</span><br><span class="line">                               #colors for clusters </span><br><span class="line">cluster_col &lt;- c(&quot;#E64B35FF&quot;,&quot;#4DBBD5FF&quot;,&quot;#E7298A&quot;,&quot;#3C5488FF&quot;,&quot;#7E6148FF&quot;,</span><br><span class="line">                 &quot;#BA55D3&quot;,&quot;#00A087FF&quot;,&quot;#FFA500&quot;,&quot;#B3DE69&quot;,&quot;#BEBADA&quot;,&quot;#000000&quot;) #all colors are significant difference</span><br></pre></td></tr></table></figure>
+
+<h2 id="R语言中常用的设置颜色的包："><a href="#R语言中常用的设置颜色的包：" class="headerlink" title="R语言中常用的设置颜色的包："></a>R语言中常用的设置颜色的包：</h2><figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">library(RColorBrewer)</span><br><span class="line">display.brewer.all()</span><br><span class="line">display.brewer.pal(10,&quot;Set3&quot;)</span><br><span class="line">brewer.pal(7,&quot;BrBG&quot;)</span><br><span class="line"></span><br><span class="line">library(ggsci)</span><br><span class="line">library(scales)</span><br><span class="line">show_col(pal_aaas(&quot;default&quot;, alpha &#x3D; 0.6)(7))   </span><br><span class="line">rgb_gsea(palette &#x3D; c(&quot;default&quot;), n &#x3D; 12, alpha &#x3D; 1, reverse &#x3D; FALSE)</span><br><span class="line">rgb_material(palette &#x3D; c(&quot;red&quot;, &quot;pink&quot;, &quot;purple&quot;, &quot;deep-purple&quot;, &quot;indigo&quot;,</span><br><span class="line">  &quot;blue&quot;, &quot;light-blue&quot;, &quot;cyan&quot;, &quot;teal&quot;, &quot;green&quot;, &quot;light-green&quot;, &quot;lime&quot;,</span><br><span class="line">  &quot;yellow&quot;, &quot;amber&quot;, &quot;orange&quot;, &quot;deep-orange&quot;, &quot;brown&quot;, &quot;grey&quot;, &quot;blue-grey&quot;),</span><br><span class="line">  n &#x3D; 10, alpha &#x3D; 1, reverse &#x3D; FALSE)</span><br><span class="line"></span><br><span class="line"># n：产生多少个独立的颜色</span><br><span class="line"># alpha：透明度</span><br><span class="line"># reverse：逻辑值，决定颜色的排序是否反序</span><br><span class="line"># palette：在rgb_material中有19种配色方案</span><br></pre></td></tr></table></figure>
+
+<h2 id="R语言中绘图推荐的包"><a href="#R语言中绘图推荐的包" class="headerlink" title="R语言中绘图推荐的包"></a>R语言中绘图推荐的包</h2><figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">library(ggplot2)</span><br><span class="line">library(ggpubr)</span><br></pre></td></tr></table></figure>
+
+<h2 id="参考链接："><a href="#参考链接：" class="headerlink" title="参考链接："></a><strong>参考链接：</strong></h2><p>(1) <a href="https://blog.csdn.net/m0_45248682/article/details/104077631" target="_blank" rel="noopener">ggsci包的使用</a><br>(2) <a href="https://blog.csdn.net/jethai/article/details/52345061" target="_blank" rel="noopener">RColorBrewer包的使用</a><br>(3) <a href="http://www.5tu.cn/colors/rgb-peisebiao.html" target="_blank" rel="noopener">所有R的配色及其对应code</a><br>(4)<a href="https://www.jianshu.com/p/c0ebba8d1853" target="_blank" rel="noopener">ggpubr包的使用</a></p>
+]]></content>
+      <categories>
+        <category>编程语言</category>
+      </categories>
+      <tags>
+        <tag>R,颜色</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>linux常用命令积累</title>
     <url>/2020/06/24/linux%E5%B8%B8%E7%94%A8%E5%91%BD%E4%BB%A4%E7%A7%AF%E7%B4%AF/</url>
     <content><![CDATA[<p>（1）常用基本命令<br>cp //拷贝<br>touch //新建空白文件<br>rm //删除文件<br>mkdir //新建文件夹<br>rmdir //删除文件夹<br>mv //移动文件</p>
@@ -71,7 +89,7 @@ sci-hub: https://scihub.wikicn.top/
 <h2 id="如何更新自己的posts"><a href="#如何更新自己的posts" class="headerlink" title="如何更新自己的posts"></a>如何更新自己的posts</h2><p>(1) Get into this folder: <code>Users/yujijun/Documents/00-myweb/myHexoBlog</code>;<br>(2) hexo new “post name”, This will generate a new post into <code>./source/_posts/</code> folder ;<br>(3) change this file with markdown format and default head information:</p>
 <figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">title: &#123;&#123; title &#125;&#125;</span><br><span class="line">date: &#123;&#123; date &#125;&#125;</span><br><span class="line">tags:                #标签</span><br><span class="line">categories:      #分类</span><br><span class="line">copyright: true #版权声明</span><br><span class="line">permalink: 01  #文章链接，有默认值</span><br><span class="line">top: 0              #置顶优先级</span><br><span class="line">password:      #密码保护</span><br></pre></td></tr></table></figure>
 <p>markdown具体语法，见参考文件6<br>(4) hexo g. #generator 的缩写，生成博客<br>(5) hexo d  #部署到 github</p>
-<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">cd Users&#x2F;yujijun&#x2F;Documents&#x2F;00-myweb&#x2F;myHexoBlog</span><br><span class="line">hexo new newblogname</span><br><span class="line">hexo g &amp; hexo d  #sometime we need to run this order two times to update new blog.</span><br></pre></td></tr></table></figure>
+<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">cd Users&#x2F;yujijun&#x2F;Documents&#x2F;00-myweb&#x2F;myHexoBlog</span><br><span class="line">hexo new newblogname</span><br><span class="line">hexo clean</span><br><span class="line">hexo g &amp; hexo d  #sometime we need to run this order two times to update new blog.</span><br></pre></td></tr></table></figure>
 
 
 
@@ -90,24 +108,6 @@ sci-hub: https://scihub.wikicn.top/
       </categories>
       <tags>
         <tag>前端技术</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>R语言中常用的颜色设置</title>
-    <url>/2020/06/25/R%E4%B8%AD%E5%B8%B8%E7%94%A8%E7%9A%84%E9%A2%9C%E8%89%B2%E8%AE%BE%E7%BD%AE/</url>
-    <content><![CDATA[<h2 id="R语言中常用的specific-colors："><a href="#R语言中常用的specific-colors：" class="headerlink" title="R语言中常用的specific colors："></a>R语言中常用的specific colors：</h2><figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">col_heatmap1 &lt;- colorRampPalette(rev(c(&quot;Yellow&quot;, &quot;black&quot;,&quot;#FF00FF&quot;)))( 10)</span><br><span class="line"></span><br><span class="line">col_heatmap2 &lt;- colorRampPalette(rev(c(&quot;#67001F&quot;, &quot;#B2182B&quot;, &quot;#D6604D&quot;, &quot;#F4A582&quot;,</span><br><span class="line">                               &quot;#FDDBC7&quot;, &quot;#FFFFFF&quot;, &quot;#D1E5F0&quot;, &quot;#92C5DE&quot;,</span><br><span class="line">                               &quot;#4393C3&quot;, &quot;#2166AC&quot;, &quot;#053061&quot;)))(11)</span><br><span class="line">                               #colors for clusters </span><br><span class="line">cluster_col &lt;- c(&quot;#E64B35FF&quot;,&quot;#4DBBD5FF&quot;,&quot;#E7298A&quot;,&quot;#3C5488FF&quot;,&quot;#7E6148FF&quot;,</span><br><span class="line">                 &quot;#BA55D3&quot;,&quot;#00A087FF&quot;,&quot;#FFA500&quot;,&quot;#B3DE69&quot;,&quot;#BEBADA&quot;,&quot;#000000&quot;) #all colors are significant difference</span><br></pre></td></tr></table></figure>
-
-<h2 id="R语言中常用的设置颜色的包："><a href="#R语言中常用的设置颜色的包：" class="headerlink" title="R语言中常用的设置颜色的包："></a>R语言中常用的设置颜色的包：</h2><figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">library(RColorBrewer)</span><br><span class="line">display.brewer.all()</span><br><span class="line">display.brewer.pal(10,&quot;Set3&quot;)</span><br><span class="line">brewer.pal(7,&quot;BrBG&quot;)</span><br><span class="line"></span><br><span class="line">library(ggsci)</span><br><span class="line">library(scales)</span><br><span class="line">show_col(pal_aaas(&quot;default&quot;, alpha &#x3D; 0.6)(7))   </span><br><span class="line">rgb_gsea(palette &#x3D; c(&quot;default&quot;), n &#x3D; 12, alpha &#x3D; 1, reverse &#x3D; FALSE)</span><br><span class="line">rgb_material(palette &#x3D; c(&quot;red&quot;, &quot;pink&quot;, &quot;purple&quot;, &quot;deep-purple&quot;, &quot;indigo&quot;,</span><br><span class="line">  &quot;blue&quot;, &quot;light-blue&quot;, &quot;cyan&quot;, &quot;teal&quot;, &quot;green&quot;, &quot;light-green&quot;, &quot;lime&quot;,</span><br><span class="line">  &quot;yellow&quot;, &quot;amber&quot;, &quot;orange&quot;, &quot;deep-orange&quot;, &quot;brown&quot;, &quot;grey&quot;, &quot;blue-grey&quot;),</span><br><span class="line">  n &#x3D; 10, alpha &#x3D; 1, reverse &#x3D; FALSE)</span><br><span class="line"></span><br><span class="line"># n：产生多少个独立的颜色</span><br><span class="line"># alpha：透明度</span><br><span class="line"># reverse：逻辑值，决定颜色的排序是否反序</span><br><span class="line"># palette：在rgb_material中有19种配色方案</span><br></pre></td></tr></table></figure>
-
-<h2 id="R语言中绘图推荐的包"><a href="#R语言中绘图推荐的包" class="headerlink" title="R语言中绘图推荐的包"></a>R语言中绘图推荐的包</h2><figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">library(ggplot2)</span><br><span class="line">library(ggpubr)</span><br></pre></td></tr></table></figure>
-
-<h2 id="参考链接："><a href="#参考链接：" class="headerlink" title="参考链接："></a><strong>参考链接：</strong></h2><p>(1) <a href="https://blog.csdn.net/m0_45248682/article/details/104077631" target="_blank" rel="noopener">ggsci包的使用</a><br>(2) <a href="https://blog.csdn.net/jethai/article/details/52345061" target="_blank" rel="noopener">RColorBrewer包的使用</a><br>(3) <a href="http://www.5tu.cn/colors/rgb-peisebiao.html" target="_blank" rel="noopener">所有R的配色及其对应code</a><br>(4)<a href="https://www.jianshu.com/p/c0ebba8d1853" target="_blank" rel="noopener">ggpubr包的使用</a></p>
-]]></content>
-      <categories>
-        <category>编程语言</category>
-      </categories>
-      <tags>
-        <tag>R,颜色</tag>
       </tags>
   </entry>
 </search>
