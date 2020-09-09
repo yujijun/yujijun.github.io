@@ -116,8 +116,8 @@ sci-hub: https://scihub.wikicn.top/
   <entry>
     <title>简历</title>
     <url>/2020/09/09/1/</url>
-    <content><![CDATA[<meta name="referrer" content="no-referrer"/>
-<img src="/2020/09/09/1/%E4%BA%8E%E5%90%89%E5%86%9B-%E7%AE%80%E5%8E%86.pdf" class="" title="[简历]">
+    <content><![CDATA[<meta name="referrer" content="no-referrer">
+<img src="/2020/09/09/1/%E4%BA%8E%E5%90%89%E5%86%9B-%E7%AE%80%E5%8E%86.pdf" class title="[简历]">
 ![简历](于吉军-简历.pdf)]]></content>
   </entry>
 </search>
