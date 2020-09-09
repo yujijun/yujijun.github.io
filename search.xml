@@ -19,6 +19,45 @@
       </tags>
   </entry>
   <entry>
+    <title>每日迭代系统</title>
+    <url>/2020/07/05/01-%E6%AF%8F%E6%97%A5%E8%BF%AD%E4%BB%A3%E7%B3%BB%E7%BB%9F/</url>
+    <content><![CDATA[<h3 id="每日必做："><a href="#每日必做：" class="headerlink" title="每日必做："></a>每日必做：</h3><p>（1）制作工作计划：前天晚上9点左右</p>
+<p>（2）做工作记录和工作总结：工作记录在Evernote、工作总结到（Evernote、博客、github）</p>
+<p>（3）写日记：每天晚上总结今天生活和工作</p>
+<p>（4）空闲时间，抽空检索阅读paper</p>
+<p>   (5)  检查每日邮件</p>
+<p>   (6)每天必须打开的网站</p>
+<h3 id="相关链接"><a href="#相关链接" class="headerlink" title="相关链接"></a>相关链接</h3><p>** 1.工作计划：**</p>
+<pre><code>Calender(Local):  Alfred -&gt; Calender
+
+Focus Matrix(local): Alfred -&gt; Focus Matrix （工作上的事儿）
+
+Stickies: Alfred -&gt; stickies (生活上的事儿)</code></pre><p> <strong>2. 工作记录和工作总结：</strong></p>
+<pre><code>印象笔记（本地）-&gt; 02-项目管理|8月份项目记录
+
+博客：https://yujijun.github.io/ （用来更新值得长期留存记忆的东西）
+
+github: https://github.com/yujijun (用来更新每天的code)</code></pre><p><strong>3.日记：</strong></p>
+<pre><code>印象笔记（本地）-&gt; 000-2020.08-八月份日记</code></pre><p><strong>4.文章阅读：</strong></p>
+<pre><code>pubmadpro: https://www.pubmed.pro/home
+
+sci-hub: https://scihub.wikicn.top/
+
+文章追踪软件：</code></pre><p><strong>5. 邮件</strong></p>
+<p>  学习邮箱： <a href="mailto:jijunyuedu@outlook.com">jijunyuedu@outlook.com</a></p>
+<p>  gmail邮箱：  <a href="mailto:jijunyu140@gmail.com">jijunyu140@gmail.com</a></p>
+<p>  QQ邮箱：<a href="mailto:1260297406@qq.com">1260297406@qq.com</a></p>
+<p><strong>6.网站</strong></p>
+<p>任务管理网站： Teambition</p>
+]]></content>
+      <categories>
+        <category>成长</category>
+      </categories>
+      <tags>
+        <tag>成长</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>linux常用命令积累</title>
     <url>/2020/06/24/linux%E5%B8%B8%E7%94%A8%E5%91%BD%E4%BB%A4%E7%A7%AF%E7%B4%AF/</url>
     <content><![CDATA[<p>（1）常用基本命令<br>cp //拷贝<br>touch //新建空白文件<br>rm //删除文件<br>mkdir //新建文件夹<br>rmdir //删除文件夹<br>mv //移动文件</p>
@@ -32,12 +71,6 @@
       <tags>
         <tag>linux</tag>
       </tags>
-  </entry>
-  <entry>
-    <title>简历</title>
-    <url>/2020/09/09/1/</url>
-    <content><![CDATA[<p>! <a href="于吉军-简历.PDF">简历</a></p>
-]]></content>
   </entry>
   <entry>
     <title>我的第一个博客----今天是我26岁的生日</title>
@@ -81,42 +114,9 @@
       </tags>
   </entry>
   <entry>
-    <title>每日迭代系统</title>
-    <url>/2020/07/05/01-%E6%AF%8F%E6%97%A5%E8%BF%AD%E4%BB%A3%E7%B3%BB%E7%BB%9F/</url>
-    <content><![CDATA[<h3 id="每日必做："><a href="#每日必做：" class="headerlink" title="每日必做："></a>每日必做：</h3><p>（1）制作工作计划：前天晚上9点左右</p>
-<p>（2）做工作记录和工作总结：工作记录在Evernote、工作总结到（Evernote、博客、github）</p>
-<p>（3）写日记：每天晚上总结今天生活和工作</p>
-<p>（4）空闲时间，抽空检索阅读paper</p>
-<p>   (5)  检查每日邮件</p>
-<p>   (6)每天必须打开的网站</p>
-<h3 id="相关链接"><a href="#相关链接" class="headerlink" title="相关链接"></a>相关链接</h3><p>** 1.工作计划：**</p>
-<pre><code>Calender(Local):  Alfred -&gt; Calender
-
-Focus Matrix(local): Alfred -&gt; Focus Matrix （工作上的事儿）
-
-Stickies: Alfred -&gt; stickies (生活上的事儿)</code></pre><p> <strong>2. 工作记录和工作总结：</strong></p>
-<pre><code>印象笔记（本地）-&gt; 02-项目管理|8月份项目记录
-
-博客：https://yujijun.github.io/ （用来更新值得长期留存记忆的东西）
-
-github: https://github.com/yujijun (用来更新每天的code)</code></pre><p><strong>3.日记：</strong></p>
-<pre><code>印象笔记（本地）-&gt; 000-2020.08-八月份日记</code></pre><p><strong>4.文章阅读：</strong></p>
-<pre><code>pubmadpro: https://www.pubmed.pro/home
-
-sci-hub: https://scihub.wikicn.top/
-
-文章追踪软件：</code></pre><p><strong>5. 邮件</strong></p>
-<p>  学习邮箱： <a href="mailto:jijunyuedu@outlook.com">jijunyuedu@outlook.com</a></p>
-<p>  gmail邮箱：  <a href="mailto:jijunyu140@gmail.com">jijunyu140@gmail.com</a></p>
-<p>  QQ邮箱：<a href="mailto:1260297406@qq.com">1260297406@qq.com</a></p>
-<p><strong>6.网站</strong></p>
-<p>任务管理网站： Teambition</p>
+    <title>简历</title>
+    <url>/2020/09/09/1/</url>
+    <content><![CDATA[<p>! <a href="./简历/于吉军-简历.PDF">简历</a></p>
 ]]></content>
-      <categories>
-        <category>成长</category>
-      </categories>
-      <tags>
-        <tag>成长</tag>
-      </tags>
   </entry>
 </search>
