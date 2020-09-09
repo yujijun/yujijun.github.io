@@ -1,14 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>CV</title>
-    <url>/2020/09/09/1/</url>
-    <content><![CDATA[<img src="/2020/09/09/1/yujijun.pdf" class title="[CV]">
-<img src="/2020/09/09/1/yujijun.pdf" class title="This is an test image">
-<p><img src="/2020/09/09/1/yujijun.pdf" alt="CV"></p>
-]]></content>
-  </entry>
-  <entry>
     <title>每日迭代系统</title>
     <url>/2020/07/05/01-%E6%AF%8F%E6%97%A5%E8%BF%AD%E4%BB%A3%E7%B3%BB%E7%BB%9F/</url>
     <content><![CDATA[<h3 id="每日必做："><a href="#每日必做：" class="headerlink" title="每日必做："></a>每日必做：</h3><p>（1）制作工作计划：前天晚上9点左右</p>
@@ -48,6 +40,14 @@ sci-hub: https://scihub.wikicn.top/
       </tags>
   </entry>
   <entry>
+    <title>CV</title>
+    <url>/2020/09/09/1/</url>
+    <content><![CDATA[
+
+<p><img src="/2020/09/09/1/yujijun.pdf" alt="CV"></p>
+]]></content>
+  </entry>
+  <entry>
     <title>R语言中常用的颜色设置</title>
     <url>/2020/06/25/R%E4%B8%AD%E5%B8%B8%E7%94%A8%E7%9A%84%E9%A2%9C%E8%89%B2%E8%AE%BE%E7%BD%AE/</url>
     <content><![CDATA[<h2 id="R语言中常用的specific-colors："><a href="#R语言中常用的specific-colors：" class="headerlink" title="R语言中常用的specific colors："></a>R语言中常用的specific colors：</h2><figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">col_heatmap1 &lt;- colorRampPalette(rev(c(&quot;Yellow&quot;, &quot;black&quot;,&quot;#FF00FF&quot;)))( 10)</span><br><span class="line"></span><br><span class="line">col_heatmap2 &lt;- colorRampPalette(rev(c(&quot;#67001F&quot;, &quot;#B2182B&quot;, &quot;#D6604D&quot;, &quot;#F4A582&quot;,</span><br><span class="line">                               &quot;#FDDBC7&quot;, &quot;#FFFFFF&quot;, &quot;#D1E5F0&quot;, &quot;#92C5DE&quot;,</span><br><span class="line">                               &quot;#4393C3&quot;, &quot;#2166AC&quot;, &quot;#053061&quot;)))(11)</span><br><span class="line">                               #colors for clusters </span><br><span class="line">cluster_col &lt;- c(&quot;#E64B35FF&quot;,&quot;#4DBBD5FF&quot;,&quot;#E7298A&quot;,&quot;#3C5488FF&quot;,&quot;#7E6148FF&quot;,</span><br><span class="line">                 &quot;#BA55D3&quot;,&quot;#00A087FF&quot;,&quot;#FFA500&quot;,&quot;#B3DE69&quot;,&quot;#BEBADA&quot;,&quot;#000000&quot;) #all colors are significant difference</span><br></pre></td></tr></table></figure>
@@ -81,6 +81,13 @@ sci-hub: https://scihub.wikicn.top/
       </tags>
   </entry>
   <entry>
+    <title>test</title>
+    <url>/2020/09/09/1/</url>
+    <content><![CDATA[<img src="/2020/09/09/1/test.png" class title="This is an test image">
+<p><img src="/2020/09/09/1/test.png" alt="test"><br><img src="/2020/09/09/1/yujijun.pdf" alt="yujijun_CV"></p>
+]]></content>
+  </entry>
+  <entry>
     <title>我的第一个博客----今天是我26岁的生日</title>
     <url>/2020/06/23/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E4%B8%AA%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/</url>
     <content><![CDATA[<h2 id="新一岁的日常："><a href="#新一岁的日常：" class="headerlink" title="新一岁的日常："></a>新一岁的日常：</h2><p>（1）休息：早睡早起。<br>（2）工作：用好每一刻钟，随时进入心流，高效工作。<br>（3）健身:  增肌减脂，增强体能。<br>（4）习惯：建立成型的习惯打卡计划。</p>
@@ -92,13 +99,6 @@ sci-hub: https://scihub.wikicn.top/
       <tags>
         <tag>生日</tag>
       </tags>
-  </entry>
-  <entry>
-    <title>test</title>
-    <url>/2020/09/09/1/</url>
-    <content><![CDATA[<img src="/2020/09/09/1/test.png" class title="This is an test image">
-<p><img src="/2020/09/09/1/test.png" alt="test"></p>
-]]></content>
   </entry>
   <entry>
     <title>搭建个人的博客网站</title>
