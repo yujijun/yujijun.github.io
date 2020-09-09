@@ -113,4 +113,10 @@ sci-hub: https://scihub.wikicn.top/
         <tag>前端技术</tag>
       </tags>
   </entry>
+  <entry>
+    <title>简历</title>
+    <url>/2020/09/09/1/</url>
+    <content><![CDATA[<p>object data=”./简历/于吉军-简历.pdf” type=”application/pdf” width=”100%” height=”100%”&gt;</p>
+]]></content>
+  </entry>
 </search>
