@@ -1,6 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>CV</title>
+    <url>/2020/09/09/1/</url>
+    <content><![CDATA[<img src="/2020/09/09/1/yujijun.pdf" class title="[CV]">
+<p><img src="/2020/09/09/1/yujijun.pdf" alt="CV"></p>
+]]></content>
+  </entry>
+  <entry>
     <title>每日迭代系统</title>
     <url>/2020/07/05/01-%E6%AF%8F%E6%97%A5%E8%BF%AD%E4%BB%A3%E7%B3%BB%E7%BB%9F/</url>
     <content><![CDATA[<h3 id="每日必做："><a href="#每日必做：" class="headerlink" title="每日必做："></a>每日必做：</h3><p>（1）制作工作计划：前天晚上9点左右</p>
@@ -38,13 +45,6 @@ sci-hub: https://scihub.wikicn.top/
       <tags>
         <tag>成长</tag>
       </tags>
-  </entry>
-  <entry>
-    <title>CV</title>
-    <url>/2020/09/09/1/</url>
-    <content><![CDATA[<img src="/2020/09/09/1/yujijun.pdf" class title="[CV]">
-<p><img src="/2020/09/09/1/yujijun.pdf" alt="CV"></p>
-]]></content>
   </entry>
   <entry>
     <title>R语言中常用的颜色设置</title>
