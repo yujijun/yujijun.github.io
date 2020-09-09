@@ -40,19 +40,11 @@ sci-hub: https://scihub.wikicn.top/
       </tags>
   </entry>
   <entry>
-    <title>linux常用命令积累</title>
-    <url>/2020/06/24/linux%E5%B8%B8%E7%94%A8%E5%91%BD%E4%BB%A4%E7%A7%AF%E7%B4%AF/</url>
-    <content><![CDATA[<p>（1）常用基本命令<br>cp //拷贝<br>touch //新建空白文件<br>rm //删除文件<br>mkdir //新建文件夹<br>rmdir //删除文件夹<br>mv //移动文件</p>
-<p>（2） vim 打开文本之后，如何进行字符串搜索？<br><code>:  /test</code> 将定位到test位置，然后用n来进行跳转到不同的test行。</p>
-<p>（3）Linux文件权限设置<br> <code>chmod u|g|o|a  =(设置权限)|+(添加权限)|-(减少权限)  r|w|x  文件或者目录</code><br>for example:<br><code>chmod u=rwx file</code> //u example user</p>
-<p>持续更新中… …</p>
+    <title>CV</title>
+    <url>/2020/09/09/1/</url>
+    <content><![CDATA[<img src="/2020/09/09/1/yujijun.pdf" class title="[CV]">
+<p><img src="/2020/09/09/1/yujijun.pdf" alt="CV"></p>
 ]]></content>
-      <categories>
-        <category>计算机技术</category>
-      </categories>
-      <tags>
-        <tag>linux</tag>
-      </tags>
   </entry>
   <entry>
     <title>R语言中常用的颜色设置</title>
@@ -70,6 +62,34 @@ sci-hub: https://scihub.wikicn.top/
       </categories>
       <tags>
         <tag>R,颜色</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>linux常用命令积累</title>
+    <url>/2020/06/24/linux%E5%B8%B8%E7%94%A8%E5%91%BD%E4%BB%A4%E7%A7%AF%E7%B4%AF/</url>
+    <content><![CDATA[<p>（1）常用基本命令<br>cp //拷贝<br>touch //新建空白文件<br>rm //删除文件<br>mkdir //新建文件夹<br>rmdir //删除文件夹<br>mv //移动文件</p>
+<p>（2） vim 打开文本之后，如何进行字符串搜索？<br><code>:  /test</code> 将定位到test位置，然后用n来进行跳转到不同的test行。</p>
+<p>（3）Linux文件权限设置<br> <code>chmod u|g|o|a  =(设置权限)|+(添加权限)|-(减少权限)  r|w|x  文件或者目录</code><br>for example:<br><code>chmod u=rwx file</code> //u example user</p>
+<p>持续更新中… …</p>
+]]></content>
+      <categories>
+        <category>计算机技术</category>
+      </categories>
+      <tags>
+        <tag>linux</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>我的第一个博客----今天是我26岁的生日</title>
+    <url>/2020/06/23/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E4%B8%AA%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/</url>
+    <content><![CDATA[<h2 id="新一岁的日常："><a href="#新一岁的日常：" class="headerlink" title="新一岁的日常："></a>新一岁的日常：</h2><p>（1）休息：早睡早起。<br>（2）工作：用好每一刻钟，随时进入心流，高效工作。<br>（3）健身:  增肌减脂，增强体能。<br>（4）习惯：建立成型的习惯打卡计划。</p>
+<h2 id="新一岁的目标："><a href="#新一岁的目标：" class="headerlink" title="新一岁的目标："></a>新一岁的目标：</h2><p>（1）学好专业知识：癌症免疫学/Neoantigen/生物信息学分析技能 —-&gt; 每天进步一点点，每天都有输出（一篇博客）<br>（2）学好基础技能： Oral English/English writing/Code（R and Python）/Mac—-&gt; 每天进步一点点，每天都有输出（一篇博客）<br>（3）做一个会思考的人：每天深入思考生活中的一个问题，查询可执行的答案，每天都有输出（一篇博客）</p>
+]]></content>
+      <categories>
+        <category>日常</category>
+      </categories>
+      <tags>
+        <tag>生日</tag>
       </tags>
   </entry>
   <entry>
@@ -99,25 +119,5 @@ sci-hub: https://scihub.wikicn.top/
       <tags>
         <tag>前端技术</tag>
       </tags>
-  </entry>
-  <entry>
-    <title>我的第一个博客----今天是我26岁的生日</title>
-    <url>/2020/06/23/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E4%B8%AA%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/</url>
-    <content><![CDATA[<h2 id="新一岁的日常："><a href="#新一岁的日常：" class="headerlink" title="新一岁的日常："></a>新一岁的日常：</h2><p>（1）休息：早睡早起。<br>（2）工作：用好每一刻钟，随时进入心流，高效工作。<br>（3）健身:  增肌减脂，增强体能。<br>（4）习惯：建立成型的习惯打卡计划。</p>
-<h2 id="新一岁的目标："><a href="#新一岁的目标：" class="headerlink" title="新一岁的目标："></a>新一岁的目标：</h2><p>（1）学好专业知识：癌症免疫学/Neoantigen/生物信息学分析技能 —-&gt; 每天进步一点点，每天都有输出（一篇博客）<br>（2）学好基础技能： Oral English/English writing/Code（R and Python）/Mac—-&gt; 每天进步一点点，每天都有输出（一篇博客）<br>（3）做一个会思考的人：每天深入思考生活中的一个问题，查询可执行的答案，每天都有输出（一篇博客）</p>
-]]></content>
-      <categories>
-        <category>日常</category>
-      </categories>
-      <tags>
-        <tag>生日</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>简历</title>
-    <url>/2020/09/09/1/</url>
-    <content><![CDATA[<meta name="referrer" content="no-referrer">
-<img src="/2020/09/09/1/%E4%BA%8E%E5%90%89%E5%86%9B-%E7%AE%80%E5%8E%86.pdf" class title="[简历]">
-![简历](于吉军-简历.pdf)]]></content>
   </entry>
 </search>
