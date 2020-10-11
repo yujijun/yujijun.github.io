@@ -73,12 +73,6 @@ sci-hub: https://scihub.wikicn.top/
       </tags>
   </entry>
   <entry>
-    <title>个人简介</title>
-    <url>/2020/09/09/1/</url>
-    <content><![CDATA[<p><img src="/2020/09/09/1/Yujijun_part1.png" alt="yujijun_CV"><br><img src="/2020/09/09/1/Yujijun_part3.png" alt></p>
-]]></content>
-  </entry>
-  <entry>
     <title>我的第一个博客----今天是我26岁的生日</title>
     <url>/2020/06/23/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E4%B8%AA%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/</url>
     <content><![CDATA[<h2 id="新一岁的日常："><a href="#新一岁的日常：" class="headerlink" title="新一岁的日常："></a>新一岁的日常：</h2><p>（1）休息：早睡早起。<br>（2）工作：用好每一刻钟，随时进入心流，高效工作。<br>（3）健身:  增肌减脂，增强体能。<br>（4）习惯：建立成型的习惯打卡计划。</p>
@@ -90,6 +84,12 @@ sci-hub: https://scihub.wikicn.top/
       <tags>
         <tag>生日</tag>
       </tags>
+  </entry>
+  <entry>
+    <title>个人简介</title>
+    <url>/2020/09/09/1/</url>
+    <content><![CDATA[<p><img src="/2020/09/09/1/Yujijun_part1.png" alt="yujijun_CV"><br><img src="/2020/09/09/1/Yujijun_part3.png" alt></p>
+]]></content>
   </entry>
   <entry>
     <title>搭建个人的博客网站</title>
