@@ -3,7 +3,7 @@
   <entry>
     <title>个人简介</title>
     <url>/2020/09/09/1/</url>
-    <content><![CDATA[<p><img src="/2020/09/09/1/Yujijun_part1.pdf" alt="yujijun_CV"><br><img src="/2020/09/09/1/Yujijun_part2.pdf" alt></p>
+    <content><![CDATA[<p><img src="/2020/09/09/1/Yujijun_part1.png" alt="yujijun_CV"><br><img src="/2020/09/09/1/Yujijun_part2.png" alt> </p>
 ]]></content>
   </entry>
   <entry>
@@ -22,6 +22,21 @@
       </categories>
       <tags>
         <tag>R,颜色</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>linux常用命令积累</title>
+    <url>/2020/06/24/linux%E5%B8%B8%E7%94%A8%E5%91%BD%E4%BB%A4%E7%A7%AF%E7%B4%AF/</url>
+    <content><![CDATA[<p>（1）常用基本命令<br>cp //拷贝<br>touch //新建空白文件<br>rm //删除文件<br>mkdir //新建文件夹<br>rmdir //删除文件夹<br>mv //移动文件</p>
+<p>（2） vim 打开文本之后，如何进行字符串搜索？<br><code>:  /test</code> 将定位到test位置，然后用n来进行跳转到不同的test行。</p>
+<p>（3）Linux文件权限设置<br> <code>chmod u|g|o|a  =(设置权限)|+(添加权限)|-(减少权限)  r|w|x  文件或者目录</code><br>for example:<br><code>chmod u=rwx file</code> //u example user</p>
+<p>持续更新中… …</p>
+]]></content>
+      <categories>
+        <category>计算机技术</category>
+      </categories>
+      <tags>
+        <tag>linux</tag>
       </tags>
   </entry>
   <entry>
@@ -61,21 +76,6 @@ sci-hub: https://scihub.wikicn.top/
       </categories>
       <tags>
         <tag>成长</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>linux常用命令积累</title>
-    <url>/2020/06/24/linux%E5%B8%B8%E7%94%A8%E5%91%BD%E4%BB%A4%E7%A7%AF%E7%B4%AF/</url>
-    <content><![CDATA[<p>（1）常用基本命令<br>cp //拷贝<br>touch //新建空白文件<br>rm //删除文件<br>mkdir //新建文件夹<br>rmdir //删除文件夹<br>mv //移动文件</p>
-<p>（2） vim 打开文本之后，如何进行字符串搜索？<br><code>:  /test</code> 将定位到test位置，然后用n来进行跳转到不同的test行。</p>
-<p>（3）Linux文件权限设置<br> <code>chmod u|g|o|a  =(设置权限)|+(添加权限)|-(减少权限)  r|w|x  文件或者目录</code><br>for example:<br><code>chmod u=rwx file</code> //u example user</p>
-<p>持续更新中… …</p>
-]]></content>
-      <categories>
-        <category>计算机技术</category>
-      </categories>
-      <tags>
-        <tag>linux</tag>
       </tags>
   </entry>
   <entry>
