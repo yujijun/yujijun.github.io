@@ -1,24 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>R语言中常用的颜色设置</title>
-    <url>/2020/06/25/R%E4%B8%AD%E5%B8%B8%E7%94%A8%E7%9A%84%E9%A2%9C%E8%89%B2%E8%AE%BE%E7%BD%AE/</url>
-    <content><![CDATA[<h2 id="R语言中常用的specific-colors："><a href="#R语言中常用的specific-colors：" class="headerlink" title="R语言中常用的specific colors："></a>R语言中常用的specific colors：</h2><figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">col_heatmap1 &lt;- colorRampPalette(rev(c(&quot;Yellow&quot;, &quot;black&quot;,&quot;#FF00FF&quot;)))( 10)</span><br><span class="line"></span><br><span class="line">col_heatmap2 &lt;- colorRampPalette(rev(c(&quot;#67001F&quot;, &quot;#B2182B&quot;, &quot;#D6604D&quot;, &quot;#F4A582&quot;,</span><br><span class="line">                               &quot;#FDDBC7&quot;, &quot;#FFFFFF&quot;, &quot;#D1E5F0&quot;, &quot;#92C5DE&quot;,</span><br><span class="line">                               &quot;#4393C3&quot;, &quot;#2166AC&quot;, &quot;#053061&quot;)))(11)</span><br><span class="line">                               #colors for clusters </span><br><span class="line">cluster_col &lt;- c(&quot;#E64B35FF&quot;,&quot;#4DBBD5FF&quot;,&quot;#E7298A&quot;,&quot;#3C5488FF&quot;,&quot;#7E6148FF&quot;,</span><br><span class="line">                 &quot;#BA55D3&quot;,&quot;#00A087FF&quot;,&quot;#FFA500&quot;,&quot;#B3DE69&quot;,&quot;#BEBADA&quot;,&quot;#000000&quot;) #all colors are significant difference</span><br></pre></td></tr></table></figure>
-
-<h2 id="R语言中常用的设置颜色的包："><a href="#R语言中常用的设置颜色的包：" class="headerlink" title="R语言中常用的设置颜色的包："></a>R语言中常用的设置颜色的包：</h2><figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">library(RColorBrewer)</span><br><span class="line">display.brewer.all()</span><br><span class="line">display.brewer.pal(10,&quot;Set3&quot;)</span><br><span class="line">brewer.pal(7,&quot;BrBG&quot;)</span><br><span class="line"></span><br><span class="line">library(ggsci)</span><br><span class="line">library(scales)</span><br><span class="line">show_col(pal_aaas(&quot;default&quot;, alpha &#x3D; 0.6)(7))   </span><br><span class="line">rgb_gsea(palette &#x3D; c(&quot;default&quot;), n &#x3D; 12, alpha &#x3D; 1, reverse &#x3D; FALSE)</span><br><span class="line">rgb_material(palette &#x3D; c(&quot;red&quot;, &quot;pink&quot;, &quot;purple&quot;, &quot;deep-purple&quot;, &quot;indigo&quot;,</span><br><span class="line">  &quot;blue&quot;, &quot;light-blue&quot;, &quot;cyan&quot;, &quot;teal&quot;, &quot;green&quot;, &quot;light-green&quot;, &quot;lime&quot;,</span><br><span class="line">  &quot;yellow&quot;, &quot;amber&quot;, &quot;orange&quot;, &quot;deep-orange&quot;, &quot;brown&quot;, &quot;grey&quot;, &quot;blue-grey&quot;),</span><br><span class="line">  n &#x3D; 10, alpha &#x3D; 1, reverse &#x3D; FALSE)</span><br><span class="line"></span><br><span class="line"># n：产生多少个独立的颜色</span><br><span class="line"># alpha：透明度</span><br><span class="line"># reverse：逻辑值，决定颜色的排序是否反序</span><br><span class="line"># palette：在rgb_material中有19种配色方案</span><br></pre></td></tr></table></figure>
-
-<h2 id="R语言中绘图推荐的包"><a href="#R语言中绘图推荐的包" class="headerlink" title="R语言中绘图推荐的包"></a>R语言中绘图推荐的包</h2><figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">library(ggplot2)</span><br><span class="line">library(ggpubr)</span><br></pre></td></tr></table></figure>
-
-<h2 id="参考链接："><a href="#参考链接：" class="headerlink" title="参考链接："></a><strong>参考链接：</strong></h2><p>(1) <a href="https://blog.csdn.net/m0_45248682/article/details/104077631" target="_blank" rel="noopener">ggsci包的使用</a><br>(2) <a href="https://blog.csdn.net/jethai/article/details/52345061" target="_blank" rel="noopener">RColorBrewer包的使用</a><br>(3) <a href="http://www.5tu.cn/colors/rgb-peisebiao.html" target="_blank" rel="noopener">所有R的配色及其对应code</a><br>(4)<a href="https://www.jianshu.com/p/c0ebba8d1853" target="_blank" rel="noopener">ggpubr包的使用</a></p>
-]]></content>
-      <categories>
-        <category>编程语言</category>
-      </categories>
-      <tags>
-        <tag>R,颜色</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>每日迭代系统</title>
     <url>/2020/07/05/01-%E6%AF%8F%E6%97%A5%E8%BF%AD%E4%BB%A3%E7%B3%BB%E7%BB%9F/</url>
     <content><![CDATA[<h3 id="每日必做："><a href="#每日必做：" class="headerlink" title="每日必做："></a>每日必做：</h3><p>（1）制作工作计划：前天晚上9点左右</p>
@@ -58,6 +40,39 @@ sci-hub: https://scihub.wikicn.top/
       </tags>
   </entry>
   <entry>
+    <title>2021_aha_moment</title>
+    <url>/2021/01/28/1/</url>
+    <content><![CDATA[<h1 id="这里主要写下2021年所有启发，这是2021年最值得期待的时刻，也是自己成长的👣的见证"><a href="#这里主要写下2021年所有启发，这是2021年最值得期待的时刻，也是自己成长的👣的见证" class="headerlink" title="这里主要写下2021年所有启发，这是2021年最值得期待的时刻，也是自己成长的👣的见证"></a>这里主要写下2021年所有启发，这是2021年最值得期待的时刻，也是自己成长的👣的见证</h1><ol>
+<li>对小磕小碰的态度：虽不可避免，尽量小心和防患于未然；<br> -【来源打篮球磕碰事件】</li>
+<li>生活中难免有小磕小碰，事情虽然可能不大，但对正常的生活状态和心情影响挺大；<br> -【换药6次*2h + 两次急诊 + 不能洗脸洗头】</li>
+<li>做事儿做完美：走完99步，最后1步没走，也是失败；<br> -【来源于《见识》/ 和买礼物事件（既然送礼，就别心疼，用心送到心里）】</li>
+<li>每天看起来都很忙，但是做计划和不作计划还是有非常大的区别：一个是穷忙，一个是高效有产出的忙；</li>
+<li>没有调理的信息一文不值，甚至会起到反作用<br> -【写到有用的函数，及时打包成R package；整理到有用的生物信息学 知识，及时整理到自己的R_for_Data_Science一书；整理有用的启发时刻，到自己的个人主页上】</li>
+</ol>
+]]></content>
+      <tags>
+        <tag>启发</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>R语言中常用的颜色设置</title>
+    <url>/2020/06/25/R%E4%B8%AD%E5%B8%B8%E7%94%A8%E7%9A%84%E9%A2%9C%E8%89%B2%E8%AE%BE%E7%BD%AE/</url>
+    <content><![CDATA[<h2 id="R语言中常用的specific-colors："><a href="#R语言中常用的specific-colors：" class="headerlink" title="R语言中常用的specific colors："></a>R语言中常用的specific colors：</h2><figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">col_heatmap1 &lt;- colorRampPalette(rev(c(&quot;Yellow&quot;, &quot;black&quot;,&quot;#FF00FF&quot;)))( 10)</span><br><span class="line"></span><br><span class="line">col_heatmap2 &lt;- colorRampPalette(rev(c(&quot;#67001F&quot;, &quot;#B2182B&quot;, &quot;#D6604D&quot;, &quot;#F4A582&quot;,</span><br><span class="line">                               &quot;#FDDBC7&quot;, &quot;#FFFFFF&quot;, &quot;#D1E5F0&quot;, &quot;#92C5DE&quot;,</span><br><span class="line">                               &quot;#4393C3&quot;, &quot;#2166AC&quot;, &quot;#053061&quot;)))(11)</span><br><span class="line">                               #colors for clusters </span><br><span class="line">cluster_col &lt;- c(&quot;#E64B35FF&quot;,&quot;#4DBBD5FF&quot;,&quot;#E7298A&quot;,&quot;#3C5488FF&quot;,&quot;#7E6148FF&quot;,</span><br><span class="line">                 &quot;#BA55D3&quot;,&quot;#00A087FF&quot;,&quot;#FFA500&quot;,&quot;#B3DE69&quot;,&quot;#BEBADA&quot;,&quot;#000000&quot;) #all colors are significant difference</span><br></pre></td></tr></table></figure>
+
+<h2 id="R语言中常用的设置颜色的包："><a href="#R语言中常用的设置颜色的包：" class="headerlink" title="R语言中常用的设置颜色的包："></a>R语言中常用的设置颜色的包：</h2><figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">library(RColorBrewer)</span><br><span class="line">display.brewer.all()</span><br><span class="line">display.brewer.pal(10,&quot;Set3&quot;)</span><br><span class="line">brewer.pal(7,&quot;BrBG&quot;)</span><br><span class="line"></span><br><span class="line">library(ggsci)</span><br><span class="line">library(scales)</span><br><span class="line">show_col(pal_aaas(&quot;default&quot;, alpha &#x3D; 0.6)(7))   </span><br><span class="line">rgb_gsea(palette &#x3D; c(&quot;default&quot;), n &#x3D; 12, alpha &#x3D; 1, reverse &#x3D; FALSE)</span><br><span class="line">rgb_material(palette &#x3D; c(&quot;red&quot;, &quot;pink&quot;, &quot;purple&quot;, &quot;deep-purple&quot;, &quot;indigo&quot;,</span><br><span class="line">  &quot;blue&quot;, &quot;light-blue&quot;, &quot;cyan&quot;, &quot;teal&quot;, &quot;green&quot;, &quot;light-green&quot;, &quot;lime&quot;,</span><br><span class="line">  &quot;yellow&quot;, &quot;amber&quot;, &quot;orange&quot;, &quot;deep-orange&quot;, &quot;brown&quot;, &quot;grey&quot;, &quot;blue-grey&quot;),</span><br><span class="line">  n &#x3D; 10, alpha &#x3D; 1, reverse &#x3D; FALSE)</span><br><span class="line"></span><br><span class="line"># n：产生多少个独立的颜色</span><br><span class="line"># alpha：透明度</span><br><span class="line"># reverse：逻辑值，决定颜色的排序是否反序</span><br><span class="line"># palette：在rgb_material中有19种配色方案</span><br></pre></td></tr></table></figure>
+
+<h2 id="R语言中绘图推荐的包"><a href="#R语言中绘图推荐的包" class="headerlink" title="R语言中绘图推荐的包"></a>R语言中绘图推荐的包</h2><figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">library(ggplot2)</span><br><span class="line">library(ggpubr)</span><br></pre></td></tr></table></figure>
+
+<h2 id="参考链接："><a href="#参考链接：" class="headerlink" title="参考链接："></a><strong>参考链接：</strong></h2><p>(1) <a href="https://blog.csdn.net/m0_45248682/article/details/104077631" target="_blank" rel="noopener">ggsci包的使用</a><br>(2) <a href="https://blog.csdn.net/jethai/article/details/52345061" target="_blank" rel="noopener">RColorBrewer包的使用</a><br>(3) <a href="http://www.5tu.cn/colors/rgb-peisebiao.html" target="_blank" rel="noopener">所有R的配色及其对应code</a><br>(4)<a href="https://www.jianshu.com/p/c0ebba8d1853" target="_blank" rel="noopener">ggpubr包的使用</a></p>
+]]></content>
+      <categories>
+        <category>编程语言</category>
+      </categories>
+      <tags>
+        <tag>R,颜色</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>linux常用命令积累</title>
     <url>/2020/06/24/linux%E5%B8%B8%E7%94%A8%E5%91%BD%E4%BB%A4%E7%A7%AF%E7%B4%AF/</url>
     <content><![CDATA[<p>（1）常用基本命令<br>cp //拷贝<br>touch //新建空白文件<br>rm //删除文件<br>mkdir //新建文件夹<br>rmdir //删除文件夹<br>mv //移动文件</p>
@@ -70,6 +85,25 @@ sci-hub: https://scihub.wikicn.top/
       </categories>
       <tags>
         <tag>linux</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>个人简介</title>
+    <url>/2020/09/09/1/</url>
+    <content><![CDATA[<p><img src="/2020/09/09/1/Yujijun_part1.png" alt="yujijun_CV"><br><img src="/2020/09/09/1/Yujijun_part2.png" alt><br><img src="/2020/09/09/1/Yujijun_part3.png" alt></p>
+]]></content>
+  </entry>
+  <entry>
+    <title>我的第一个博客----今天是我26岁的生日</title>
+    <url>/2020/06/23/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E4%B8%AA%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/</url>
+    <content><![CDATA[<h2 id="新一岁的日常："><a href="#新一岁的日常：" class="headerlink" title="新一岁的日常："></a>新一岁的日常：</h2><p>（1）休息：早睡早起。<br>（2）工作：用好每一刻钟，随时进入心流，高效工作。<br>（3）健身:  增肌减脂，增强体能。<br>（4）习惯：建立成型的习惯打卡计划。</p>
+<h2 id="新一岁的目标："><a href="#新一岁的目标：" class="headerlink" title="新一岁的目标："></a>新一岁的目标：</h2><p>（1）学好专业知识：癌症免疫学/Neoantigen/生物信息学分析技能 —-&gt; 每天进步一点点，每天都有输出（一篇博客）<br>（2）学好基础技能： Oral English/English writing/Code（R and Python）/Mac—-&gt; 每天进步一点点，每天都有输出（一篇博客）<br>（3）做一个会思考的人：每天深入思考生活中的一个问题，查询可执行的答案，每天都有输出（一篇博客）</p>
+]]></content>
+      <categories>
+        <category>日常</category>
+      </categories>
+      <tags>
+        <tag>生日</tag>
       </tags>
   </entry>
   <entry>
@@ -98,25 +132,6 @@ sci-hub: https://scihub.wikicn.top/
       </categories>
       <tags>
         <tag>前端技术</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>个人简介</title>
-    <url>/2020/09/09/1/</url>
-    <content><![CDATA[<p><img src="/2020/09/09/1/Yujijun_part1.png" alt="yujijun_CV"><br><img src="/2020/09/09/1/Yujijun_part2.png" alt><br><img src="/2020/09/09/1/Yujijun_part3.png" alt></p>
-]]></content>
-  </entry>
-  <entry>
-    <title>我的第一个博客----今天是我26岁的生日</title>
-    <url>/2020/06/23/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E4%B8%AA%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/</url>
-    <content><![CDATA[<h2 id="新一岁的日常："><a href="#新一岁的日常：" class="headerlink" title="新一岁的日常："></a>新一岁的日常：</h2><p>（1）休息：早睡早起。<br>（2）工作：用好每一刻钟，随时进入心流，高效工作。<br>（3）健身:  增肌减脂，增强体能。<br>（4）习惯：建立成型的习惯打卡计划。</p>
-<h2 id="新一岁的目标："><a href="#新一岁的目标：" class="headerlink" title="新一岁的目标："></a>新一岁的目标：</h2><p>（1）学好专业知识：癌症免疫学/Neoantigen/生物信息学分析技能 —-&gt; 每天进步一点点，每天都有输出（一篇博客）<br>（2）学好基础技能： Oral English/English writing/Code（R and Python）/Mac—-&gt; 每天进步一点点，每天都有输出（一篇博客）<br>（3）做一个会思考的人：每天深入思考生活中的一个问题，查询可执行的答案，每天都有输出（一篇博客）</p>
-]]></content>
-      <categories>
-        <category>日常</category>
-      </categories>
-      <tags>
-        <tag>生日</tag>
       </tags>
   </entry>
 </search>
