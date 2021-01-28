@@ -82,6 +82,7 @@ sci-hub: https://scihub.wikicn.top/
 <li>英语论文搭配+语法网站，如下：<br><img src="/2021/01/28/1/%E5%AD%A6%E6%9C%AF%E6%90%9C%E7%B4%A2.png" alt="学术搜索"></li>
 </ul>
 </li>
+<li>Mindmaster 进行幻灯展示</li>
 </ol>
 ]]></content>
       <tags>
@@ -128,19 +129,6 @@ sci-hub: https://scihub.wikicn.top/
 ]]></content>
   </entry>
   <entry>
-    <title>我的第一个博客----今天是我26岁的生日</title>
-    <url>/2020/06/23/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E4%B8%AA%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/</url>
-    <content><![CDATA[<h2 id="新一岁的日常："><a href="#新一岁的日常：" class="headerlink" title="新一岁的日常："></a>新一岁的日常：</h2><p>（1）休息：早睡早起。<br>（2）工作：用好每一刻钟，随时进入心流，高效工作。<br>（3）健身:  增肌减脂，增强体能。<br>（4）习惯：建立成型的习惯打卡计划。</p>
-<h2 id="新一岁的目标："><a href="#新一岁的目标：" class="headerlink" title="新一岁的目标："></a>新一岁的目标：</h2><p>（1）学好专业知识：癌症免疫学/Neoantigen/生物信息学分析技能 —-&gt; 每天进步一点点，每天都有输出（一篇博客）<br>（2）学好基础技能： Oral English/English writing/Code（R and Python）/Mac—-&gt; 每天进步一点点，每天都有输出（一篇博客）<br>（3）做一个会思考的人：每天深入思考生活中的一个问题，查询可执行的答案，每天都有输出（一篇博客）</p>
-]]></content>
-      <categories>
-        <category>日常</category>
-      </categories>
-      <tags>
-        <tag>生日</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>搭建个人的博客网站</title>
     <url>/2020/06/23/%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2%E7%BD%91%E7%AB%99/</url>
     <content><![CDATA[<p>本博客主要记录了我搭建个人博客和简历的参考网址，希望能在日后用到的时候有个回顾。</p>
@@ -166,6 +154,19 @@ sci-hub: https://scihub.wikicn.top/
       </categories>
       <tags>
         <tag>前端技术</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>我的第一个博客----今天是我26岁的生日</title>
+    <url>/2020/06/23/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E4%B8%AA%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/</url>
+    <content><![CDATA[<h2 id="新一岁的日常："><a href="#新一岁的日常：" class="headerlink" title="新一岁的日常："></a>新一岁的日常：</h2><p>（1）休息：早睡早起。<br>（2）工作：用好每一刻钟，随时进入心流，高效工作。<br>（3）健身:  增肌减脂，增强体能。<br>（4）习惯：建立成型的习惯打卡计划。</p>
+<h2 id="新一岁的目标："><a href="#新一岁的目标：" class="headerlink" title="新一岁的目标："></a>新一岁的目标：</h2><p>（1）学好专业知识：癌症免疫学/Neoantigen/生物信息学分析技能 —-&gt; 每天进步一点点，每天都有输出（一篇博客）<br>（2）学好基础技能： Oral English/English writing/Code（R and Python）/Mac—-&gt; 每天进步一点点，每天都有输出（一篇博客）<br>（3）做一个会思考的人：每天深入思考生活中的一个问题，查询可执行的答案，每天都有输出（一篇博客）</p>
+]]></content>
+      <categories>
+        <category>日常</category>
+      </categories>
+      <tags>
+        <tag>生日</tag>
       </tags>
   </entry>
 </search>
