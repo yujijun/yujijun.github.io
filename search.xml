@@ -1,34 +1,54 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>2021_aha_moment</title>
-    <url>/2021/01/28/1/</url>
-    <content><![CDATA[<h1 id="这里主要写下2021年所有启发，这是2021年最值得期待的时刻，也是自己成长的👣的见证"><a href="#这里主要写下2021年所有启发，这是2021年最值得期待的时刻，也是自己成长的👣的见证" class="headerlink" title="这里主要写下2021年所有启发，这是2021年最值得期待的时刻，也是自己成长的👣的见证"></a>这里主要写下2021年所有启发，这是2021年最值得期待的时刻，也是自己成长的👣的见证</h1><ol>
-<li><p>对小磕小碰的态度：虽不可避免，尽量小心和防患于未然；<br> -【来源打篮球磕碰事件】</p>
-</li>
-<li><p>生活中难免有小磕小碰，事情虽然可能不大，但对正常的生活状态和心情影响挺大；<br> -【换药6次*2h + 两次急诊 + 不能洗脸洗头】</p>
-</li>
-<li><p>做事儿做完美：走完99步，最后1步没走，也是失败；<br> -【来源于《见识》/ 和买礼物事件（既然送礼，就别心疼，用心送到心里）】</p>
-</li>
-<li><p>每天看起来都很忙，但是做计划和不作计划还是有非常大的区别：一个是穷忙，一个是高效有产出的忙；</p>
-</li>
-<li><p>没有调理的信息一文不值，甚至会起到反作用<br> -【所有网页标签归类了么？电脑文件夹有多乱，有多少无用信息？… …】</p>
-</li>
-<li><p>你以为你以为的就是你以为的？一定要常常问自己这句话，反思自己有太多的事儿是下意识就去做了，完全没有理性思考，一定要常常激发自己的慢思考；<br> -【因为在第一天早上换的第一次药，之后就要每天都早上去么？； 《思考的快与慢》】</p>
-</li>
-<li><p>积累-思考每一个值得积累的事儿，认真积累起来，这不就是千里之行始于足下的道理么？反思过去，我到底扔了多少瓦砾。<br> -【写到有用的函数，及时打包成R package；整理到有用的生物信息学 知识，及时整理到自己的R_for_Data_Science一书；整理有用的启发时刻，到自己的个人主页上；有用的网页标签做好整理】</p>
-</li>
-<li><p>严于律己，宽以待人，别较真；<br> -【我今天有点明白较真的根本原因了，其实就是以自己的想法要求别人，给别人 灌输自己的想法，想要改变别人，想要别人按你的意愿做，事实上没个人都不同，做事的方法也没有对与错，只是对这件事的理解不一样而已，没法要求别人向自己一样做，所以能做的就是把自己的事情做好】</p>
-</li>
-<li><p>对于别人问问题的时候，无论问题怎么样，态度平和谦逊，不带任何情绪的解决问题，别评论别人问题的好坏，如果不想解决，直接推辞就好，不用类似落井下石似的说三道四 ；<br> -【对于带硕士学习的启发，不能只与自己能力相当的人合作，要学会和能力比你差的人一起共处】</p>
-</li>
-</ol>
+    <title>个人简介</title>
+    <url>/2020/09/09/1/</url>
+    <content><![CDATA[<p><img src="/2020/09/09/1/Yujijun_part1.png" alt="yujijun_CV"><br><img src="/2020/09/09/1/Yujijun_part2.png" alt><br><img src="/2020/09/09/1/Yujijun_part3.png" alt></p>
 ]]></content>
       <categories>
-        <category>启发</category>
+        <category>成长</category>
       </categories>
       <tags>
-        <tag>启发</tag>
+        <tag>成长</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>每日迭代系统</title>
+    <url>/2020/07/05/01-%E6%AF%8F%E6%97%A5%E8%BF%AD%E4%BB%A3%E7%B3%BB%E7%BB%9F/</url>
+    <content><![CDATA[<h3 id="每日必做："><a href="#每日必做：" class="headerlink" title="每日必做："></a>每日必做：</h3><p>（1）制作工作计划：前天晚上9点左右</p>
+<p>（2）做工作记录和工作总结：工作记录在Evernote、工作总结到（Evernote、博客、github）</p>
+<p>（3）写日记：每天晚上总结今天生活和工作</p>
+<p>（4）空闲时间，抽空检索阅读paper</p>
+<p>   (5)  检查每日邮件</p>
+<p>   (6)每天必须打开的网站</p>
+<h3 id="相关链接"><a href="#相关链接" class="headerlink" title="相关链接"></a>相关链接</h3><p>** 1.工作计划：**</p>
+<pre><code>Calender(Local):  Alfred -&gt; Calender
+
+Focus Matrix(local): Alfred -&gt; Focus Matrix （工作上的事儿）
+
+Stickies: Alfred -&gt; stickies (生活上的事儿)</code></pre><p> <strong>2. 工作记录和工作总结：</strong></p>
+<pre><code>印象笔记（本地）-&gt; 02-项目管理|8月份项目记录
+
+博客：https://yujijun.github.io/ （用来更新值得长期留存记忆的东西）
+
+github: https://github.com/yujijun (用来更新每天的code)</code></pre><p><strong>3.日记：</strong></p>
+<pre><code>印象笔记（本地）-&gt; 000-2020.08-八月份日记</code></pre><p><strong>4.文章阅读：</strong></p>
+<pre><code>pubmadpro: https://www.pubmed.pro/home
+
+sci-hub: https://scihub.wikicn.top/
+
+文章追踪软件：</code></pre><p><strong>5. 邮件</strong></p>
+<p>  学习邮箱： <a href="mailto:jijunyuedu@outlook.com">jijunyuedu@outlook.com</a></p>
+<p>  gmail邮箱：  <a href="mailto:jijunyu140@gmail.com">jijunyu140@gmail.com</a></p>
+<p>  QQ邮箱：<a href="mailto:1260297406@qq.com">1260297406@qq.com</a></p>
+<p><strong>6.网站</strong></p>
+<p>任务管理网站： Teambition</p>
+]]></content>
+      <categories>
+        <category>成长</category>
+      </categories>
+      <tags>
+        <tag>成长</tag>
       </tags>
   </entry>
   <entry>
@@ -76,6 +96,73 @@
       </tags>
   </entry>
   <entry>
+    <title>2021_aha_moment</title>
+    <url>/2021/01/28/1/</url>
+    <content><![CDATA[<h1 id="这里主要写下2021年所有启发，这是2021年最值得期待的时刻，也是自己成长的👣的见证"><a href="#这里主要写下2021年所有启发，这是2021年最值得期待的时刻，也是自己成长的👣的见证" class="headerlink" title="这里主要写下2021年所有启发，这是2021年最值得期待的时刻，也是自己成长的👣的见证"></a>这里主要写下2021年所有启发，这是2021年最值得期待的时刻，也是自己成长的👣的见证</h1><ol>
+<li><p>对小磕小碰的态度：虽不可避免，尽量小心和防患于未然；<br> -【来源打篮球磕碰事件】</p>
+</li>
+<li><p>生活中难免有小磕小碰，事情虽然可能不大，但对正常的生活状态和心情影响挺大；<br> -【换药6次*2h + 两次急诊 + 不能洗脸洗头】</p>
+</li>
+<li><p>做事儿做完美：走完99步，最后1步没走，也是失败；<br> -【来源于《见识》/ 和买礼物事件（既然送礼，就别心疼，用心送到心里）】</p>
+</li>
+<li><p>每天看起来都很忙，但是做计划和不作计划还是有非常大的区别：一个是穷忙，一个是高效有产出的忙；</p>
+</li>
+<li><p>没有调理的信息一文不值，甚至会起到反作用<br> -【所有网页标签归类了么？电脑文件夹有多乱，有多少无用信息？… …】</p>
+</li>
+<li><p>你以为你以为的就是你以为的？一定要常常问自己这句话，反思自己有太多的事儿是下意识就去做了，完全没有理性思考，一定要常常激发自己的慢思考；<br> -【因为在第一天早上换的第一次药，之后就要每天都早上去么？； 《思考的快与慢》】</p>
+</li>
+<li><p>积累-思考每一个值得积累的事儿，认真积累起来，这不就是千里之行始于足下的道理么？反思过去，我到底扔了多少瓦砾。<br> -【写到有用的函数，及时打包成R package；整理到有用的生物信息学 知识，及时整理到自己的R_for_Data_Science一书；整理有用的启发时刻，到自己的个人主页上；有用的网页标签做好整理】</p>
+</li>
+<li><p>严于律己，宽以待人，别较真；<br> -【我今天有点明白较真的根本原因了，其实就是以自己的想法要求别人，给别人 灌输自己的想法，想要改变别人，想要别人按你的意愿做，事实上没个人都不同，做事的方法也没有对与错，只是对这件事的理解不一样而已，没法要求别人向自己一样做，所以能做的就是把自己的事情做好】</p>
+</li>
+<li><p>对于别人问问题的时候，无论问题怎么样，态度平和谦逊，不带任何情绪的解决问题，别评论别人问题的好坏，如果不想解决，直接推辞就好，不用类似落井下石似的说三道四 ；<br> -【对于带硕士学习的启发，不能只与自己能力相当的人合作，要学会和能力比你差的人一起共处】</p>
+</li>
+</ol>
+]]></content>
+      <categories>
+        <category>启发</category>
+      </categories>
+      <tags>
+        <tag>启发</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>希望自己20岁就懂的10个道理</title>
+    <url>/2021/02/05/1/</url>
+    <content><![CDATA[<p>1.做决定要果断，不要犹犹豫豫，因为人生不可能每个决定都是对的，决定的好坏和时间长短并没有决定性的原因<br>Don’t be hesitant when you make a decision </p>
+<p>2.多和比你成功的人在一起和交往，人和人的区别就是看你如何处理问题<br>Work in an excellent environment </p>
+<p>3.确立人生目标，马上去做，做了就知道哪里不懂了. 别被目标本身吓到，可能做起来并没有那么难<br>Build a target and try your best to do it</p>
+<p>4.期待并且不怕生活中的问题，在一个个解决问题的过程中提升自己，人生苦难重重<br>Face your life bravely </p>
+<p>5.终身学习<br>study in your whole life </p>
+<p>6.对自己的决定负责任，别过分对别人负责任<br>Be Responsible for yourself </p>
+<p>7.面对现实，不要欺骗自己，勇敢面对自己的内心 follow your heart </p>
+<p>8.面对自己不了解的事情，不要瞎猜测，而是去查 去问<br>If you don’t know just ask but not guess </p>
+<p>9.世界上没有偷懒的捷径，一份付出一份收获</p>
+<p>Don’t try get something without hard work </p>
+<p>10.学习东西是有快慢的和捷径的<br>Learn something smartly </p>
+]]></content>
+      <categories>
+        <category>启发</category>
+      </categories>
+      <tags>
+        <tag>启发</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>人生由每一个小选择铸就</title>
+    <url>/2021/02/05/1/</url>
+    <content><![CDATA[<p>人生是由每天的几个关键小抉择铸就</p>
+<p>（1）起床-每天早上闹钟响的时候是否起床；<br>        -【每天4点半起床，在所有人还在睡眠中时，我已经出发，开始元气满满的一天】<br>（2）规划-早上坐在电脑前面的第一个工作，是否选择先规划一下一天的生活；<br>        - 【仿佛每时每刻都带着地图上图，任何时候都不会迷茫】<br>（3）行动- 开始做事儿之前是否选择尽量排除工作中可能受到的干扰；<br>        - 【主动选择去减少生活中的干扰：开启番茄钟，戴耳塞，手机调成勿扰模式】<br>（4）整理- 晚上合上电脑之前，是否选择先整理一下桌面<br>        -【让第二天准备开始工作的时刻，心情畅爽：清理电脑桌面和实体桌面】<br>（5）少看视频-每天想要拿起手机开视频的时候，时候能够用在重要的事情上，比如把看视频的时间腾挪出来给自己爱的人发微信。- 【心中有人，有梦，有烟火，不只让视频陪伴自己】<br>（6）遇到任何事情，第一反应不是拖着，而是选择想方设法去解决；<br>        -【不懂的问题及时查/马上思考学习路线，一看就会，则立马解决；立马解决不掉，则设计学习路线，开始一点点学习；立马理解不了，写在 to do list 中/向别人求助/寻求合作】</p>
+<p>每天关键瞬间的小选择 -&gt; 好习惯 -&gt; 大选择 -&gt; 大成就</p>
+]]></content>
+      <categories>
+        <category>启发</category>
+      </categories>
+      <tags>
+        <tag>启发</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>R语言中常用的颜色设置</title>
     <url>/2020/06/25/R%E4%B8%AD%E5%B8%B8%E7%94%A8%E7%9A%84%E9%A2%9C%E8%89%B2%E8%AE%BE%E7%BD%AE/</url>
     <content><![CDATA[<h2 id="R语言中常用的specific-colors："><a href="#R语言中常用的specific-colors：" class="headerlink" title="R语言中常用的specific colors："></a>R语言中常用的specific colors：</h2><figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">col_heatmap1 &lt;- colorRampPalette(rev(c(&quot;Yellow&quot;, &quot;black&quot;,&quot;#FF00FF&quot;)))( 10)</span><br><span class="line"></span><br><span class="line">col_heatmap2 &lt;- colorRampPalette(rev(c(&quot;#67001F&quot;, &quot;#B2182B&quot;, &quot;#D6604D&quot;, &quot;#F4A582&quot;,</span><br><span class="line">                               &quot;#FDDBC7&quot;, &quot;#FFFFFF&quot;, &quot;#D1E5F0&quot;, &quot;#92C5DE&quot;,</span><br><span class="line">                               &quot;#4393C3&quot;, &quot;#2166AC&quot;, &quot;#053061&quot;)))(11)</span><br><span class="line">                               #colors for clusters </span><br><span class="line">cluster_col &lt;- c(&quot;#E64B35FF&quot;,&quot;#4DBBD5FF&quot;,&quot;#E7298A&quot;,&quot;#3C5488FF&quot;,&quot;#7E6148FF&quot;,</span><br><span class="line">                 &quot;#BA55D3&quot;,&quot;#00A087FF&quot;,&quot;#FFA500&quot;,&quot;#B3DE69&quot;,&quot;#BEBADA&quot;,&quot;#000000&quot;) #all colors are significant difference</span><br></pre></td></tr></table></figure>
@@ -108,71 +195,6 @@
       </categories>
       <tags>
         <tag>linux服务器</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>每日迭代系统</title>
-    <url>/2020/07/05/01-%E6%AF%8F%E6%97%A5%E8%BF%AD%E4%BB%A3%E7%B3%BB%E7%BB%9F/</url>
-    <content><![CDATA[<h3 id="每日必做："><a href="#每日必做：" class="headerlink" title="每日必做："></a>每日必做：</h3><p>（1）制作工作计划：前天晚上9点左右</p>
-<p>（2）做工作记录和工作总结：工作记录在Evernote、工作总结到（Evernote、博客、github）</p>
-<p>（3）写日记：每天晚上总结今天生活和工作</p>
-<p>（4）空闲时间，抽空检索阅读paper</p>
-<p>   (5)  检查每日邮件</p>
-<p>   (6)每天必须打开的网站</p>
-<h3 id="相关链接"><a href="#相关链接" class="headerlink" title="相关链接"></a>相关链接</h3><p>** 1.工作计划：**</p>
-<pre><code>Calender(Local):  Alfred -&gt; Calender
-
-Focus Matrix(local): Alfred -&gt; Focus Matrix （工作上的事儿）
-
-Stickies: Alfred -&gt; stickies (生活上的事儿)</code></pre><p> <strong>2. 工作记录和工作总结：</strong></p>
-<pre><code>印象笔记（本地）-&gt; 02-项目管理|8月份项目记录
-
-博客：https://yujijun.github.io/ （用来更新值得长期留存记忆的东西）
-
-github: https://github.com/yujijun (用来更新每天的code)</code></pre><p><strong>3.日记：</strong></p>
-<pre><code>印象笔记（本地）-&gt; 000-2020.08-八月份日记</code></pre><p><strong>4.文章阅读：</strong></p>
-<pre><code>pubmadpro: https://www.pubmed.pro/home
-
-sci-hub: https://scihub.wikicn.top/
-
-文章追踪软件：</code></pre><p><strong>5. 邮件</strong></p>
-<p>  学习邮箱： <a href="mailto:jijunyuedu@outlook.com">jijunyuedu@outlook.com</a></p>
-<p>  gmail邮箱：  <a href="mailto:jijunyu140@gmail.com">jijunyu140@gmail.com</a></p>
-<p>  QQ邮箱：<a href="mailto:1260297406@qq.com">1260297406@qq.com</a></p>
-<p><strong>6.网站</strong></p>
-<p>任务管理网站： Teambition</p>
-]]></content>
-      <categories>
-        <category>成长</category>
-      </categories>
-      <tags>
-        <tag>成长</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>个人简介</title>
-    <url>/2020/09/09/1/</url>
-    <content><![CDATA[<p><img src="/2020/09/09/1/Yujijun_part1.png" alt="yujijun_CV"><br><img src="/2020/09/09/1/Yujijun_part2.png" alt><br><img src="/2020/09/09/1/Yujijun_part3.png" alt></p>
-]]></content>
-      <categories>
-        <category>成长</category>
-      </categories>
-      <tags>
-        <tag>成长</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>人生由每一个小选择铸就</title>
-    <url>/2021/02/05/1/</url>
-    <content><![CDATA[<p>人生是由每天的几个关键小抉择铸就</p>
-<p>（1）起床-每天早上闹钟响的时候是否起床；<br>        -【每天4点半起床，在所有人还在睡眠中时，我已经出发，开始元气满满的一天】<br>（2）规划-早上坐在电脑前面的第一个工作，是否选择先规划一下一天的生活；<br>        - 【仿佛每时每刻都带着地图上图，任何时候都不会迷茫】<br>（3）行动- 开始做事儿之前是否选择尽量排除工作中可能受到的干扰；<br>        - 【主动选择去减少生活中的干扰：开启番茄钟，戴耳塞，手机调成勿扰模式】<br>（4）整理- 晚上合上电脑之前，是否选择先整理一下桌面<br>        -【让第二天准备开始工作的时刻，心情畅爽：清理电脑桌面和实体桌面】<br>（5）少看视频-每天想要拿起手机开视频的时候，时候能够用在重要的事情上，比如把看视频的时间腾挪出来给自己爱的人发微信。- 【心中有人，有梦，有烟火，不只让视频陪伴自己】<br>（6）遇到任何事情，第一反应不是拖着，而是选择想方设法去解决；<br>        -【不懂的问题及时查/马上思考学习路线，一看就会，则立马解决；立马解决不掉，则设计学习路线，开始一点点学习；立马理解不了，写在 to do list 中/向别人求助/寻求合作】</p>
-<p>每天关键瞬间的小选择 -&gt; 好习惯 -&gt; 大选择 -&gt; 大成就</p>
-]]></content>
-      <categories>
-        <category>启发</category>
-      </categories>
-      <tags>
-        <tag>启发</tag>
       </tags>
   </entry>
   <entry>
