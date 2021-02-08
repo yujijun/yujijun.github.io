@@ -1,17 +1,12 @@
 <!DOCTYPE html>
-
-<html lang="zh-Hans">
-
+<html>
 <head>
-  
-  <title>R语言中常用的颜色设置 - 小于的个人空间</title>
-  <meta charset="UTF-8">
-  <meta name="description" content="努力奔向太阳🌞">
-  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=5">
-  
+  <meta charset="utf-8">
   
 
-  <link rel="shortcut icon" href="/favicon.ico" type="image/png" />
+  
+  <title>R语言中常用的颜色设置 | 小于的个人空间</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
   <meta name="description" content="R语言中常用的specific colors：12345678col_heatmap1 &lt;- colorRampPalette(rev(c(&quot;Yellow&quot;, &quot;black&quot;,&quot;#FF00FF&quot;)))( 10)col_heatmap2 &lt;- colorRampPalette(rev(c(&quot;#67001F&quot;,">
 <meta property="og:type" content="article">
 <meta property="og:title" content="R语言中常用的颜色设置">
@@ -25,176 +20,85 @@
 <meta property="article:tag" content="Color">
 <meta property="article:tag" content="Code">
 <meta name="twitter:card" content="summary">
-  <link rel="stylesheet" href="https://cdn.jsdelivr.net/combine/npm/highlight.js@9.15.8/styles/atom-one-dark.css,gh/nexmoe/nexmoe.github.io@latest/lib/mdui_043tiny/css/mdui.css,gh/nexmoe/nexmoe.github.io@latest/lib/iconfont/iconfont.css,gh/fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.css?v=233" crossorigin>
-  <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/justifiedGallery@3.8.1/dist/css/justifiedGallery.min.css">
   
-  <link rel="stylesheet" href="/css/style.css?v=1612605421581">
+    <link rel="alternate" href="/atom.xml" title="小于的个人空间" type="application/atom+xml">
+  
+  
+    <link rel="icon" href="/favicon.png">
+  
+  
+    <link href="//fonts.googleapis.com/css?family=Source+Code+Pro" rel="stylesheet" type="text/css">
+  
+  
+<link rel="stylesheet" href="/css/style.css">
+
 <meta name="generator" content="Hexo 4.2.1"></head>
 
-<body class="mdui-drawer-body-left">
-  
-  <div id="nexmoe-background">
-    <div class="nexmoe-bg" style="background-image: url(https://cdn.jsdelivr.net/gh/nexmoe/nexmoe.github.io@latest/images/cover/5c3aec85a4343.jpg)"></div>
-    <div class="mdui-appbar mdui-shadow-0">
-      <div class="mdui-toolbar">
-        <a mdui-drawer="{target: '#drawer', swipe: true}" title="menu" class="mdui-btn mdui-btn-icon mdui-ripple"><i class="mdui-icon nexmoefont icon-menu"></i></a>
-        <div class="mdui-toolbar-spacer"></div>
-        <!--<a href="javascript:;" class="mdui-btn mdui-btn-icon"><i class="mdui-icon material-icons">search</i></a>-->
-        <a href="/" title="jijunyu" class="mdui-btn mdui-btn-icon"><img src="https://cdn.jsdelivr.net/gh/nexmoe/nexmoe.github.io@latest/images/avatar.png" alt="jijunyu"></a>
-       </div>
+<body>
+  <div id="container">
+    <div id="wrap">
+      <header id="header">
+  <div id="banner"></div>
+  <div id="header-outer" class="outer">
+    <div id="header-title" class="inner">
+      <h1 id="logo-wrap">
+        <a href="/" id="logo">小于的个人空间</a>
+      </h1>
+      
+        <h2 id="subtitle-wrap">
+          <a href="/" id="subtitle">热爱生活，期待未来</a>
+        </h2>
+      
     </div>
-  </div>
-  <div id="nexmoe-header">
-      <div class="nexmoe-drawer mdui-drawer" id="drawer">
-    <div class="nexmoe-avatar mdui-ripple">
-        <a href="/" title="jijunyu">
-            <img src="https://cdn.jsdelivr.net/gh/nexmoe/nexmoe.github.io@latest/images/avatar.png" alt="jijunyu" alt="jijunyu">
-        </a>
-    </div>
-    <div class="nexmoe-count">
-        <div><span>Articles</span>11</div>
-        <div><span>Tags</span>9</div>
-        <div><span>Categories</span>2</div>
-    </div>
-    <div class="nexmoe-list mdui-list" mdui-collapse="{accordion: true}">
+    <div id="header-inner" class="inner">
+      <nav id="main-nav">
+        <a id="main-nav-toggle" class="nav-icon"></a>
         
-        <a class="nexmoe-list-item mdui-list-item mdui-ripple" href="/" title="回到首页">
-            <i class="mdui-list-item-icon nexmoefont icon-home"></i>
-            <div class="mdui-list-item-content">
-                回到首页
-            </div>
-        </a>
+          <a class="main-nav-link" href="/">Home</a>
         
-        <a class="nexmoe-list-item mdui-list-item mdui-ripple" href="/about.html" title="关于博客">
-            <i class="mdui-list-item-icon nexmoefont icon-info-circle"></i>
-            <div class="mdui-list-item-content">
-                关于博客
-            </div>
-        </a>
+          <a class="main-nav-link" href="/archives">Archives</a>
         
-        <a class="nexmoe-list-item mdui-list-item mdui-ripple" href="/PY.html" title="我的朋友">
-            <i class="mdui-list-item-icon nexmoefont icon-unorderedlist"></i>
-            <div class="mdui-list-item-content">
-                我的朋友
-            </div>
-        </a>
+      </nav>
+      <nav id="sub-nav">
         
-    </div>
-    <aside id="nexmoe-sidebar">
-  
-  <div class="nexmoe-widget-wrap">
-    <div class="nexmoe-widget nexmoe-search">
-        <form id="search_form" action_e="https://cn.bing.com/search?q=site:nexmoe.com" onsubmit="return search();">
-            <label><input id="search_value" name="q" type="search" placeholder="Search"></label>
-        </form>
-    </div>
-</div>
-  
-  <div class="nexmoe-widget-wrap">
-    <div class="nexmoe-widget nexmoe-social">
-        <a class="mdui-ripple" href="https://jq.qq.com/?_wv=1027&k=5CfKHun" target="_blank" mdui-tooltip="{content: 'QQ群'}" style="color: rgb(249, 174, 8);background-color: rgba(249, 174, 8, .1);">
-            <i class="nexmoefont icon-QQ"></i>
-        </a><a class="mdui-ripple" href="https://space.bilibili.com/20238211" target="_blank" mdui-tooltip="{content: '哔哩哔哩'}" style="color: rgb(231, 106, 141);background-color: rgba(231, 106, 141, .15);">
-            <i class="nexmoefont icon-bilibili"></i>
-        </a><a class="mdui-ripple" href="https://github.com/nexmoe/" target="_blank" mdui-tooltip="{content: 'GitHub'}" style="color: rgb(25, 23, 23);background-color: rgba(25, 23, 23, .15);">
-            <i class="nexmoefont icon-github"></i>
-        </a>
-    </div>
-</div>
-  
-  
-  <div class="nexmoe-widget-wrap">
-    <h3 class="nexmoe-widget-title">Categories</h3>
-    <div class="nexmoe-widget">
-
-      <ul class="category-list">
-
+          <a id="nav-rss-link" class="nav-icon" href="/atom.xml" title="RSS Feed"></a>
         
-
-
-        
-
-        
-
-        <li class="category-list-item">
-          <a class="category-list-link" href="/categories/成长/">成长</a>
-          <span class="category-list-count">7</span>
-        </li>
-
-        
-
-        <li class="category-list-item">
-          <a class="category-list-link" href="/categories/计算机技术/">计算机技术</a>
-          <span class="category-list-count">4</span>
-        </li>
-
-        
-      </ul>
-
-    </div>
-  </div>
-
-
-  
-  
-  <div class="nexmoe-widget-wrap">
-    <div id="randomtagcloud" class="nexmoe-widget tagcloud nexmoe-rainbow">
-      <a href="/tags/Code/" style="font-size: 15px;">Code</a> <a href="/tags/Color/" style="font-size: 10px;">Color</a> <a href="/tags/R/" style="font-size: 10px;">R</a> <a href="/tags/linux%E6%9C%8D%E5%8A%A1%E5%99%A8/" style="font-size: 10px;">linux服务器</a> <a href="/tags/%E5%89%8D%E7%AB%AF%E6%8A%80%E6%9C%AF/" style="font-size: 10px;">前端技术</a> <a href="/tags/%E5%90%AF%E5%8F%91/" style="font-size: 20px;">启发</a> <a href="/tags/%E5%B0%8F%E6%8A%80%E8%83%BD/" style="font-size: 10px;">小技能</a> <a href="/tags/%E6%88%90%E9%95%BF%E8%B6%B3%E8%BF%B9/" style="font-size: 20px;">成长足迹</a> <a href="/tags/%E6%97%A5%E5%B8%B8/" style="font-size: 10px;">日常</a>
-    </div>
-    
-  </div>
-
-  
-  
-  <div class="nexmoe-widget-wrap">
-    <h3 class="nexmoe-widget-title">Archive</h3>
-    <div class="nexmoe-widget">
-      <ul class="archive-list"><li class="archive-list-item"><a class="archive-list-link" href="/archives/2021/">2021</a><span class="archive-list-count">5</span></li><li class="archive-list-item"><a class="archive-list-link" href="/archives/2020/">2020</a><span class="archive-list-count">6</span></li></ul>
-    </div>
-  </div>
-
-
-<style>
-.nexmoe-widget .archive-list-count{
-	position : absolute;
-	right: 15px;
-	top:9px;
-	color: #DDD;
-}
-</style>
-
-  
-</aside>
-    <div class="nexmoe-copyright">
-        &copy; 2021 jijunyu
-        Powered by <a href="http://hexo.io/" target="_blank">Hexo</a>
-        & <a href="https://github.com/theme-nexmoe/hexo-theme-nexmoe" target="_blank">Nexmoe</a>
-        
-    </div>
-</div><!-- .nexmoe-drawer -->
-  </div>
-  <div id="nexmoe-content">
-    <div class="nexmoe-primary">
-        <div class="nexmoe-post">
-  
-      <div class="nexmoe-post-cover" style="padding-bottom: 20.833333333333336%;"> 
-          <img data-src="https://cdn.jsdelivr.net/gh/nexmoe/nexmoe.github.io@latest/images/cover/5c3aec85a4343.jpg" data-sizes="auto" alt="R语言中常用的颜色设置" class="lazyload">
-          <h1>R语言中常用的颜色设置</h1>
+        <a id="nav-search-btn" class="nav-icon" title="Search"></a>
+      </nav>
+      <div id="search-form-wrap">
+        <form action="//google.com/search" method="get" accept-charset="UTF-8" class="search-form"><input type="search" name="q" class="search-form-input" placeholder="Search"><button type="submit" class="search-form-submit">&#xF002;</button><input type="hidden" name="sitesearch" value="http://yoursite.com"></form>
       </div>
-  
-  
-  <div class="nexmoe-post-meta nexmoe-rainbow" style="margin:10px 0!important;">
-    <a><i class="nexmoefont icon-calendar-fill"></i>2020年06月25日</a>
-    <a><i class="nexmoefont icon-areachart"></i>249 字</a>
-    <a><i class="nexmoefont icon-time-circle-fill"></i>大概 1 分钟</a>
-</div>
-
-  <div class="nexmoe-post-right">
+    </div>
+  </div>
+</header>
+      <div class="outer">
+        <section id="main"><article id="post-R中常用的颜色设置" class="article article-type-post" itemscope itemprop="blogPost">
+  <div class="article-meta">
+    <a href="/2020/06/25/R%E4%B8%AD%E5%B8%B8%E7%94%A8%E7%9A%84%E9%A2%9C%E8%89%B2%E8%AE%BE%E7%BD%AE/" class="article-date">
+  <time datetime="2020-06-25T03:33:00.000Z" itemprop="datePublished">2020-06-25</time>
+</a>
     
+  <div class="article-category">
+    <a class="article-category-link" href="/categories/%E8%AE%A1%E7%AE%97%E6%9C%BA%E6%8A%80%E6%9C%AF/">计算机技术</a>
   </div>
 
-  <article>
-    <h2 id="R语言中常用的specific-colors："><a href="#R语言中常用的specific-colors：" class="headerlink" title="R语言中常用的specific colors："></a>R语言中常用的specific colors：</h2><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br></pre></td><td class="code"><pre><span class="line">col_heatmap1 &lt;- colorRampPalette(rev(c(&quot;Yellow&quot;, &quot;black&quot;,&quot;#FF00FF&quot;)))( 10)</span><br><span class="line"></span><br><span class="line">col_heatmap2 &lt;- colorRampPalette(rev(c(&quot;#67001F&quot;, &quot;#B2182B&quot;, &quot;#D6604D&quot;, &quot;#F4A582&quot;,</span><br><span class="line">                               &quot;#FDDBC7&quot;, &quot;#FFFFFF&quot;, &quot;#D1E5F0&quot;, &quot;#92C5DE&quot;,</span><br><span class="line">                               &quot;#4393C3&quot;, &quot;#2166AC&quot;, &quot;#053061&quot;)))(11)</span><br><span class="line">                               #colors for clusters </span><br><span class="line">cluster_col &lt;- c(&quot;#E64B35FF&quot;,&quot;#4DBBD5FF&quot;,&quot;#E7298A&quot;,&quot;#3C5488FF&quot;,&quot;#7E6148FF&quot;,</span><br><span class="line">                 &quot;#BA55D3&quot;,&quot;#00A087FF&quot;,&quot;#FFA500&quot;,&quot;#B3DE69&quot;,&quot;#BEBADA&quot;,&quot;#000000&quot;) #all colors are significant difference</span><br></pre></td></tr></table></figure>
+  </div>
+  <div class="article-inner">
+    
+    
+      <header class="article-header">
+        
+  
+    <h1 class="article-title" itemprop="name">
+      R语言中常用的颜色设置
+    </h1>
+  
+
+      </header>
+    
+    <div class="article-entry" itemprop="articleBody">
+      
+        <h2 id="R语言中常用的specific-colors："><a href="#R语言中常用的specific-colors：" class="headerlink" title="R语言中常用的specific colors："></a>R语言中常用的specific colors：</h2><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br></pre></td><td class="code"><pre><span class="line">col_heatmap1 &lt;- colorRampPalette(rev(c(&quot;Yellow&quot;, &quot;black&quot;,&quot;#FF00FF&quot;)))( 10)</span><br><span class="line"></span><br><span class="line">col_heatmap2 &lt;- colorRampPalette(rev(c(&quot;#67001F&quot;, &quot;#B2182B&quot;, &quot;#D6604D&quot;, &quot;#F4A582&quot;,</span><br><span class="line">                               &quot;#FDDBC7&quot;, &quot;#FFFFFF&quot;, &quot;#D1E5F0&quot;, &quot;#92C5DE&quot;,</span><br><span class="line">                               &quot;#4393C3&quot;, &quot;#2166AC&quot;, &quot;#053061&quot;)))(11)</span><br><span class="line">                               #colors for clusters </span><br><span class="line">cluster_col &lt;- c(&quot;#E64B35FF&quot;,&quot;#4DBBD5FF&quot;,&quot;#E7298A&quot;,&quot;#3C5488FF&quot;,&quot;#7E6148FF&quot;,</span><br><span class="line">                 &quot;#BA55D3&quot;,&quot;#00A087FF&quot;,&quot;#FFA500&quot;,&quot;#B3DE69&quot;,&quot;#BEBADA&quot;,&quot;#000000&quot;) #all colors are significant difference</span><br></pre></td></tr></table></figure>
 
 <h2 id="R语言中常用的设置颜色的包："><a href="#R语言中常用的设置颜色的包：" class="headerlink" title="R语言中常用的设置颜色的包："></a>R语言中常用的设置颜色的包：</h2><figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br><span class="line">18</span><br></pre></td><td class="code"><pre><span class="line">library(RColorBrewer)</span><br><span class="line">display.brewer.all()</span><br><span class="line">display.brewer.pal(10,&quot;Set3&quot;)</span><br><span class="line">brewer.pal(7,&quot;BrBG&quot;)</span><br><span class="line"></span><br><span class="line">library(ggsci)</span><br><span class="line">library(scales)</span><br><span class="line">show_col(pal_aaas(&quot;default&quot;, alpha &#x3D; 0.6)(7))   </span><br><span class="line">rgb_gsea(palette &#x3D; c(&quot;default&quot;), n &#x3D; 12, alpha &#x3D; 1, reverse &#x3D; FALSE)</span><br><span class="line">rgb_material(palette &#x3D; c(&quot;red&quot;, &quot;pink&quot;, &quot;purple&quot;, &quot;deep-purple&quot;, &quot;indigo&quot;,</span><br><span class="line">  &quot;blue&quot;, &quot;light-blue&quot;, &quot;cyan&quot;, &quot;teal&quot;, &quot;green&quot;, &quot;light-green&quot;, &quot;lime&quot;,</span><br><span class="line">  &quot;yellow&quot;, &quot;amber&quot;, &quot;orange&quot;, &quot;deep-orange&quot;, &quot;brown&quot;, &quot;grey&quot;, &quot;blue-grey&quot;),</span><br><span class="line">  n &#x3D; 10, alpha &#x3D; 1, reverse &#x3D; FALSE)</span><br><span class="line"></span><br><span class="line"># n：产生多少个独立的颜色</span><br><span class="line"># alpha：透明度</span><br><span class="line"># reverse：逻辑值，决定颜色的排序是否反序</span><br><span class="line"># palette：在rgb_material中有19种配色方案</span><br></pre></td></tr></table></figure>
 
@@ -202,77 +106,153 @@
 
 <h2 id="参考链接："><a href="#参考链接：" class="headerlink" title="参考链接："></a><strong>参考链接：</strong></h2><p>(1) <a href="https://blog.csdn.net/m0_45248682/article/details/104077631" target="_blank" rel="noopener">ggsci包的使用</a><br>(2) <a href="https://blog.csdn.net/jethai/article/details/52345061" target="_blank" rel="noopener">RColorBrewer包的使用</a><br>(3) <a href="http://www.5tu.cn/colors/rgb-peisebiao.html" target="_blank" rel="noopener">所有R的配色及其对应code</a><br>(4)<a href="https://www.jianshu.com/p/c0ebba8d1853" target="_blank" rel="noopener">ggpubr包的使用</a></p>
 
-  </article>
+      
+    </div>
+    <footer class="article-footer">
+      <a data-url="http://yoursite.com/2020/06/25/R%E4%B8%AD%E5%B8%B8%E7%94%A8%E7%9A%84%E9%A2%9C%E8%89%B2%E8%AE%BE%E7%BD%AE/" data-id="ckkx5vncd0007vy2w1vp63u5x" class="article-share-link">Share</a>
+      
+      
+  <ul class="article-tag-list" itemprop="keywords"><li class="article-tag-list-item"><a class="article-tag-list-link" href="/tags/Code/" rel="tag">Code</a></li><li class="article-tag-list-item"><a class="article-tag-list-link" href="/tags/Color/" rel="tag">Color</a></li><li class="article-tag-list-item"><a class="article-tag-list-link" href="/tags/R/" rel="tag">R</a></li></ul>
 
-  
-    
-  <div class="nexmoe-post-copyright">
-    <strong>Author：</strong>jijunyu<br>
-    <strong>Link：</strong><a href="http://yoursite.com/2020/06/25/R%E4%B8%AD%E5%B8%B8%E7%94%A8%E7%9A%84%E9%A2%9C%E8%89%B2%E8%AE%BE%E7%BD%AE/" title="http:&#x2F;&#x2F;yoursite.com&#x2F;2020&#x2F;06&#x2F;25&#x2F;R%E4%B8%AD%E5%B8%B8%E7%94%A8%E7%9A%84%E9%A2%9C%E8%89%B2%E8%AE%BE%E7%BD%AE&#x2F;" target="_blank" rel="noopener">http:&#x2F;&#x2F;yoursite.com&#x2F;2020&#x2F;06&#x2F;25&#x2F;R%E4%B8%AD%E5%B8%B8%E7%94%A8%E7%9A%84%E9%A2%9C%E8%89%B2%E8%AE%BE%E7%BD%AE&#x2F;</a><br>
-    
-      <strong>版权声明：</strong>本文采用 <a href="https://creativecommons.org/licenses/by-nc-sa/3.0/cn/deed.zh" target="_blank">CC BY-NC-SA 3.0 CN</a> 协议进行许可
-    
+    </footer>
   </div>
-
-
+  
+    
+<nav id="article-nav">
+  
+    <a href="/2020/07/05/01-%E6%AF%8F%E6%97%A5%E8%BF%AD%E4%BB%A3%E7%B3%BB%E7%BB%9F/" id="article-nav-newer" class="article-nav-link-wrap">
+      <strong class="article-nav-caption">Newer</strong>
+      <div class="article-nav-title">
+        
+          每日迭代系统
+        
+      </div>
+    </a>
   
   
-  <div class="nexmoe-post-meta nexmoe-rainbow">
-    
-        <a class="nexmoefont icon-appstore-fill -link" href="/categories/%E8%AE%A1%E7%AE%97%E6%9C%BA%E6%8A%80%E6%9C%AF/">计算机技术</a>
-    
-    
-        <a class="nexmoefont icon-tag-fill -link" href="/tags/Code/" rel="tag">Code</a> <a class="nexmoefont icon-tag-fill -link" href="/tags/Color/" rel="tag">Color</a> <a class="nexmoefont icon-tag-fill -link" href="/tags/R/" rel="tag">R</a>
-    
-</div>
+    <a href="/2020/06/24/linux%E5%B8%B8%E7%94%A8%E5%91%BD%E4%BB%A4%E7%A7%AF%E7%B4%AF/" id="article-nav-older" class="article-nav-link-wrap">
+      <strong class="article-nav-caption">Older</strong>
+      <div class="article-nav-title">linux常用命令积累</div>
+    </a>
+  
+</nav>
 
-  <div class="nexmoe-post-footer">
-    <section class="nexmoe-comment">
-    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/gitalk@1.5.0/dist/gitalk.min.css">
-<div id="gitalk"></div>
-<script src="https://cdn.jsdelivr.net/npm/gitalk@1.5.0/dist/gitalk.min.js"></script>
-<script type="text/javascript">
-    var gitalk = new Gitalk({
-        clientID: '80b2453b6d5f37ad6225',
-        clientSecret: '43e99fa852795c9a7b3eb924b2558c64b84bbdeb',
-        id: window.location.pathname,
-        repo: 'nexmoe.github.io',
-        owner: 'nexmoe',
-        admin: 'nexmoe'
-    })
-    gitalk.render('gitalk')
-</script>
+  
+</article>
+
 </section>
-  </div>
-</div>
+        
+          <aside id="sidebar">
+  
+    
+  <div class="widget-wrap">
+    <h3 class="widget-title">Categories</h3>
+    <div class="widget">
+      <ul class="category-list"><li class="category-list-item"><a class="category-list-link" href="/categories/%E6%88%90%E9%95%BF/">成长</a></li><li class="category-list-item"><a class="category-list-link" href="/categories/%E8%AE%A1%E7%AE%97%E6%9C%BA%E6%8A%80%E6%9C%AF/">计算机技术</a></li></ul>
     </div>
   </div>
-  <script src="https://cdn.jsdelivr.net/combine/npm/lazysizes@5.1.0/lazysizes.min.js,gh/highlightjs/cdn-release@9.15.8/build/highlight.min.js,npm/mdui@0.4.3/dist/js/mdui.min.js?v=1"></script>
-<script>
-	hljs.initHighlightingOnLoad();
-</script>
 
-<script src="https://cdn.jsdelivr.net/npm/jquery@3.5.1/dist/jquery.slim.min.js"></script>
-<script src="https://cdn.jsdelivr.net/gh/fancyapps/fancybox@3.5.7/dist/jquery.fancybox.min.js"></script>
-
-
-<script src="https://cdn.jsdelivr.net/gh/xtaodada/xtaodada.github.io@0.0.2/copy.js"></script>
- <script src="/js/app.js?v=1612605421582"></script>
-
-<script src="https://cdn.jsdelivr.net/npm/justifiedGallery@3.8.1/dist/js/jquery.justifiedGallery.min.js"></script>
-<script>
-	$(".justified-gallery").justifiedGallery({
-		rowHeight: 160,
-		margins: 10,
-	});
-</script>
 
   
+    
+  <div class="widget-wrap">
+    <h3 class="widget-title">Tags</h3>
+    <div class="widget">
+      <ul class="tag-list" itemprop="keywords"><li class="tag-list-item"><a class="tag-list-link" href="/tags/Code/" rel="tag">Code</a></li><li class="tag-list-item"><a class="tag-list-link" href="/tags/Color/" rel="tag">Color</a></li><li class="tag-list-item"><a class="tag-list-link" href="/tags/R/" rel="tag">R</a></li><li class="tag-list-item"><a class="tag-list-link" href="/tags/linux%E6%9C%8D%E5%8A%A1%E5%99%A8/" rel="tag">linux服务器</a></li><li class="tag-list-item"><a class="tag-list-link" href="/tags/%E5%89%8D%E7%AB%AF%E6%8A%80%E6%9C%AF/" rel="tag">前端技术</a></li><li class="tag-list-item"><a class="tag-list-link" href="/tags/%E5%90%AF%E5%8F%91/" rel="tag">启发</a></li><li class="tag-list-item"><a class="tag-list-link" href="/tags/%E5%B0%8F%E6%8A%80%E8%83%BD/" rel="tag">小技能</a></li><li class="tag-list-item"><a class="tag-list-link" href="/tags/%E6%88%90%E9%95%BF%E8%B6%B3%E8%BF%B9/" rel="tag">成长足迹</a></li><li class="tag-list-item"><a class="tag-list-link" href="/tags/%E6%97%A5%E5%B8%B8/" rel="tag">日常</a></li></ul>
+    </div>
+  </div>
+
+
+  
+    
+  <div class="widget-wrap">
+    <h3 class="widget-title">Tag Cloud</h3>
+    <div class="widget tagcloud">
+      <a href="/tags/Code/" style="font-size: 15px;">Code</a> <a href="/tags/Color/" style="font-size: 10px;">Color</a> <a href="/tags/R/" style="font-size: 10px;">R</a> <a href="/tags/linux%E6%9C%8D%E5%8A%A1%E5%99%A8/" style="font-size: 10px;">linux服务器</a> <a href="/tags/%E5%89%8D%E7%AB%AF%E6%8A%80%E6%9C%AF/" style="font-size: 10px;">前端技术</a> <a href="/tags/%E5%90%AF%E5%8F%91/" style="font-size: 20px;">启发</a> <a href="/tags/%E5%B0%8F%E6%8A%80%E8%83%BD/" style="font-size: 10px;">小技能</a> <a href="/tags/%E6%88%90%E9%95%BF%E8%B6%B3%E8%BF%B9/" style="font-size: 20px;">成长足迹</a> <a href="/tags/%E6%97%A5%E5%B8%B8/" style="font-size: 10px;">日常</a>
+    </div>
+  </div>
+
+  
+    
+  <div class="widget-wrap">
+    <h3 class="widget-title">Archives</h3>
+    <div class="widget">
+      <ul class="archive-list"><li class="archive-list-item"><a class="archive-list-link" href="/archives/2021/02/">February 2021</a></li><li class="archive-list-item"><a class="archive-list-link" href="/archives/2021/01/">January 2021</a></li><li class="archive-list-item"><a class="archive-list-link" href="/archives/2020/09/">September 2020</a></li><li class="archive-list-item"><a class="archive-list-link" href="/archives/2020/07/">July 2020</a></li><li class="archive-list-item"><a class="archive-list-link" href="/archives/2020/06/">June 2020</a></li></ul>
+    </div>
+  </div>
+
+
+  
+    
+  <div class="widget-wrap">
+    <h3 class="widget-title">Recent Posts</h3>
+    <div class="widget">
+      <ul>
+        
+          <li>
+            <a href="/2021/02/06/1/">如何对一组字符串批量操作</a>
+          </li>
+        
+          <li>
+            <a href="/2021/02/05/1/">希望自己20岁就懂的10个道理</a>
+          </li>
+        
+          <li>
+            <a href="/2021/02/05/1/">人生由每一个小选择铸就</a>
+          </li>
+        
+          <li>
+            <a href="/2021/01/28/1/">2021_新技能get</a>
+          </li>
+        
+          <li>
+            <a href="/2021/01/28/1/">2021_aha_moment</a>
+          </li>
+        
+      </ul>
+    </div>
+  </div>
+
+  
+</aside>
+        
+      </div>
+      <footer id="footer">
+  
+  <div class="outer">
+    <div id="footer-info" class="inner">
+      &copy; 2021 jijunyu<br>
+      Powered by <a href="http://hexo.io/" target="_blank">Hexo</a>
+    </div>
+  </div>
+</footer>
+    </div>
+    <nav id="mobile-nav">
+  
+    <a href="/" class="mobile-nav-link">Home</a>
+  
+    <a href="/archives" class="mobile-nav-link">Archives</a>
+  
+</nav>
+    
+
+<script src="//ajax.googleapis.com/ajax/libs/jquery/2.0.3/jquery.min.js"></script>
+
+
+  
+<link rel="stylesheet" href="/fancybox/jquery.fancybox.css">
+
+  
+<script src="/fancybox/jquery.fancybox.pack.js"></script>
 
 
 
 
+<script src="/js/script.js"></script>
 
+
+
+
+  </div>
 </body>
-
 </html>
