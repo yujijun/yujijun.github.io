@@ -1,18 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>个人简介</title>
-    <url>/2020/09/09/1/</url>
-    <content><![CDATA[<p><img src="/2020/09/09/1/Yujijun_part1.png" alt="yujijun_CV"><br><img src="/2020/09/09/1/Yujijun_part2.png" alt><br><img src="/2020/09/09/1/Yujijun_part3.png" alt></p>
-]]></content>
-      <categories>
-        <category>成长</category>
-      </categories>
-      <tags>
-        <tag>成长足迹</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>每日迭代系统</title>
     <url>/2020/07/05/01-%E6%AF%8F%E6%97%A5%E8%BF%AD%E4%BB%A3%E7%B3%BB%E7%BB%9F/</url>
     <content><![CDATA[<h3 id="每日必做："><a href="#每日必做：" class="headerlink" title="每日必做："></a>每日必做：</h3><p>（1）制作工作计划：前天晚上9点左右</p>
@@ -43,50 +31,6 @@ sci-hub: https://scihub.wikicn.top/
 <p>  QQ邮箱：<a href="mailto:1260297406@qq.com">1260297406@qq.com</a></p>
 <p><strong>6.网站</strong></p>
 <p>任务管理网站： Teambition</p>
-]]></content>
-      <categories>
-        <category>成长</category>
-      </categories>
-      <tags>
-        <tag>成长足迹</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>2021_新技能get</title>
-    <url>/2021/01/28/1/</url>
-    <content><![CDATA[<h1 id="软件习得："><a href="#软件习得：" class="headerlink" title="软件习得："></a>软件习得：</h1><ol>
-<li><p>AI 作图 和 组图</p>
-<ul>
-<li>【ECM 项目】</li>
-</ul>
-</li>
-<li><p>R bookdown 制作图书</p>
-<ul>
-<li>【R 语言教学项目，R for Data Science】</li>
-</ul>
-</li>
-<li><p>R package 制作</p>
-<ul>
-<li>【R Code Library项目，写下自己常用函数】</li>
-</ul>
-</li>
-<li><p>English 日记写作小范式</p>
-<ul>
-<li>1Checker/Grammar/YoudaoDict/hallelujau输入法</li>
-</ul>
-</li>
-<li><p>English 文章写作小范式</p>
-<ul>
-<li>文献总结：Word 小目录整理法/Mindmaster 思维导图</li>
-<li>英语写作语法指导书</li>
-<li>英语论文搭配+语法网站，如【Google schalor 中直接输入你想要表的短语，其在论证中存在的形式可以很好的被检索到】<br><img src="/2021/01/28/1/%E5%AD%A6%E6%9C%AF%E6%90%9C%E7%B4%A2.png" alt="学术搜索"> </li>
-</ul>
-</li>
-<li><p>Mindmaster 进行幻灯展示</p>
-</li>
-<li><p>将印象笔记中的需要交流的内容导出为PDF进行交流，其格式和交流效果远好于用html格式；</p>
-</li>
-</ol>
 ]]></content>
       <categories>
         <category>成长</category>
@@ -138,23 +82,139 @@ sci-hub: https://scihub.wikicn.top/
       </tags>
   </entry>
   <entry>
-    <title>Linux服务器高效工作指南</title>
-    <url>/2021/02/09/1/</url>
-    <content><![CDATA[<p>服务器高效工作：</p>
-<ol>
-<li>服务器： 华为云服务器</li>
-<li>传输软件： 目前使用transmit 软件 / scp</li>
-<li>文档编辑： Rstudio server</li>
-<li>后台提交任务：screen</li>
+    <title>2021_新技能get</title>
+    <url>/2021/01/28/1/</url>
+    <content><![CDATA[<h1 id="软件习得："><a href="#软件习得：" class="headerlink" title="软件习得："></a>软件习得：</h1><ol>
+<li><p>AI 作图 和 组图</p>
+<ul>
+<li>【ECM 项目】</li>
+</ul>
+</li>
+<li><p>R bookdown 制作图书</p>
+<ul>
+<li>【R 语言教学项目，R for Data Science】</li>
+</ul>
+</li>
+<li><p>R package 制作</p>
+<ul>
+<li>【R Code Library项目，写下自己常用函数】</li>
+</ul>
+</li>
+<li><p>English 日记写作小范式</p>
+<ul>
+<li>1Checker/Grammar/YoudaoDict/hallelujau输入法</li>
+</ul>
+</li>
+<li><p>English 文章写作小范式</p>
+<ul>
+<li>文献总结：Word 小目录整理法/Mindmaster 思维导图</li>
+<li>英语写作语法指导书</li>
+<li>英语论文搭配+语法网站，如【Google schalor 中直接输入你想要表的短语，其在论证中存在的形式可以很好的被检索到】<br><img src="/2021/01/28/1/%E5%AD%A6%E6%9C%AF%E6%90%9C%E7%B4%A2.png" alt="学术搜索"> </li>
+</ul>
+</li>
+<li><p>Mindmaster 进行幻灯展示</p>
+</li>
+<li><p>将印象笔记中的需要交流的内容导出为PDF进行交流，其格式和交流效果远好于用html格式；</p>
+</li>
 </ol>
-<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">screen -S yourname -&gt; 新建一个叫yourname的session</span><br><span class="line">screen -ls -&gt; 列出当前所有的session</span><br><span class="line">screen -r yourname -&gt; 回到yourname这个session</span><br><span class="line">screen -d yourname -&gt; 远程detach某个session</span><br><span class="line">screen -d -r yourname -&gt; 结束当前session并回到yourname这个session</span><br><span class="line"></span><br><span class="line"># 添加SCREEN log文档</span><br><span class="line">在screen配置文件&#x2F;etc&#x2F;screenrc最后添加下面一行：</span><br><span class="line">logfile &#x2F;tmp&#x2F;screenlog_%t.log</span><br><span class="line"></span><br><span class="line">#启动运行screen 命令</span><br><span class="line">screen -L -t window1 -dmS test -&gt; 启动test 会话，test 会话的窗口名称为window1，屏幕日志记录在当下文件夹 .&#x2F;screenlog_window1.log</span><br></pre></td></tr></table></figure>
-<p>需要注意导出SCREEN 运行命令的log 文件；<br>reference: <a href="https://blog.csdn.net/lovemysea/article/details/78344114" target="_blank" rel="noopener">screen log</a></p>
-<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">Conclusion about how to use Rstudio-server:</span><br><span class="line">(1)open terminal ：ssh root@*****</span><br><span class="line">密码：*****</span><br><span class="line">(2) install Rstudio: 直接查看Rstudio server 官网即可</span><br><span class="line">(3)Open Rstudio </span><br><span class="line">	sudo rstudio-server verify-installation #查看安装是否正常 </span><br><span class="line">	sudo rstudio-server start               #启动RStudio-server </span><br><span class="line">	sudo rstudio-server status                #查看RStudio-server </span><br><span class="line">	sudo rstudio-server stop                #关闭RStudio-server </span><br><span class="line">	sudo rstudio-server restart                #重启RStudio-server </span><br><span class="line">	##添加用户组 </span><br><span class="line">	sudo groupadd rstudio-group </span><br><span class="line">		##添加用户 </span><br><span class="line">	sudo useradd anlan -g rstudio-group </span><br><span class="line">	##设置用户密码 </span><br><span class="line">	sudo passwd xxxxxx </span><br><span class="line">	##创建用户目录 </span><br><span class="line">	sudo mkdir &#x2F;home&#x2F;anlan </span><br><span class="line">	##赋予目录权限 </span><br><span class="line">	sudo chown -R anlan:rstudio-group &#x2F;home&#x2F;anlan </span><br><span class="line"></span><br><span class="line">(4)建立本地隧道</span><br><span class="line">ssh -C -f -N  -L  8787:127.88.88.88:8787  root@121.36.0.146</span><br><span class="line">Need Password：Yjj18636810884@@@</span><br><span class="line">If there is a error: </span><br><span class="line">lsof -ti:8787 | xargs kill -9 </span><br><span class="line">Then do it again.</span><br><span class="line"></span><br><span class="line">(5)Open google chrome: localhost:8787</span><br></pre></td></tr></table></figure>]]></content>
+]]></content>
+      <categories>
+        <category>成长</category>
+      </categories>
+      <tags>
+        <tag>成长足迹</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>R语言中常用的颜色设置</title>
+    <url>/2020/06/25/R%E4%B8%AD%E5%B8%B8%E7%94%A8%E7%9A%84%E9%A2%9C%E8%89%B2%E8%AE%BE%E7%BD%AE/</url>
+    <content><![CDATA[<h2 id="R语言中常用的specific-colors："><a href="#R语言中常用的specific-colors：" class="headerlink" title="R语言中常用的specific colors："></a>R语言中常用的specific colors：</h2><figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">col_heatmap1 &lt;- colorRampPalette(rev(c(&quot;Yellow&quot;, &quot;black&quot;,&quot;#FF00FF&quot;)))( 10)</span><br><span class="line"></span><br><span class="line">col_heatmap2 &lt;- colorRampPalette(rev(c(&quot;#67001F&quot;, &quot;#B2182B&quot;, &quot;#D6604D&quot;, &quot;#F4A582&quot;,</span><br><span class="line">                               &quot;#FDDBC7&quot;, &quot;#FFFFFF&quot;, &quot;#D1E5F0&quot;, &quot;#92C5DE&quot;,</span><br><span class="line">                               &quot;#4393C3&quot;, &quot;#2166AC&quot;, &quot;#053061&quot;)))(11)</span><br><span class="line">                               #colors for clusters </span><br><span class="line">cluster_col &lt;- c(&quot;#E64B35FF&quot;,&quot;#4DBBD5FF&quot;,&quot;#E7298A&quot;,&quot;#3C5488FF&quot;,&quot;#7E6148FF&quot;,</span><br><span class="line">                 &quot;#BA55D3&quot;,&quot;#00A087FF&quot;,&quot;#FFA500&quot;,&quot;#B3DE69&quot;,&quot;#BEBADA&quot;,&quot;#000000&quot;) #all colors are significant difference</span><br></pre></td></tr></table></figure>
+
+<h2 id="R语言中常用的设置颜色的包："><a href="#R语言中常用的设置颜色的包：" class="headerlink" title="R语言中常用的设置颜色的包："></a>R语言中常用的设置颜色的包：</h2><figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">library(RColorBrewer)</span><br><span class="line">display.brewer.all()</span><br><span class="line">display.brewer.pal(10,&quot;Set3&quot;)</span><br><span class="line">brewer.pal(7,&quot;BrBG&quot;)</span><br><span class="line"></span><br><span class="line">library(ggsci)</span><br><span class="line">library(scales)</span><br><span class="line">show_col(pal_aaas(&quot;default&quot;, alpha &#x3D; 0.6)(7))   </span><br><span class="line">rgb_gsea(palette &#x3D; c(&quot;default&quot;), n &#x3D; 12, alpha &#x3D; 1, reverse &#x3D; FALSE)</span><br><span class="line">rgb_material(palette &#x3D; c(&quot;red&quot;, &quot;pink&quot;, &quot;purple&quot;, &quot;deep-purple&quot;, &quot;indigo&quot;,</span><br><span class="line">  &quot;blue&quot;, &quot;light-blue&quot;, &quot;cyan&quot;, &quot;teal&quot;, &quot;green&quot;, &quot;light-green&quot;, &quot;lime&quot;,</span><br><span class="line">  &quot;yellow&quot;, &quot;amber&quot;, &quot;orange&quot;, &quot;deep-orange&quot;, &quot;brown&quot;, &quot;grey&quot;, &quot;blue-grey&quot;),</span><br><span class="line">  n &#x3D; 10, alpha &#x3D; 1, reverse &#x3D; FALSE)</span><br><span class="line"></span><br><span class="line"># n：产生多少个独立的颜色</span><br><span class="line"># alpha：透明度</span><br><span class="line"># reverse：逻辑值，决定颜色的排序是否反序</span><br><span class="line"># palette：在rgb_material中有19种配色方案</span><br></pre></td></tr></table></figure>
+
+<h2 id="R语言中绘图推荐的包"><a href="#R语言中绘图推荐的包" class="headerlink" title="R语言中绘图推荐的包"></a>R语言中绘图推荐的包</h2><figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">library(ggplot2)</span><br><span class="line">library(ggpubr)</span><br></pre></td></tr></table></figure>
+
+<h2 id="参考链接："><a href="#参考链接：" class="headerlink" title="参考链接："></a><strong>参考链接：</strong></h2><p>(1) <a href="https://blog.csdn.net/m0_45248682/article/details/104077631" target="_blank" rel="noopener">ggsci包的使用</a><br>(2) <a href="https://blog.csdn.net/jethai/article/details/52345061" target="_blank" rel="noopener">RColorBrewer包的使用</a><br>(3) <a href="http://www.5tu.cn/colors/rgb-peisebiao.html" target="_blank" rel="noopener">所有R的配色及其对应code</a><br>(4)<a href="https://www.jianshu.com/p/c0ebba8d1853" target="_blank" rel="noopener">ggpubr包的使用</a></p>
+]]></content>
       <categories>
         <category>计算机技术</category>
       </categories>
       <tags>
-        <tag>Linux</tag>
+        <tag>R</tag>
+        <tag>Color</tag>
+        <tag>Code</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>R Code 高效工作指南</title>
+    <url>/2021/02/10/1/</url>
+    <content><![CDATA[<ol>
+<li><p>以后开始做任何一个项目，首先想到的就是建立一个projects </p>
+</li>
+<li><p>之后在folder下面简历一个完整的folder  架构，最好顺便建立一个github 。</p>
+<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">#至少应该包含以下几个folder：</span><br><span class="line">&#x2F;input</span><br><span class="line">&#x2F;output #for dataset output for example:*.RData；有多个版本，可以设置output_v1，output_v2 等</span><br><span class="line">&#x2F;script </span><br><span class="line"></span><br><span class="line">and a README.md file</span><br></pre></td></tr></table></figure></li>
+<li><p>尽量详细的编写README文件，每次编辑完成之后注意更新</p>
+</li>
+</ol>
+<p>至少应该包含如下信息：<br>    - 项目说明<br>    - input 和 output 文件介绍<br>    - 整个过程的版本介绍<br>    - 各种参考文件</p>
+<ol start="4">
+<li><p>在Code 中，将 load library、input、parameters、main function、 output dataset、 output figure 几项分开展示<br>如下图所示：<br><img src="/2021/02/10/1/%E6%96%87%E4%BB%B6%E6%A0%BC%E5%BC%8F.png" alt="文件格式"><br><img src="/2021/02/10/1/output.png" alt="output"></p>
+</li>
+<li><p>保存R 语言运行环境</p>
+</li>
+<li><p>在设置R付值变量名称的时候，尽量不要前后覆盖，名称要明确</p>
+</li>
+<li><p>更改完所有文件之后，及时更新README 文件，然后推送到github</p>
+</li>
+</ol>
+]]></content>
+      <categories>
+        <category>编程技术</category>
+      </categories>
+      <tags>
+        <tag>R</tag>
+        <tag>Code</tag>
+        <tag>高效工作</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>linux常用命令积累</title>
+    <url>/2020/06/24/linux%E5%B8%B8%E7%94%A8%E5%91%BD%E4%BB%A4%E7%A7%AF%E7%B4%AF/</url>
+    <content><![CDATA[<p>（1）常用基本命令<br>cp //拷贝<br>touch //新建空白文件<br>rm //删除文件<br>mkdir //新建文件夹<br>rmdir //删除文件夹<br>mv //移动文件<br>chown  -R yjj:rstudo ./folder //更改文件的所属<br>（2） vim 打开文本之后，如何进行字符串搜索？<br><code>:  /test</code> 将定位到test位置，然后用n来进行跳转到不同的test行。</p>
+<p>（3）Linux文件权限设置<br> <code>chmod u|g|o|a  =(设置权限)|+(添加权限)|-(减少权限)  r|w|x  文件或者目录</code><br>for example:<br><code>chmod u=rwx file</code> //u example user</p>
+<p>持续更新中… …</p>
+]]></content>
+      <categories>
+        <category>计算机技术</category>
+      </categories>
+      <tags>
+        <tag>linux</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>个人简介</title>
+    <url>/2020/09/09/1/</url>
+    <content><![CDATA[<p><img src="/2020/09/09/1/Yujijun_part1.png" alt="yujijun_CV"><br><img src="/2020/09/09/1/Yujijun_part2.png" alt><br><img src="/2020/09/09/1/Yujijun_part3.png" alt></p>
+]]></content>
+      <categories>
+        <category>成长</category>
+      </categories>
+      <tags>
+        <tag>成长足迹</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>人生由每一个小选择铸就</title>
+    <url>/2021/02/05/1/</url>
+    <content><![CDATA[<p>人生是由每天的几个关键小抉择铸就</p>
+<p>（1）起床-每天早上闹钟响的时候是否起床；<br>        -【每天4点半起床，在所有人还在睡眠中时，我已经出发，开始元气满满的一天】<br>（2）规划-早上坐在电脑前面的第一个工作，是否选择先规划一下一天的生活；<br>        - 【仿佛每时每刻都带着地图上图，任何时候都不会迷茫】<br>（3）行动- 开始做事儿之前是否选择尽量排除工作中可能受到的干扰；<br>        - 【主动选择去减少生活中的干扰：开启番茄钟，戴耳塞，手机调成勿扰模式】<br>（4）整理- 晚上合上电脑之前，是否选择先整理一下桌面<br>        -【让第二天准备开始工作的时刻，心情畅爽：清理电脑桌面和实体桌面】<br>（5）少看视频-每天想要拿起手机开视频的时候，时候能够用在重要的事情上，比如把看视频的时间腾挪出来给自己爱的人发微信。- 【心中有人，有梦，有烟火，不只让视频陪伴自己】<br>（6）遇到任何事情，第一反应不是拖着，而是选择想方设法去解决；<br>        -【不懂的问题及时查/马上思考学习路线，一看就会，则立马解决；立马解决不掉，则设计学习路线，开始一点点学习；立马理解不了，写在 to do list 中/向别人求助/寻求合作】</p>
+<p>每天关键瞬间的小选择 -&gt; 好习惯 -&gt; 大选择 -&gt; 大成就</p>
+]]></content>
+      <categories>
+        <category>成长</category>
+      </categories>
+      <tags>
+        <tag>启发</tag>
       </tags>
   </entry>
   <entry>
@@ -188,6 +248,26 @@ sci-hub: https://scihub.wikicn.top/
       </tags>
   </entry>
   <entry>
+    <title>如何快速建立一个Rstudio项目并且关联到github</title>
+    <url>/2021/02/10/1/</url>
+    <content><![CDATA[<ol start="0">
+<li>然后创建远程Repository </li>
+<li>将远程repository 拉到本地</li>
+<li>创建一个本地的Rstudio 项目，将其创建到刚刚拉下来的folder 中</li>
+<li>在 Rstudio项目中创建相应的文件夹,如下图：<br><img src="/2021/02/10/1/figure1.png" alt></li>
+<li>关掉Rproj，重新开启，应该就自动弹出git 按钮</li>
+<li>按照git按钮提交并push<br><img src="/2021/02/10/1/figure2.png" alt><br><img src="/2021/02/10/1/figure3.png" alt></li>
+</ol>
+]]></content>
+      <categories>
+        <category>计算机技术</category>
+      </categories>
+      <tags>
+        <tag>高效工作</tag>
+        <tag>Rstudio</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>希望自己20岁就懂的10个道理</title>
     <url>/2021/02/05/1/</url>
     <content><![CDATA[<p>1.做决定要果断，不要犹犹豫豫，因为人生不可能每个决定都是对的，决定的好坏和时间长短并没有决定性的原因<br>Don’t be hesitant when you make a decision </p>
@@ -210,51 +290,16 @@ sci-hub: https://scihub.wikicn.top/
       </tags>
   </entry>
   <entry>
-    <title>人生由每一个小选择铸就</title>
-    <url>/2021/02/05/1/</url>
-    <content><![CDATA[<p>人生是由每天的几个关键小抉择铸就</p>
-<p>（1）起床-每天早上闹钟响的时候是否起床；<br>        -【每天4点半起床，在所有人还在睡眠中时，我已经出发，开始元气满满的一天】<br>（2）规划-早上坐在电脑前面的第一个工作，是否选择先规划一下一天的生活；<br>        - 【仿佛每时每刻都带着地图上图，任何时候都不会迷茫】<br>（3）行动- 开始做事儿之前是否选择尽量排除工作中可能受到的干扰；<br>        - 【主动选择去减少生活中的干扰：开启番茄钟，戴耳塞，手机调成勿扰模式】<br>（4）整理- 晚上合上电脑之前，是否选择先整理一下桌面<br>        -【让第二天准备开始工作的时刻，心情畅爽：清理电脑桌面和实体桌面】<br>（5）少看视频-每天想要拿起手机开视频的时候，时候能够用在重要的事情上，比如把看视频的时间腾挪出来给自己爱的人发微信。- 【心中有人，有梦，有烟火，不只让视频陪伴自己】<br>（6）遇到任何事情，第一反应不是拖着，而是选择想方设法去解决；<br>        -【不懂的问题及时查/马上思考学习路线，一看就会，则立马解决；立马解决不掉，则设计学习路线，开始一点点学习；立马理解不了，写在 to do list 中/向别人求助/寻求合作】</p>
-<p>每天关键瞬间的小选择 -&gt; 好习惯 -&gt; 大选择 -&gt; 大成就</p>
+    <title>我的第一个博客----今天是我26岁的生日</title>
+    <url>/2020/06/23/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E4%B8%AA%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/</url>
+    <content><![CDATA[<h2 id="新一岁的日常："><a href="#新一岁的日常：" class="headerlink" title="新一岁的日常："></a>新一岁的日常：</h2><p>（1）休息：早睡早起。<br>（2）工作：用好每一刻钟，随时进入心流，高效工作。<br>（3）健身:  增肌减脂，增强体能。<br>（4）习惯：建立成型的习惯打卡计划。</p>
+<h2 id="新一岁的目标："><a href="#新一岁的目标：" class="headerlink" title="新一岁的目标："></a>新一岁的目标：</h2><p>（1）学好专业知识：癌症免疫学/Neoantigen/生物信息学分析技能 —-&gt; 每天进步一点点，每天都有输出（一篇博客）<br>（2）学好基础技能： Oral English/English writing/Code（R and Python）/Mac—-&gt; 每天进步一点点，每天都有输出（一篇博客）<br>（3）做一个会思考的人：每天深入思考生活中的一个问题，查询可执行的答案，每天都有输出（一篇博客）</p>
 ]]></content>
       <categories>
         <category>成长</category>
       </categories>
       <tags>
-        <tag>启发</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>R语言中常用的颜色设置</title>
-    <url>/2020/06/25/R%E4%B8%AD%E5%B8%B8%E7%94%A8%E7%9A%84%E9%A2%9C%E8%89%B2%E8%AE%BE%E7%BD%AE/</url>
-    <content><![CDATA[<h2 id="R语言中常用的specific-colors："><a href="#R语言中常用的specific-colors：" class="headerlink" title="R语言中常用的specific colors："></a>R语言中常用的specific colors：</h2><figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">col_heatmap1 &lt;- colorRampPalette(rev(c(&quot;Yellow&quot;, &quot;black&quot;,&quot;#FF00FF&quot;)))( 10)</span><br><span class="line"></span><br><span class="line">col_heatmap2 &lt;- colorRampPalette(rev(c(&quot;#67001F&quot;, &quot;#B2182B&quot;, &quot;#D6604D&quot;, &quot;#F4A582&quot;,</span><br><span class="line">                               &quot;#FDDBC7&quot;, &quot;#FFFFFF&quot;, &quot;#D1E5F0&quot;, &quot;#92C5DE&quot;,</span><br><span class="line">                               &quot;#4393C3&quot;, &quot;#2166AC&quot;, &quot;#053061&quot;)))(11)</span><br><span class="line">                               #colors for clusters </span><br><span class="line">cluster_col &lt;- c(&quot;#E64B35FF&quot;,&quot;#4DBBD5FF&quot;,&quot;#E7298A&quot;,&quot;#3C5488FF&quot;,&quot;#7E6148FF&quot;,</span><br><span class="line">                 &quot;#BA55D3&quot;,&quot;#00A087FF&quot;,&quot;#FFA500&quot;,&quot;#B3DE69&quot;,&quot;#BEBADA&quot;,&quot;#000000&quot;) #all colors are significant difference</span><br></pre></td></tr></table></figure>
-
-<h2 id="R语言中常用的设置颜色的包："><a href="#R语言中常用的设置颜色的包：" class="headerlink" title="R语言中常用的设置颜色的包："></a>R语言中常用的设置颜色的包：</h2><figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">library(RColorBrewer)</span><br><span class="line">display.brewer.all()</span><br><span class="line">display.brewer.pal(10,&quot;Set3&quot;)</span><br><span class="line">brewer.pal(7,&quot;BrBG&quot;)</span><br><span class="line"></span><br><span class="line">library(ggsci)</span><br><span class="line">library(scales)</span><br><span class="line">show_col(pal_aaas(&quot;default&quot;, alpha &#x3D; 0.6)(7))   </span><br><span class="line">rgb_gsea(palette &#x3D; c(&quot;default&quot;), n &#x3D; 12, alpha &#x3D; 1, reverse &#x3D; FALSE)</span><br><span class="line">rgb_material(palette &#x3D; c(&quot;red&quot;, &quot;pink&quot;, &quot;purple&quot;, &quot;deep-purple&quot;, &quot;indigo&quot;,</span><br><span class="line">  &quot;blue&quot;, &quot;light-blue&quot;, &quot;cyan&quot;, &quot;teal&quot;, &quot;green&quot;, &quot;light-green&quot;, &quot;lime&quot;,</span><br><span class="line">  &quot;yellow&quot;, &quot;amber&quot;, &quot;orange&quot;, &quot;deep-orange&quot;, &quot;brown&quot;, &quot;grey&quot;, &quot;blue-grey&quot;),</span><br><span class="line">  n &#x3D; 10, alpha &#x3D; 1, reverse &#x3D; FALSE)</span><br><span class="line"></span><br><span class="line"># n：产生多少个独立的颜色</span><br><span class="line"># alpha：透明度</span><br><span class="line"># reverse：逻辑值，决定颜色的排序是否反序</span><br><span class="line"># palette：在rgb_material中有19种配色方案</span><br></pre></td></tr></table></figure>
-
-<h2 id="R语言中绘图推荐的包"><a href="#R语言中绘图推荐的包" class="headerlink" title="R语言中绘图推荐的包"></a>R语言中绘图推荐的包</h2><figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">library(ggplot2)</span><br><span class="line">library(ggpubr)</span><br></pre></td></tr></table></figure>
-
-<h2 id="参考链接："><a href="#参考链接：" class="headerlink" title="参考链接："></a><strong>参考链接：</strong></h2><p>(1) <a href="https://blog.csdn.net/m0_45248682/article/details/104077631" target="_blank" rel="noopener">ggsci包的使用</a><br>(2) <a href="https://blog.csdn.net/jethai/article/details/52345061" target="_blank" rel="noopener">RColorBrewer包的使用</a><br>(3) <a href="http://www.5tu.cn/colors/rgb-peisebiao.html" target="_blank" rel="noopener">所有R的配色及其对应code</a><br>(4)<a href="https://www.jianshu.com/p/c0ebba8d1853" target="_blank" rel="noopener">ggpubr包的使用</a></p>
-]]></content>
-      <categories>
-        <category>计算机技术</category>
-      </categories>
-      <tags>
-        <tag>R</tag>
-        <tag>Color</tag>
-        <tag>Code</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>linux常用命令积累</title>
-    <url>/2020/06/24/linux%E5%B8%B8%E7%94%A8%E5%91%BD%E4%BB%A4%E7%A7%AF%E7%B4%AF/</url>
-    <content><![CDATA[<p>（1）常用基本命令<br>cp //拷贝<br>touch //新建空白文件<br>rm //删除文件<br>mkdir //新建文件夹<br>rmdir //删除文件夹<br>mv //移动文件<br>chown  -R yjj:rstudo ./folder //更改文件的所属<br>（2） vim 打开文本之后，如何进行字符串搜索？<br><code>:  /test</code> 将定位到test位置，然后用n来进行跳转到不同的test行。</p>
-<p>（3）Linux文件权限设置<br> <code>chmod u|g|o|a  =(设置权限)|+(添加权限)|-(减少权限)  r|w|x  文件或者目录</code><br>for example:<br><code>chmod u=rwx file</code> //u example user</p>
-<p>持续更新中… …</p>
-]]></content>
-      <categories>
-        <category>计算机技术</category>
-      </categories>
-      <tags>
-        <tag>linux</tag>
+        <tag>日常</tag>
       </tags>
   </entry>
   <entry>
@@ -286,16 +331,23 @@ sci-hub: https://scihub.wikicn.top/
       </tags>
   </entry>
   <entry>
-    <title>我的第一个博客----今天是我26岁的生日</title>
-    <url>/2020/06/23/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E4%B8%AA%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/</url>
-    <content><![CDATA[<h2 id="新一岁的日常："><a href="#新一岁的日常：" class="headerlink" title="新一岁的日常："></a>新一岁的日常：</h2><p>（1）休息：早睡早起。<br>（2）工作：用好每一刻钟，随时进入心流，高效工作。<br>（3）健身:  增肌减脂，增强体能。<br>（4）习惯：建立成型的习惯打卡计划。</p>
-<h2 id="新一岁的目标："><a href="#新一岁的目标：" class="headerlink" title="新一岁的目标："></a>新一岁的目标：</h2><p>（1）学好专业知识：癌症免疫学/Neoantigen/生物信息学分析技能 —-&gt; 每天进步一点点，每天都有输出（一篇博客）<br>（2）学好基础技能： Oral English/English writing/Code（R and Python）/Mac—-&gt; 每天进步一点点，每天都有输出（一篇博客）<br>（3）做一个会思考的人：每天深入思考生活中的一个问题，查询可执行的答案，每天都有输出（一篇博客）</p>
-]]></content>
+    <title>Linux服务器高效工作指南</title>
+    <url>/2021/02/09/1/</url>
+    <content><![CDATA[<p>服务器高效工作：</p>
+<ol>
+<li>服务器： 华为云服务器</li>
+<li>传输软件： 目前使用transmit 软件 / scp</li>
+<li>文档编辑： Rstudio server</li>
+<li>后台提交任务：screen</li>
+</ol>
+<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">screen -S yourname -&gt; 新建一个叫yourname的session</span><br><span class="line">screen -ls -&gt; 列出当前所有的session</span><br><span class="line">screen -r yourname -&gt; 回到yourname这个session</span><br><span class="line">screen -d yourname -&gt; 远程detach某个session</span><br><span class="line">screen -d -r yourname -&gt; 结束当前session并回到yourname这个session</span><br><span class="line"></span><br><span class="line"># 添加SCREEN log文档</span><br><span class="line">在screen配置文件&#x2F;etc&#x2F;screenrc最后添加下面一行：</span><br><span class="line">logfile &#x2F;tmp&#x2F;screenlog_%t.log</span><br><span class="line"></span><br><span class="line">#启动运行screen 命令</span><br><span class="line">screen -L -t window1 -dmS test -&gt; 启动test 会话，test 会话的窗口名称为window1，屏幕日志记录在当下文件夹 .&#x2F;screenlog_window1.log</span><br></pre></td></tr></table></figure>
+<p>需要注意导出SCREEN 运行命令的log 文件；<br>reference: <a href="https://blog.csdn.net/lovemysea/article/details/78344114" target="_blank" rel="noopener">screen log</a></p>
+<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">Conclusion about how to use Rstudio-server:</span><br><span class="line">(1)open terminal ：ssh root@*****</span><br><span class="line">密码：*****</span><br><span class="line">(2) install Rstudio: 直接查看Rstudio server 官网即可</span><br><span class="line">(3)Open Rstudio </span><br><span class="line">	sudo rstudio-server verify-installation #查看安装是否正常 </span><br><span class="line">	sudo rstudio-server start               #启动RStudio-server </span><br><span class="line">	sudo rstudio-server status                #查看RStudio-server </span><br><span class="line">	sudo rstudio-server stop                #关闭RStudio-server </span><br><span class="line">	sudo rstudio-server restart                #重启RStudio-server </span><br><span class="line">	##添加用户组 </span><br><span class="line">	sudo groupadd rstudio-group </span><br><span class="line">		##添加用户 </span><br><span class="line">	sudo useradd anlan -g rstudio-group </span><br><span class="line">	##设置用户密码 </span><br><span class="line">	sudo passwd xxxxxx </span><br><span class="line">	##创建用户目录 </span><br><span class="line">	sudo mkdir &#x2F;home&#x2F;anlan </span><br><span class="line">	##赋予目录权限 </span><br><span class="line">	sudo chown -R anlan:rstudio-group &#x2F;home&#x2F;anlan </span><br><span class="line"></span><br><span class="line">(4)建立本地隧道</span><br><span class="line">ssh -C -f -N  -L  8787:127.88.88.88:8787  root@121.36.0.146</span><br><span class="line">Need Password：Yjj18636810884@@@</span><br><span class="line">If there is a error: </span><br><span class="line">lsof -ti:8787 | xargs kill -9 </span><br><span class="line">Then do it again.</span><br><span class="line"></span><br><span class="line">(5)Open google chrome: localhost:8787</span><br></pre></td></tr></table></figure>]]></content>
       <categories>
-        <category>成长</category>
+        <category>计算机技术</category>
       </categories>
       <tags>
-        <tag>日常</tag>
+        <tag>Linux</tag>
       </tags>
   </entry>
 </search>
