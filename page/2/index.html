@@ -122,9 +122,9 @@
 
 <meta name="description" content="每天都活得漂亮+精彩">
 <meta property="og:type" content="website">
-<meta property="og:title" content="小于的个人空间">
+<meta property="og:title" content="小于的思想乐园">
 <meta property="og:url" content="http://yoursite.com/page/2/index.html">
-<meta property="og:site_name" content="小于的个人空间">
+<meta property="og:site_name" content="小于的思想乐园">
 <meta property="og:description" content="每天都活得漂亮+精彩">
 <meta property="article:author" content="jijunyu">
 <meta name="twitter:card" content="summary">
@@ -163,7 +163,7 @@
 
 
 
-  <title>小于的个人空间</title>
+  <title>小于的思想乐园</title>
   
 
 
@@ -195,7 +195,7 @@
     <div class="custom-logo-site-title">
       <a href="/"  class="brand" rel="start">
         <span class="logo-line-before"><i></i></span>
-        <span class="site-title">小于的个人空间</span>
+        <span class="site-title">小于的思想乐园</span>
         <span class="logo-line-after"><i></i></span>
       </a>
     </div>
@@ -326,6 +326,169 @@
   
   
   <div class="post-block">
+    <link itemprop="mainEntityOfPage" href="http://yoursite.com/2021/02/06/1/">
+
+    <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
+      <meta itemprop="name" content="jijunyu">
+      <meta itemprop="description" content="">
+      <meta itemprop="image" content="/images/avatar.gif">
+    </span>
+
+    <span hidden itemprop="publisher" itemscope itemtype="http://schema.org/Organization">
+      <meta itemprop="name" content="小于的思想乐园">
+    </span>
+
+    
+      <header class="post-header">
+
+        
+        
+          <h1 class="post-title" itemprop="name headline">
+                
+                <a class="post-title-link" href="/2021/02/06/1/" itemprop="url">如何对一组字符串批量操作</a></h1>
+        
+
+        <div class="post-meta">
+          <span class="post-time">
+            
+              <span class="post-meta-item-icon">
+                <i class="fa fa-calendar-o"></i>
+              </span>
+              
+                <span class="post-meta-item-text">发表于</span>
+              
+              <time title="创建于" itemprop="dateCreated datePublished" datetime="2021-02-06T08:53:10+08:00">
+                2021-02-06
+              </time>
+            
+
+            
+
+            
+          </span>
+
+          
+            <span class="post-category" >
+            
+              <span class="post-meta-divider">|</span>
+            
+              <span class="post-meta-item-icon">
+                <i class="fa fa-folder-o"></i>
+              </span>
+              
+                <span class="post-meta-item-text">分类于</span>
+              
+              
+                <span itemprop="about" itemscope itemtype="http://schema.org/Thing">
+                  <a href="/categories/%E8%AE%A1%E7%AE%97%E6%9C%BA%E6%8A%80%E6%9C%AF/" itemprop="url" rel="index">
+                    <span itemprop="name">计算机技术</span>
+                  </a>
+                </span>
+
+                
+                
+              
+            </span>
+          
+
+          
+            
+          
+
+          
+          
+
+          
+
+          
+
+          
+
+        </div>
+      </header>
+    
+
+    
+    
+    
+    <div class="post-body" itemprop="articleBody">
+
+      
+      
+
+      
+        
+          
+            <p>问题： </p>
+<ol>
+<li><p>下载到一组字符串之后，如何进行简单操作，使之成为string 网站进行富集分析的input 文件格式</p>
+<ul>
+<li>打开Rstudio IDE，然后用替换的方式，将”，“ 替换为 ”\n“</li>
+</ul>
+</li>
+<li><p>如何将替换为一竖列的字符串，两边添加双引号和逗号，生成方便R code方便进行探索的格式：</p>
+<ul>
+<li>Cmd + A 进行全选</li>
+<li>Cmd + Shift + L 进行待操作状态</li>
+<li>使用左右健 选择你要操作行首还是行尾</li>
+<li>所有的光标在每行的行首或者行尾，此时添加字符串即可</li>
+</ul>
+</li>
+</ol>
+<p>即可生成类似于下面格式的向量    </p>
+<figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br></pre></td><td class="code"><pre><span class="line">down_go &lt;- c(&quot;GO:0006094&quot;,</span><br><span class="line">             &quot;GO:0005978&quot;,</span><br><span class="line">             &quot;GO:0006695&quot;,</span><br><span class="line">             &quot;GO:0042254&quot;,</span><br><span class="line">             &quot;GO:0090070&quot;,</span><br><span class="line">             &quot;GO:0002181&quot;)</span><br></pre></td></tr></table></figure>
+
+          
+        
+      
+    </div>
+    
+    
+    
+
+    
+
+    
+
+    
+    
+      <div>
+	
+      </div>
+
+    <footer class="post-footer">
+      
+
+      
+
+      
+
+      
+      
+        <div class="post-eof"></div>
+      
+    </footer>
+  </div>
+  
+  
+  
+  </article>
+
+
+    
+      
+
+  
+
+  
+  
+  
+
+  <article class="post post-type-normal" itemscope itemtype="http://schema.org/Article">
+  
+  
+  
+  <div class="post-block">
     <link itemprop="mainEntityOfPage" href="http://yoursite.com/2021/02/05/1/">
 
     <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
@@ -335,7 +498,7 @@
     </span>
 
     <span hidden itemprop="publisher" itemscope itemtype="http://schema.org/Organization">
-      <meta itemprop="name" content="小于的个人空间">
+      <meta itemprop="name" content="小于的思想乐园">
     </span>
 
     
@@ -491,7 +654,7 @@
     </span>
 
     <span hidden itemprop="publisher" itemscope itemtype="http://schema.org/Organization">
-      <meta itemprop="name" content="小于的个人空间">
+      <meta itemprop="name" content="小于的思想乐园">
     </span>
 
     
@@ -639,7 +802,7 @@
     </span>
 
     <span hidden itemprop="publisher" itemscope itemtype="http://schema.org/Organization">
-      <meta itemprop="name" content="小于的个人空间">
+      <meta itemprop="name" content="小于的思想乐园">
     </span>
 
     
@@ -791,7 +954,7 @@
     </span>
 
     <span hidden itemprop="publisher" itemscope itemtype="http://schema.org/Organization">
-      <meta itemprop="name" content="小于的个人空间">
+      <meta itemprop="name" content="小于的思想乐园">
     </span>
 
     
@@ -939,7 +1102,7 @@
     </span>
 
     <span hidden itemprop="publisher" itemscope itemtype="http://schema.org/Organization">
-      <meta itemprop="name" content="小于的个人空间">
+      <meta itemprop="name" content="小于的思想乐园">
     </span>
 
     
@@ -1101,7 +1264,7 @@
     </span>
 
     <span hidden itemprop="publisher" itemscope itemtype="http://schema.org/Organization">
-      <meta itemprop="name" content="小于的个人空间">
+      <meta itemprop="name" content="小于的思想乐园">
     </span>
 
     
@@ -1276,7 +1439,7 @@
               
                 <a href="/archives">
               
-                  <span class="site-state-item-count">16</span>
+                  <span class="site-state-item-count">17</span>
                   <span class="site-state-item-name">日志</span>
                 </a>
               </div>
@@ -1298,7 +1461,7 @@
               
               <div class="site-state-item site-state-tags">
                 <a href="/tags/index.html">
-                  <span class="site-state-item-count">16</span>
+                  <span class="site-state-item-count">17</span>
                   <span class="site-state-item-name">标签</span>
                 </a>
               </div>
@@ -1398,7 +1561,7 @@
 </span>
 <div class="theme-info">
   <div class="powered-by"></div>
-  <span class="post-count">博客全站共5.8k字</span>
+  <span class="post-count">博客全站共5.9k字</span>
 </div>
 
         
