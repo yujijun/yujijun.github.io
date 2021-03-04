@@ -326,6 +326,160 @@
   
   
   <div class="post-block">
+    <link itemprop="mainEntityOfPage" href="http://yoursite.com/2021/02/09/1/">
+
+    <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
+      <meta itemprop="name" content="jijunyu">
+      <meta itemprop="description" content="">
+      <meta itemprop="image" content="/images/avatar.gif">
+    </span>
+
+    <span hidden itemprop="publisher" itemscope itemtype="http://schema.org/Organization">
+      <meta itemprop="name" content="小于的思想乐园">
+    </span>
+
+    
+      <header class="post-header">
+
+        
+        
+          <h1 class="post-title" itemprop="name headline">
+                
+                <a class="post-title-link" href="/2021/02/09/1/" itemprop="url">Linux服务器高效工作指南</a></h1>
+        
+
+        <div class="post-meta">
+          <span class="post-time">
+            
+              <span class="post-meta-item-icon">
+                <i class="fa fa-calendar-o"></i>
+              </span>
+              
+                <span class="post-meta-item-text">发表于</span>
+              
+              <time title="创建于" itemprop="dateCreated datePublished" datetime="2021-02-09T06:58:22+08:00">
+                2021-02-09
+              </time>
+            
+
+            
+
+            
+          </span>
+
+          
+            <span class="post-category" >
+            
+              <span class="post-meta-divider">|</span>
+            
+              <span class="post-meta-item-icon">
+                <i class="fa fa-folder-o"></i>
+              </span>
+              
+                <span class="post-meta-item-text">分类于</span>
+              
+              
+                <span itemprop="about" itemscope itemtype="http://schema.org/Thing">
+                  <a href="/categories/%E8%AE%A1%E7%AE%97%E6%9C%BA%E6%8A%80%E6%9C%AF/" itemprop="url" rel="index">
+                    <span itemprop="name">计算机技术</span>
+                  </a>
+                </span>
+
+                
+                
+              
+            </span>
+          
+
+          
+            
+          
+
+          
+          
+
+          
+
+          
+
+          
+
+        </div>
+      </header>
+    
+
+    
+    
+    
+    <div class="post-body" itemprop="articleBody">
+
+      
+      
+
+      
+        
+          
+            <p>服务器高效工作：</p>
+<ol>
+<li>服务器： 华为云服务器</li>
+<li>传输软件： 目前使用transmit 软件 / scp</li>
+<li>文档编辑： Rstudio server</li>
+<li>后台提交任务：screen</li>
+</ol>
+<figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br></pre></td><td class="code"><pre><span class="line">screen -S yourname -&gt; 新建一个叫yourname的session</span><br><span class="line">screen -ls -&gt; 列出当前所有的session</span><br><span class="line">screen -r yourname -&gt; 回到yourname这个session</span><br><span class="line">screen -d yourname -&gt; 远程detach某个session</span><br><span class="line">screen -d -r yourname -&gt; 结束当前session并回到yourname这个session</span><br><span class="line"></span><br><span class="line"># 添加SCREEN log文档</span><br><span class="line">在screen配置文件&#x2F;etc&#x2F;screenrc最后添加下面一行：</span><br><span class="line">logfile &#x2F;tmp&#x2F;screenlog_%t.log</span><br><span class="line"></span><br><span class="line">#启动运行screen 命令</span><br><span class="line">screen -L -t window1 -dmS test -&gt; 启动test 会话，test 会话的窗口名称为window1，屏幕日志记录在当下文件夹 .&#x2F;screenlog_window1.log</span><br></pre></td></tr></table></figure>
+<p>需要注意导出SCREEN 运行命令的log 文件；<br>reference: <a href="https://blog.csdn.net/lovemysea/article/details/78344114" target="_blank" rel="noopener">screen log</a></p>
+<figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br><span class="line">18</span><br><span class="line">19</span><br><span class="line">20</span><br><span class="line">21</span><br><span class="line">22</span><br><span class="line">23</span><br><span class="line">24</span><br><span class="line">25</span><br><span class="line">26</span><br><span class="line">27</span><br><span class="line">28</span><br><span class="line">29</span><br></pre></td><td class="code"><pre><span class="line">Conclusion about how to use Rstudio-server:</span><br><span class="line">(1)open terminal ：ssh root@*****</span><br><span class="line">密码：*****</span><br><span class="line">(2) install Rstudio: 直接查看Rstudio server 官网即可</span><br><span class="line">(3)Open Rstudio </span><br><span class="line">	sudo rstudio-server verify-installation #查看安装是否正常 </span><br><span class="line">	sudo rstudio-server start               #启动RStudio-server </span><br><span class="line">	sudo rstudio-server status                #查看RStudio-server </span><br><span class="line">	sudo rstudio-server stop                #关闭RStudio-server </span><br><span class="line">	sudo rstudio-server restart                #重启RStudio-server </span><br><span class="line">	##添加用户组 </span><br><span class="line">	sudo groupadd rstudio-group </span><br><span class="line">		##添加用户 </span><br><span class="line">	sudo useradd anlan -g rstudio-group </span><br><span class="line">	##设置用户密码 </span><br><span class="line">	sudo passwd xxxxxx </span><br><span class="line">	##创建用户目录 </span><br><span class="line">	sudo mkdir &#x2F;home&#x2F;anlan </span><br><span class="line">	##赋予目录权限 </span><br><span class="line">	sudo chown -R anlan:rstudio-group &#x2F;home&#x2F;anlan </span><br><span class="line"></span><br><span class="line">(4)建立本地隧道</span><br><span class="line">ssh -C -f -N  -L  8787:127.88.88.88:8787  root@121.36.0.146</span><br><span class="line">Need Password：Yjj18636810884@@@</span><br><span class="line">If there is a error: </span><br><span class="line">lsof -ti:8787 | xargs kill -9 </span><br><span class="line">Then do it again.</span><br><span class="line"></span><br><span class="line">(5)Open google chrome: localhost:8787</span><br></pre></td></tr></table></figure>
+          
+        
+      
+    </div>
+    
+    
+    
+
+    
+
+    
+
+    
+    
+      <div>
+	
+      </div>
+
+    <footer class="post-footer">
+      
+
+      
+
+      
+
+      
+      
+        <div class="post-eof"></div>
+      
+    </footer>
+  </div>
+  
+  
+  
+  </article>
+
+
+    
+      
+
+  
+
+  
+  
+  
+
+  <article class="post post-type-normal" itemscope itemtype="http://schema.org/Article">
+  
+  
+  
+  <div class="post-block">
     <link itemprop="mainEntityOfPage" href="http://yoursite.com/2021/02/06/1/">
 
     <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
@@ -1439,7 +1593,7 @@
               
                 <a href="/archives">
               
-                  <span class="site-state-item-count">17</span>
+                  <span class="site-state-item-count">18</span>
                   <span class="site-state-item-name">日志</span>
                 </a>
               </div>
@@ -1450,7 +1604,7 @@
               
               <div class="site-state-item site-state-categories">
                 <a href="/categories/index.html">
-                  <span class="site-state-item-count">4</span>
+                  <span class="site-state-item-count">5</span>
                   <span class="site-state-item-name">分类</span>
                 </a>
               </div>
@@ -1561,7 +1715,7 @@
 </span>
 <div class="theme-info">
   <div class="powered-by"></div>
-  <span class="post-count">博客全站共5.9k字</span>
+  <span class="post-count">博客全站共6.7k字</span>
 </div>
 
         
