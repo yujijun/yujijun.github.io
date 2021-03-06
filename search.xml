@@ -1,18 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>个人简介</title>
-    <url>/2020/09/09/1/</url>
-    <content><![CDATA[<p><img src="/2020/09/09/1/Yujijun_part1.png" alt="yujijun_CV"><br><img src="/2020/09/09/1/Yujijun_part2.png" alt><br><img src="/2020/09/09/1/Yujijun_part3.png" alt></p>
-]]></content>
-      <categories>
-        <category>成长</category>
-      </categories>
-      <tags>
-        <tag>成长足迹</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>每日迭代系统</title>
     <url>/2020/07/05/01-%E6%AF%8F%E6%97%A5%E8%BF%AD%E4%BB%A3%E7%B3%BB%E7%BB%9F/</url>
     <content><![CDATA[<h3 id="每日必做："><a href="#每日必做：" class="headerlink" title="每日必做："></a>每日必做：</h3><p>（1）制作工作计划：前天晚上9点左右</p>
@@ -52,47 +40,35 @@ sci-hub: https://scihub.wikicn.top/
       </tags>
   </entry>
   <entry>
-    <title>2021_新技能get</title>
-    <url>/2021/01/28/1/</url>
-    <content><![CDATA[<h1 id="软件习得："><a href="#软件习得：" class="headerlink" title="软件习得："></a>软件习得：</h1><ol>
-<li><p>AI 作图 和 组图</p>
-<ul>
-<li>【ECM 项目】</li>
-</ul>
+    <title>R Code 高效工作指南</title>
+    <url>/2021/02/10/1/</url>
+    <content><![CDATA[<ol>
+<li><p>以后开始做任何一个项目，首先想到的就是建立一个projects </p>
 </li>
-<li><p>R bookdown 制作图书</p>
-<ul>
-<li>【R 语言教学项目，R for Data Science】</li>
-</ul>
+<li><p>之后在folder下面简历一个完整的folder  架构，最好顺便建立一个github 。</p>
+<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">#至少应该包含以下几个folder：</span><br><span class="line">&#x2F;input</span><br><span class="line">&#x2F;output #for dataset output for example:*.RData；有多个版本，可以设置output_v1，output_v2 等</span><br><span class="line">&#x2F;script </span><br><span class="line"></span><br><span class="line">and a README.md file</span><br></pre></td></tr></table></figure></li>
+<li><p>尽量详细的编写README文件，每次编辑完成之后注意更新</p>
 </li>
-<li><p>R package 制作</p>
-<ul>
-<li>【R Code Library项目，写下自己常用函数】</li>
-</ul>
+</ol>
+<p>至少应该包含如下信息：<br>    - 项目说明<br>    - input 和 output 文件介绍<br>    - 整个过程的版本介绍<br>    - 各种参考文件</p>
+<ol start="4">
+<li><p>在Code 中，将 load library、input、parameters、main function、 output dataset、 output figure 几项分开展示<br>如下图所示：<br><img src="/2021/02/10/1/%E6%96%87%E4%BB%B6%E6%A0%BC%E5%BC%8F.png" alt="文件格式"><br><img src="/2021/02/10/1/output.png" alt="output"></p>
 </li>
-<li><p>English 日记写作小范式</p>
-<ul>
-<li>1Checker/Grammar/YoudaoDict/hallelujau输入法</li>
-</ul>
+<li><p>保存R 语言运行环境</p>
 </li>
-<li><p>English 文章写作小范式</p>
-<ul>
-<li>文献总结：Word 小目录整理法/Mindmaster 思维导图</li>
-<li>英语写作语法指导书</li>
-<li>英语论文搭配+语法网站，如【Google schalor 中直接输入你想要表的短语，其在论证中存在的形式可以很好的被检索到】<br><img src="/2021/01/28/1/%E5%AD%A6%E6%9C%AF%E6%90%9C%E7%B4%A2.png" alt="学术搜索"> </li>
-</ul>
+<li><p>在设置R付值变量名称的时候，尽量不要前后覆盖，名称要明确</p>
 </li>
-<li><p>Mindmaster 进行幻灯展示</p>
-</li>
-<li><p>将印象笔记中的需要交流的内容导出为PDF进行交流，其格式和交流效果远好于用html格式；</p>
+<li><p>更改完所有文件之后，及时更新README 文件，然后推送到github</p>
 </li>
 </ol>
 ]]></content>
       <categories>
-        <category>成长</category>
+        <category>编程技术</category>
       </categories>
       <tags>
-        <tag>成长足迹</tag>
+        <tag>R</tag>
+        <tag>Code</tag>
+        <tag>高效工作</tag>
       </tags>
   </entry>
   <entry>
@@ -138,37 +114,113 @@ sci-hub: https://scihub.wikicn.top/
       </tags>
   </entry>
   <entry>
-    <title>如何走出人生低谷</title>
-    <url>/2021/03/04/1/</url>
-    <content><![CDATA[<p><img src="/2021/03/04/1/%E9%A2%93%E5%BA%9F%E6%97%B6.png" alt></p>
-<h2 id="对什么都不感兴趣，行尸走肉般的状态的原因是什么？"><a href="#对什么都不感兴趣，行尸走肉般的状态的原因是什么？" class="headerlink" title="对什么都不感兴趣，行尸走肉般的状态的原因是什么？"></a>对什么都不感兴趣，行尸走肉般的状态的原因是什么？</h2><pre><code>- 没有享受过程</code></pre><p>（1）不是没有毅力，懒散，消极  关键在于，你没法从自己所做的每件事情中，获得足够的愉悦，活力 和 成就感。<br>（2）对于每一事物，我们应该学着积极地去经历一个过程，而不是去完成一个确定的结果。以结果为导向，是固定型思维，以过程为导向，是成长型思维。<br>（3）人来成就感中得以进步，而不是在挫败感中得到进步。</p>
-<h2 id="如何快速走出行尸走肉的状态？"><a href="#如何快速走出行尸走肉的状态？" class="headerlink" title="如何快速走出行尸走肉的状态？"></a>如何快速走出行尸走肉的状态？</h2><pre><code>- 放纵心灵，放纵身体，感知社会，开启新知</code></pre><p>（1）大力耍废<br>（2）大量流汗<br>（3）大量社交<br>（4）灌溉领域新职</p>
-<h2 id="人生焦虑的原因？"><a href="#人生焦虑的原因？" class="headerlink" title="人生焦虑的原因？"></a>人生焦虑的原因？</h2><pre><code>- 渺小力量的自我，妄图掌握过于强大的目标。</code></pre><h2 id="如何解决人生焦虑？"><a href="#如何解决人生焦虑？" class="headerlink" title="如何解决人生焦虑？"></a>如何解决人生焦虑？</h2><pre><code>- 大事化小，难事儿化易。</code></pre><p>做一件事儿，如果目光一直盯着未来那个较长时间尺度的最终目标，就会产生一种匮乏感和无力感。难以把控，甚至最终会对这件事儿失去控制。我们是活在当下的生物，而不是活在未来。将大事化细，分解成自己能力之下可完全掌控的小事儿；将难事儿化易，分解成无数个自己可毫无负担做成的小事儿。</p>
-<h2 id="为什么被手机绑架，感觉精力被掏空了？"><a href="#为什么被手机绑架，感觉精力被掏空了？" class="headerlink" title="为什么被手机绑架，感觉精力被掏空了？"></a>为什么被手机绑架，感觉精力被掏空了？</h2><pre><code>-  透支人生，精力耗散，追求快感，逃避现状</code></pre><p>（1）提前透支了自己人生体会后的空虚，仿佛从虚拟中过完了一生，在回到现实去过，就觉得索然无味。 - 世界上只有一种真正的英雄主义，就是认清了生活的真相后还依然热爱它<br>（2）注意力被过度耗散后的不专注。信息泛滥让人的持续专注力普遍下降了。微软曾经做过一个调查，2000年人们的持续专注力还有12秒，2015年只有8秒了。那2019怕不是只有5秒了。但真正能够让你的大脑汲取到营养的，都是需要高度且长时间专注的事，比如读书。循序渐进夺回自己的注意力。<br>（3） 快感刺激阈值被提高。<br>（4）除了逃避自己的现状外，我们也在利用玩儿手机来拖延、逃避眼前亟待解决的问题，活在有钱人用钱砸出来的虚幻的泡泡。</p>
-<h2 id="推动自己放下手机，马上去学习的方法？"><a href="#推动自己放下手机，马上去学习的方法？" class="headerlink" title="推动自己放下手机，马上去学习的方法？"></a>推动自己放下手机，马上去学习的方法？</h2><pre><code>- 逼着自己启动</code></pre><p>两分钟的自控力应该有吧，让自己停止思考，然后强迫自己的开始工作，只要一开始了工作，后面的事情就容易多了。</p>
-<h2 id="慢慢走向正规之后，如何开始做计划？"><a href="#慢慢走向正规之后，如何开始做计划？" class="headerlink" title="慢慢走向正规之后，如何开始做计划？"></a>慢慢走向正规之后，如何开始做计划？</h2><pre><code>- WOOP</code></pre><p>wish ：提出愿望<br>Outcome： 想象你完成了这一愿望，会产生什么良好结果<br>Obstacle：找出有什么障碍会阻止你实现愿望<br>Plan： 指定时间和地点，思考出一个应付障碍的行为。</p>
-]]></content>
-      <categories>
-        <category>低谷</category>
-      </categories>
-  </entry>
-  <entry>
-    <title>如何提高英语写作能力</title>
-    <url>/2021/03/03/1/</url>
-    <content><![CDATA[<p>建议来源于 对施一公的访谈</p>
-<ol>
-<li>养成阅读英文文章的习惯，每天30-60分钟，刚刚开始可以先阅读英文报纸。</li>
-<li>学会照葫芦画瓢，记住别人写文章的套路</li>
-<li>科研论文，重要的是逻辑</li>
-<li>先按照思路写一个以 sub heading 为主的框架，然后开始具体写作。</li>
-<li>第一稿写完以后，给自己不要超过一天的休息时间，开始休息第二稿，逻辑为主。第二稿之后，逻辑上一般不会有大的调整。</li>
+    <title>2021_新技能get</title>
+    <url>/2021/01/28/1/</url>
+    <content><![CDATA[<h1 id="软件习得："><a href="#软件习得：" class="headerlink" title="软件习得："></a>软件习得：</h1><ol>
+<li><p>AI 作图 和 组图</p>
+<ul>
+<li>【ECM 项目】</li>
+</ul>
+</li>
+<li><p>R bookdown 制作图书</p>
+<ul>
+<li>【R 语言教学项目，R for Data Science】</li>
+</ul>
+</li>
+<li><p>R package 制作</p>
+<ul>
+<li>【R Code Library项目，写下自己常用函数】</li>
+</ul>
+</li>
+<li><p>English 日记写作小范式</p>
+<ul>
+<li>1Checker/Grammar/YoudaoDict/hallelujau输入法</li>
+</ul>
+</li>
+<li><p>English 文章写作小范式</p>
+<ul>
+<li>文献总结：Word 小目录整理法/Mindmaster 思维导图</li>
+<li>英语写作语法指导书</li>
+<li>英语论文搭配+语法网站，如【Google schalor 中直接输入你想要表的短语，其在论证中存在的形式可以很好的被检索到】<br><img src="/2021/01/28/1/%E5%AD%A6%E6%9C%AF%E6%90%9C%E7%B4%A2.png" alt="学术搜索"> </li>
+</ul>
+</li>
+<li><p>Mindmaster 进行幻灯展示</p>
+</li>
+<li><p>将印象笔记中的需要交流的内容导出为PDF进行交流，其格式和交流效果远好于用html格式；</p>
+</li>
+<li><p>使用vscode IDE</p>
+</li>
+<li><p>使用vscode进行 leetcode 刷题</p>
+</li>
+<li><p>今天开始正式进军算法：<a href="https://mp.weixin.qq.com/s/7cpixzxE2DLaEn7F615AqQ；相信时间的力量" target="_blank" rel="noopener">https://mp.weixin.qq.com/s/7cpixzxE2DLaEn7F615AqQ；相信时间的力量</a></p>
+</li>
 </ol>
 ]]></content>
       <categories>
-        <category>英语</category>
+        <category>成长</category>
       </categories>
       <tags>
-        <tag>写作</tag>
+        <tag>成长足迹</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>linux常用命令积累</title>
+    <url>/2020/06/24/linux%E5%B8%B8%E7%94%A8%E5%91%BD%E4%BB%A4%E7%A7%AF%E7%B4%AF/</url>
+    <content><![CDATA[<p>（1）常用基本命令<br>cp //拷贝<br>touch //新建空白文件<br>rm //删除文件<br>mkdir //新建文件夹<br>rmdir //删除文件夹<br>mv //移动文件<br>chown  -R yjj:rstudo ./folder //更改文件的所属<br>（2） vim 打开文本之后，如何进行字符串搜索？<br><code>:  /test</code> 将定位到test位置，然后用n来进行跳转到不同的test行。</p>
+<p>（3）Linux文件权限设置<br> <code>chmod u|g|o|a  =(设置权限)|+(添加权限)|-(减少权限)  r|w|x  文件或者目录</code><br>for example:<br><code>chmod u=rwx file</code> //u example user</p>
+<p>持续更新中… …</p>
+]]></content>
+      <categories>
+        <category>计算机技术</category>
+      </categories>
+      <tags>
+        <tag>linux</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>R语言中常用的颜色设置</title>
+    <url>/2020/06/25/R%E4%B8%AD%E5%B8%B8%E7%94%A8%E7%9A%84%E9%A2%9C%E8%89%B2%E8%AE%BE%E7%BD%AE/</url>
+    <content><![CDATA[<h2 id="R语言中常用的specific-colors："><a href="#R语言中常用的specific-colors：" class="headerlink" title="R语言中常用的specific colors："></a>R语言中常用的specific colors：</h2><figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">col_heatmap1 &lt;- colorRampPalette(rev(c(&quot;Yellow&quot;, &quot;black&quot;,&quot;#FF00FF&quot;)))( 10)</span><br><span class="line"></span><br><span class="line">col_heatmap2 &lt;- colorRampPalette(rev(c(&quot;#67001F&quot;, &quot;#B2182B&quot;, &quot;#D6604D&quot;, &quot;#F4A582&quot;,</span><br><span class="line">                               &quot;#FDDBC7&quot;, &quot;#FFFFFF&quot;, &quot;#D1E5F0&quot;, &quot;#92C5DE&quot;,</span><br><span class="line">                               &quot;#4393C3&quot;, &quot;#2166AC&quot;, &quot;#053061&quot;)))(11)</span><br><span class="line">                               #colors for clusters </span><br><span class="line">cluster_col &lt;- c(&quot;#E64B35FF&quot;,&quot;#4DBBD5FF&quot;,&quot;#E7298A&quot;,&quot;#3C5488FF&quot;,&quot;#7E6148FF&quot;,</span><br><span class="line">                 &quot;#BA55D3&quot;,&quot;#00A087FF&quot;,&quot;#FFA500&quot;,&quot;#B3DE69&quot;,&quot;#BEBADA&quot;,&quot;#000000&quot;) #all colors are significant difference</span><br></pre></td></tr></table></figure>
+
+<h2 id="R语言中常用的设置颜色的包："><a href="#R语言中常用的设置颜色的包：" class="headerlink" title="R语言中常用的设置颜色的包："></a>R语言中常用的设置颜色的包：</h2><figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">library(RColorBrewer)</span><br><span class="line">display.brewer.all()</span><br><span class="line">display.brewer.pal(10,&quot;Set3&quot;)</span><br><span class="line">brewer.pal(7,&quot;BrBG&quot;)</span><br><span class="line"></span><br><span class="line">library(ggsci)</span><br><span class="line">library(scales)</span><br><span class="line">show_col(pal_aaas(&quot;default&quot;, alpha &#x3D; 0.6)(7))   </span><br><span class="line">rgb_gsea(palette &#x3D; c(&quot;default&quot;), n &#x3D; 12, alpha &#x3D; 1, reverse &#x3D; FALSE)</span><br><span class="line">rgb_material(palette &#x3D; c(&quot;red&quot;, &quot;pink&quot;, &quot;purple&quot;, &quot;deep-purple&quot;, &quot;indigo&quot;,</span><br><span class="line">  &quot;blue&quot;, &quot;light-blue&quot;, &quot;cyan&quot;, &quot;teal&quot;, &quot;green&quot;, &quot;light-green&quot;, &quot;lime&quot;,</span><br><span class="line">  &quot;yellow&quot;, &quot;amber&quot;, &quot;orange&quot;, &quot;deep-orange&quot;, &quot;brown&quot;, &quot;grey&quot;, &quot;blue-grey&quot;),</span><br><span class="line">  n &#x3D; 10, alpha &#x3D; 1, reverse &#x3D; FALSE)</span><br><span class="line"></span><br><span class="line"># n：产生多少个独立的颜色</span><br><span class="line"># alpha：透明度</span><br><span class="line"># reverse：逻辑值，决定颜色的排序是否反序</span><br><span class="line"># palette：在rgb_material中有19种配色方案</span><br></pre></td></tr></table></figure>
+
+<h2 id="R语言中绘图推荐的包"><a href="#R语言中绘图推荐的包" class="headerlink" title="R语言中绘图推荐的包"></a>R语言中绘图推荐的包</h2><figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">library(ggplot2)</span><br><span class="line">library(ggpubr)</span><br></pre></td></tr></table></figure>
+
+<h2 id="参考链接："><a href="#参考链接：" class="headerlink" title="参考链接："></a><strong>参考链接：</strong></h2><p>(1) <a href="https://blog.csdn.net/m0_45248682/article/details/104077631" target="_blank" rel="noopener">ggsci包的使用</a><br>(2) <a href="https://blog.csdn.net/jethai/article/details/52345061" target="_blank" rel="noopener">RColorBrewer包的使用</a><br>(3) <a href="http://www.5tu.cn/colors/rgb-peisebiao.html" target="_blank" rel="noopener">所有R的配色及其对应code</a><br>(4)<a href="https://www.jianshu.com/p/c0ebba8d1853" target="_blank" rel="noopener">ggpubr包的使用</a></p>
+]]></content>
+      <categories>
+        <category>计算机技术</category>
+      </categories>
+      <tags>
+        <tag>R</tag>
+        <tag>Code</tag>
+        <tag>Color</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>个人简介</title>
+    <url>/2020/09/09/1/</url>
+    <content><![CDATA[<p><img src="/2020/09/09/1/Yujijun_part1.png" alt="yujijun_CV"><br><img src="/2020/09/09/1/Yujijun_part2.png" alt><br><img src="/2020/09/09/1/Yujijun_part3.png" alt></p>
+]]></content>
+      <categories>
+        <category>成长</category>
+      </categories>
+      <tags>
+        <tag>成长足迹</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>人生由每一个小选择铸就</title>
+    <url>/2021/02/05/1/</url>
+    <content><![CDATA[<p>人生是由每天的几个关键小抉择铸就</p>
+<p>（1）起床-每天早上闹钟响的时候是否起床；<br>        -【每天4点半起床，在所有人还在睡眠中时，我已经出发，开始元气满满的一天】<br>（2）规划-早上坐在电脑前面的第一个工作，是否选择先规划一下一天的生活；<br>        - 【仿佛每时每刻都带着地图上图，任何时候都不会迷茫】<br>（3）行动- 开始做事儿之前是否选择尽量排除工作中可能受到的干扰；<br>        - 【主动选择去减少生活中的干扰：开启番茄钟，戴耳塞，手机调成勿扰模式】<br>（4）整理- 晚上合上电脑之前，是否选择先整理一下桌面<br>        -【让第二天准备开始工作的时刻，心情畅爽：清理电脑桌面和实体桌面】<br>（5）少看视频-每天想要拿起手机开视频的时候，时候能够用在重要的事情上，比如把看视频的时间腾挪出来给自己爱的人发微信。- 【心中有人，有梦，有烟火，不只让视频陪伴自己】<br>（6）遇到任何事情，第一反应不是拖着，而是选择想方设法去解决；<br>        -【不懂的问题及时查/马上思考学习路线，一看就会，则立马解决；立马解决不掉，则设计学习路线，开始一点点学习；立马理解不了，写在 to do list 中/向别人求助/寻求合作】</p>
+<p>每天关键瞬间的小选择 -&gt; 好习惯 -&gt; 大选择 -&gt; 大成就</p>
+]]></content>
+      <categories>
+        <category>成长</category>
+      </categories>
+      <tags>
+        <tag>启发</tag>
       </tags>
   </entry>
   <entry>
@@ -206,27 +258,34 @@ sci-hub: https://scihub.wikicn.top/
       </tags>
   </entry>
   <entry>
-    <title>如何高效安排自己一天的时间</title>
-    <url>/2021/02/24/1/</url>
-    <content><![CDATA[<p>人们常说：人如何度过一天，就如何度过一生。高效的安排自己每一天的生活还是非常重要的。 那么如何高效管理自己的一天的时光呢？我做了如下检索和思考。</p>
-<h2 id="关于时间管理的观点"><a href="#关于时间管理的观点" class="headerlink" title="关于时间管理的观点"></a>关于时间管理的观点</h2><p>关于时间管理，我比较认可的观念是李笑来的一个观点：和时间做朋友，我们需要管理是人，是人的精力，而不是时间。我们需要知道这个朋友什么时候高效，什么时候偷懒；真正了解这个朋友，才能与朋友精诚合作。</p>
-<h2 id="那么人一天什么时候最高效呢？"><a href="#那么人一天什么时候最高效呢？" class="headerlink" title="那么人一天什么时候最高效呢？"></a>那么人一天什么时候最高效呢？</h2><p>这是之前研究机构统计的一天24个小时中创建和完成的任务百分比：</p>
-<p><img src="/2021/02/24/1/1_%E4%B8%80%E5%A4%A9%E5%AE%89%E6%8E%92%E5%92%8C%E5%88%9B%E5%BB%BA%E4%BB%BB%E5%8A%A1%E7%99%BE%E5%88%86%E6%AF%94.png" alt>，</p>
-<p>从这个图的中我们能得到的最直观的结论是，人一天的精力和能量是有起伏的，并不是随时想做什么事儿，都有精力和能量高效的完成。是需要根据自己的生物节律来完成一天的工作。</p>
-<p>基于人一天生物节律的特性和对人工作效率的研究，台湾一个研究机构给出了如下建议：<br><img src="/2021/02/24/1/3_%E4%B8%80%E5%A4%A9%E6%97%B6%E9%97%B4%E6%AE%B5%E5%AE%89%E6%8E%92%E5%BB%BA%E8%AE%AE.png" alt></p>
-<h2 id="自己的工作安排"><a href="#自己的工作安排" class="headerlink" title="自己的工作安排"></a>自己的工作安排</h2><p>结合如上两个研究结果及自己的工作习惯，对自己的生活做了如下时间安排：</p>
-<p><strong>—总结—</strong></p>
-<p>【4:30-7:30】 写晨间日记 + 写毕业论文+早饭 逐渐让自己的进入工作状态 （早起，让我们在正常上班时间就度过了脑袋迟钝阶段，可以快速进入高效工作阶段）【生活自省 + 起步阶段】</p>
-<p>【8:00-11:00】 难度的工作，适合做高度集中脑力的工作 (完成自己的研究工作)、学习新软件【生命动力阶段】</p>
-<p>【12:00-14:00】午餐后； 午睡、简单的事前调查、安装软件、整理论文中的表格，下载文献，插入文献等。【中间休整阶段、自省阶段】</p>
-<p>【14:00-18:00】 创造性作业（头脑最清醒的时间阶段）、完成自己的研究性工作；思考编写论文框架、学习新软件【生命动力阶段】</p>
-<p>中间是我一天中难得的放松时光呢： 跑步🏃‍♀️，篮球、台球、羽毛球….. </p>
-<p>【19:30-21:30】 整理工作记录，写博客、写毕业论文【生活沉淀、自省阶段】</p>
-<p>【21:30-22:00】 清理桌面和做第二天计划 【生活规划阶段】</p>
-<p><strong>—补充—</strong><br>下面是一周7天中每天完成任务的百分比，冷冰冰的数字，对于拖延症患者是赤裸裸的警醒，一周的前几天尽量完成本周的重点任务，尽量不要拖延到明天。</p>
-<p><img src="/2021/02/24/1/2_%E4%B8%80%E5%91%A8%E5%AE%8C%E6%88%90%E4%BB%BB%E5%8A%A1%E6%AF%94%E4%BE%8B.png" alt></p>
-<p>做好了规划，剩下了坚持，养成良好习惯了，加油⛽️，小鱼儿🐠!!!</p>
+    <title>如何对一组字符串批量操作</title>
+    <url>/2021/02/06/1/</url>
+    <content><![CDATA[<p>问题： </p>
+<ol>
+<li><p>下载到一组字符串之后，如何进行简单操作，使之成为string 网站进行富集分析的input 文件格式</p>
+<ul>
+<li>打开Rstudio IDE，然后用替换的方式，将”，“ 替换为 ”\n“</li>
+</ul>
+</li>
+<li><p>如何将替换为一竖列的字符串，两边添加双引号和逗号，生成方便R code方便进行探索的格式：</p>
+<ul>
+<li>Cmd + A 进行全选</li>
+<li>Cmd + Shift + L 进行待操作状态</li>
+<li>使用左右健 选择你要操作行首还是行尾</li>
+<li>所有的光标在每行的行首或者行尾，此时添加字符串即可</li>
+</ul>
+</li>
+</ol>
+<p>即可生成类似于下面格式的向量    </p>
+<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">down_go &lt;- c(&quot;GO:0006094&quot;,</span><br><span class="line">             &quot;GO:0005978&quot;,</span><br><span class="line">             &quot;GO:0006695&quot;,</span><br><span class="line">             &quot;GO:0042254&quot;,</span><br><span class="line">             &quot;GO:0090070&quot;,</span><br><span class="line">             &quot;GO:0002181&quot;)</span><br></pre></td></tr></table></figure>
 ]]></content>
+      <categories>
+        <category>计算机技术</category>
+      </categories>
+      <tags>
+        <tag>Code</tag>
+        <tag>小技能</tag>
+      </tags>
   </entry>
   <entry>
     <title>如何快速建立一个Rstudio项目并关联到github</title>
@@ -270,86 +329,75 @@ sci-hub: https://scihub.wikicn.top/
       </tags>
   </entry>
   <entry>
-    <title>R Code 高效工作指南</title>
-    <url>/2021/02/10/1/</url>
-    <content><![CDATA[<ol>
-<li><p>以后开始做任何一个项目，首先想到的就是建立一个projects </p>
-</li>
-<li><p>之后在folder下面简历一个完整的folder  架构，最好顺便建立一个github 。</p>
-<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">#至少应该包含以下几个folder：</span><br><span class="line">&#x2F;input</span><br><span class="line">&#x2F;output #for dataset output for example:*.RData；有多个版本，可以设置output_v1，output_v2 等</span><br><span class="line">&#x2F;script </span><br><span class="line"></span><br><span class="line">and a README.md file</span><br></pre></td></tr></table></figure></li>
-<li><p>尽量详细的编写README文件，每次编辑完成之后注意更新</p>
-</li>
-</ol>
-<p>至少应该包含如下信息：<br>    - 项目说明<br>    - input 和 output 文件介绍<br>    - 整个过程的版本介绍<br>    - 各种参考文件</p>
-<ol start="4">
-<li><p>在Code 中，将 load library、input、parameters、main function、 output dataset、 output figure 几项分开展示<br>如下图所示：<br><img src="/2021/02/10/1/%E6%96%87%E4%BB%B6%E6%A0%BC%E5%BC%8F.png" alt="文件格式"><br><img src="/2021/02/10/1/output.png" alt="output"></p>
-</li>
-<li><p>保存R 语言运行环境</p>
-</li>
-<li><p>在设置R付值变量名称的时候，尽量不要前后覆盖，名称要明确</p>
-</li>
-<li><p>更改完所有文件之后，及时更新README 文件，然后推送到github</p>
-</li>
+    <title>如何高效安排自己一天的时间</title>
+    <url>/2021/02/24/1/</url>
+    <content><![CDATA[<p>人们常说：人如何度过一天，就如何度过一生。高效的安排自己每一天的生活还是非常重要的。 那么如何高效管理自己的一天的时光呢？我做了如下检索和思考。</p>
+<h2 id="关于时间管理的观点"><a href="#关于时间管理的观点" class="headerlink" title="关于时间管理的观点"></a>关于时间管理的观点</h2><p>关于时间管理，我比较认可的观念是李笑来的一个观点：和时间做朋友，我们需要管理是人，是人的精力，而不是时间。我们需要知道这个朋友什么时候高效，什么时候偷懒；真正了解这个朋友，才能与朋友精诚合作。</p>
+<h2 id="那么人一天什么时候最高效呢？"><a href="#那么人一天什么时候最高效呢？" class="headerlink" title="那么人一天什么时候最高效呢？"></a>那么人一天什么时候最高效呢？</h2><p>这是之前研究机构统计的一天24个小时中创建和完成的任务百分比：</p>
+<p><img src="/2021/02/24/1/1_%E4%B8%80%E5%A4%A9%E5%AE%89%E6%8E%92%E5%92%8C%E5%88%9B%E5%BB%BA%E4%BB%BB%E5%8A%A1%E7%99%BE%E5%88%86%E6%AF%94.png" alt>，</p>
+<p>从这个图的中我们能得到的最直观的结论是，人一天的精力和能量是有起伏的，并不是随时想做什么事儿，都有精力和能量高效的完成。是需要根据自己的生物节律来完成一天的工作。</p>
+<p>基于人一天生物节律的特性和对人工作效率的研究，台湾一个研究机构给出了如下建议：<br><img src="/2021/02/24/1/3_%E4%B8%80%E5%A4%A9%E6%97%B6%E9%97%B4%E6%AE%B5%E5%AE%89%E6%8E%92%E5%BB%BA%E8%AE%AE.png" alt></p>
+<h2 id="自己的工作安排"><a href="#自己的工作安排" class="headerlink" title="自己的工作安排"></a>自己的工作安排</h2><p>结合如上两个研究结果及自己的工作习惯，对自己的生活做了如下时间安排：</p>
+<p><strong>—总结—</strong></p>
+<p>【4:30-7:30】 写晨间日记 + 写毕业论文+早饭 逐渐让自己的进入工作状态 （早起，让我们在正常上班时间就度过了脑袋迟钝阶段，可以快速进入高效工作阶段）【生活自省 + 起步阶段】</p>
+<p>【8:00-11:00】 难度的工作，适合做高度集中脑力的工作 (完成自己的研究工作)、学习新软件【生命动力阶段】</p>
+<p>【12:00-14:00】午餐后； 午睡、简单的事前调查、安装软件、整理论文中的表格，下载文献，插入文献等。【中间休整阶段、自省阶段】</p>
+<p>【14:00-18:00】 创造性作业（头脑最清醒的时间阶段）、完成自己的研究性工作；思考编写论文框架、学习新软件【生命动力阶段】</p>
+<p>中间是我一天中难得的放松时光呢： 跑步🏃‍♀️，篮球、台球、羽毛球….. </p>
+<p>【19:30-21:30】 整理工作记录，写博客、写毕业论文【生活沉淀、自省阶段】</p>
+<p>【21:30-22:00】 清理桌面和做第二天计划 【生活规划阶段】</p>
+<p><strong>—补充—</strong><br>下面是一周7天中每天完成任务的百分比，冷冰冰的数字，对于拖延症患者是赤裸裸的警醒，一周的前几天尽量完成本周的重点任务，尽量不要拖延到明天。</p>
+<p><img src="/2021/02/24/1/2_%E4%B8%80%E5%91%A8%E5%AE%8C%E6%88%90%E4%BB%BB%E5%8A%A1%E6%AF%94%E4%BE%8B.png" alt></p>
+<p>做好了规划，剩下了坚持，养成良好习惯了，加油⛽️，小鱼儿🐠!!!</p>
+]]></content>
+  </entry>
+  <entry>
+    <title>如何提高英语写作能力</title>
+    <url>/2021/03/03/1/</url>
+    <content><![CDATA[<p>建议来源于 对施一公的访谈</p>
+<ol>
+<li>养成阅读英文文章的习惯，每天30-60分钟，刚刚开始可以先阅读英文报纸。</li>
+<li>学会照葫芦画瓢，记住别人写文章的套路</li>
+<li>科研论文，重要的是逻辑</li>
+<li>先按照思路写一个以 sub heading 为主的框架，然后开始具体写作。</li>
+<li>第一稿写完以后，给自己不要超过一天的休息时间，开始休息第二稿，逻辑为主。第二稿之后，逻辑上一般不会有大的调整。</li>
 </ol>
 ]]></content>
       <categories>
-        <category>编程技术</category>
+        <category>英语</category>
       </categories>
       <tags>
-        <tag>R</tag>
-        <tag>Code</tag>
-        <tag>高效工作</tag>
+        <tag>写作</tag>
       </tags>
   </entry>
   <entry>
-    <title>Linux服务器高效工作指南</title>
-    <url>/2021/02/09/1/</url>
-    <content><![CDATA[<p>服务器高效工作：</p>
-<ol>
-<li>服务器： 华为云服务器</li>
-<li>传输软件： 目前使用transmit 软件 / scp</li>
-<li>文档编辑： Rstudio server</li>
-<li>后台提交任务：screen</li>
-</ol>
-<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">screen -S yourname -&gt; 新建一个叫yourname的session</span><br><span class="line">screen -ls -&gt; 列出当前所有的session</span><br><span class="line">screen -r yourname -&gt; 回到yourname这个session</span><br><span class="line">screen -d yourname -&gt; 远程detach某个session</span><br><span class="line">screen -d -r yourname -&gt; 结束当前session并回到yourname这个session</span><br><span class="line"></span><br><span class="line"># 添加SCREEN log文档</span><br><span class="line">在screen配置文件&#x2F;etc&#x2F;screenrc最后添加下面一行：</span><br><span class="line">logfile &#x2F;tmp&#x2F;screenlog_%t.log</span><br><span class="line"></span><br><span class="line">#启动运行screen 命令</span><br><span class="line">screen -L -t window1 -dmS test -&gt; 启动test 会话，test 会话的窗口名称为window1，屏幕日志记录在当下文件夹 .&#x2F;screenlog_window1.log</span><br></pre></td></tr></table></figure>
-<p>需要注意导出SCREEN 运行命令的log 文件；<br>reference: <a href="https://blog.csdn.net/lovemysea/article/details/78344114" target="_blank" rel="noopener">screen log</a></p>
-<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">Conclusion about how to use Rstudio-server:</span><br><span class="line">(1)open terminal ：ssh root@*****</span><br><span class="line">密码：*****</span><br><span class="line">(2) install Rstudio: 直接查看Rstudio server 官网即可</span><br><span class="line">(3)Open Rstudio </span><br><span class="line">	sudo rstudio-server verify-installation #查看安装是否正常 </span><br><span class="line">	sudo rstudio-server start               #启动RStudio-server </span><br><span class="line">	sudo rstudio-server status                #查看RStudio-server </span><br><span class="line">	sudo rstudio-server stop                #关闭RStudio-server </span><br><span class="line">	sudo rstudio-server restart                #重启RStudio-server </span><br><span class="line">	##添加用户组 </span><br><span class="line">	sudo groupadd rstudio-group </span><br><span class="line">		##添加用户 </span><br><span class="line">	sudo useradd anlan -g rstudio-group </span><br><span class="line">	##设置用户密码 </span><br><span class="line">	sudo passwd xxxxxx </span><br><span class="line">	##创建用户目录 </span><br><span class="line">	sudo mkdir &#x2F;home&#x2F;anlan </span><br><span class="line">	##赋予目录权限 </span><br><span class="line">	sudo chown -R anlan:rstudio-group &#x2F;home&#x2F;anlan </span><br><span class="line"></span><br><span class="line">(4)建立本地隧道</span><br><span class="line">ssh -C -f -N  -L  8787:127.88.88.88:8787  root@121.36.0.146</span><br><span class="line">Need Password：Yjj18636810884@@@</span><br><span class="line">If there is a error: </span><br><span class="line">lsof -ti:8787 | xargs kill -9 </span><br><span class="line">Then do it again.</span><br><span class="line"></span><br><span class="line">(5)Open google chrome: localhost:8787</span><br></pre></td></tr></table></figure>]]></content>
-      <categories>
-        <category>计算机技术</category>
-      </categories>
-      <tags>
-        <tag>Linux</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>如何对一组字符串批量操作</title>
-    <url>/2021/02/06/1/</url>
-    <content><![CDATA[<p>问题： </p>
-<ol>
-<li><p>下载到一组字符串之后，如何进行简单操作，使之成为string 网站进行富集分析的input 文件格式</p>
-<ul>
-<li>打开Rstudio IDE，然后用替换的方式，将”，“ 替换为 ”\n“</li>
-</ul>
-</li>
-<li><p>如何将替换为一竖列的字符串，两边添加双引号和逗号，生成方便R code方便进行探索的格式：</p>
-<ul>
-<li>Cmd + A 进行全选</li>
-<li>Cmd + Shift + L 进行待操作状态</li>
-<li>使用左右健 选择你要操作行首还是行尾</li>
-<li>所有的光标在每行的行首或者行尾，此时添加字符串即可</li>
-</ul>
-</li>
-</ol>
-<p>即可生成类似于下面格式的向量    </p>
-<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">down_go &lt;- c(&quot;GO:0006094&quot;,</span><br><span class="line">             &quot;GO:0005978&quot;,</span><br><span class="line">             &quot;GO:0006695&quot;,</span><br><span class="line">             &quot;GO:0042254&quot;,</span><br><span class="line">             &quot;GO:0090070&quot;,</span><br><span class="line">             &quot;GO:0002181&quot;)</span><br></pre></td></tr></table></figure>
+    <title>我的第一个博客----今天是我26岁的生日</title>
+    <url>/2020/06/23/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E4%B8%AA%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/</url>
+    <content><![CDATA[<h2 id="新一岁的日常："><a href="#新一岁的日常：" class="headerlink" title="新一岁的日常："></a>新一岁的日常：</h2><p>（1）休息：早睡早起。<br>（2）工作：用好每一刻钟，随时进入心流，高效工作。<br>（3）健身:  增肌减脂，增强体能。<br>（4）习惯：建立成型的习惯打卡计划。</p>
+<h2 id="新一岁的目标："><a href="#新一岁的目标：" class="headerlink" title="新一岁的目标："></a>新一岁的目标：</h2><p>（1）学好专业知识：癌症免疫学/Neoantigen/生物信息学分析技能 —-&gt; 每天进步一点点，每天都有输出（一篇博客）<br>（2）学好基础技能： Oral English/English writing/Code（R and Python）/Mac—-&gt; 每天进步一点点，每天都有输出（一篇博客）<br>（3）做一个会思考的人：每天深入思考生活中的一个问题，查询可执行的答案，每天都有输出（一篇博客）</p>
 ]]></content>
       <categories>
-        <category>计算机技术</category>
+        <category>成长</category>
       </categories>
       <tags>
-        <tag>Code</tag>
-        <tag>小技能</tag>
+        <tag>日常</tag>
       </tags>
+  </entry>
+  <entry>
+    <title>如何走出颓废时光</title>
+    <url>/2021/03/04/1/</url>
+    <content><![CDATA[<h2 id="总述：当我进入丧的状态时，我该如何做？"><a href="#总述：当我进入丧的状态时，我该如何做？" class="headerlink" title="总述：当我进入丧的状态时，我该如何做？"></a>总述：当我进入丧的状态时，我该如何做？</h2><p><img src="/2021/03/04/1/%E9%A2%93%E5%BA%9F%E6%97%B6.png" alt><br>接下来，对上面的Figure 做具体的阐述。</p>
+<h2 id="1-突然进入对什么都不感兴趣，行尸走肉般的状态的原因是什么？"><a href="#1-突然进入对什么都不感兴趣，行尸走肉般的状态的原因是什么？" class="headerlink" title="1. 突然进入对什么都不感兴趣，行尸走肉般的状态的原因是什么？"></a>1. 突然进入对什么都不感兴趣，行尸走肉般的状态的原因是什么？</h2><pre><code>- 没有享受过程</code></pre><p>不是没有毅力，懒散，消极  关键在于，你没法从自己所做的每件事情中，获得足够的愉悦，活力 和 成就感。对于每一事物，我们应该学着积极地去经历一个过程，而不是去完成一个确定的结果。以结果为导向，是固定型思维，以过程为导向，是成长型思维。</p>
+<h2 id="如何快速走出行尸走肉的状态？"><a href="#如何快速走出行尸走肉的状态？" class="headerlink" title="如何快速走出行尸走肉的状态？"></a>如何快速走出行尸走肉的状态？</h2><pre><code>- 放纵心灵，放纵身体，感知社会，开启新知</code></pre><p>（1）大力耍废 - 给自己放个小假又如何<br>（2）大量流汗<br>（3）大量社交<br>（4）灌溉领域新职</p>
+<h2 id="人生焦虑的原因？"><a href="#人生焦虑的原因？" class="headerlink" title="人生焦虑的原因？"></a>人生焦虑的原因？</h2><pre><code>- 渺小力量的自我，妄图掌握过于强大的目标。</code></pre><h2 id="如何解决人生焦虑？"><a href="#如何解决人生焦虑？" class="headerlink" title="如何解决人生焦虑？"></a>如何解决人生焦虑？</h2><pre><code>- 大事化小，难事儿化易。</code></pre><p>做一件事儿，如果目光一直盯着未来那个较长时间尺度的最终目标，就会产生一种匮乏感和无力感。难以把控，甚至最终会对这件事儿失去控制。我们是活在当下的生物，而不是活在未来。将大事化细，分解成自己能力之下可完全掌控的小事儿；将难事儿化易，分解成无数个自己可毫无负担做成的小事儿。</p>
+<h2 id="为什么被手机绑架，感觉精力被掏空了？"><a href="#为什么被手机绑架，感觉精力被掏空了？" class="headerlink" title="为什么被手机绑架，感觉精力被掏空了？"></a>为什么被手机绑架，感觉精力被掏空了？</h2><pre><code>-  透支人生，精力耗散，追求快感，逃避现状</code></pre><p>（1）提前透支了自己人生体会后的空虚，仿佛从虚拟中过完了一生，在回到现实去过，就觉得索然无味。 - 世界上只有一种真正的英雄主义，就是认清了生活的真相后还依然热爱它<br>（2）注意力被过度耗散后的不专注。信息泛滥让人的持续专注力普遍下降了。微软曾经做过一个调查，2000年人们的持续专注力还有12秒，2015年只有8秒了。那2019怕不是只有5秒了。但真正能够让你的大脑汲取到营养的，都是需要高度且长时间专注的事，比如读书。循序渐进夺回自己的注意力。<br>（3） 快感刺激阈值被提高。<br>（4）除了逃避自己的现状外，我们也在利用玩儿手机来拖延、逃避眼前亟待解决的问题，活在有钱人用钱砸出来的虚幻的泡泡。</p>
+<h2 id="推动自己放下手机，马上去学习的方法？"><a href="#推动自己放下手机，马上去学习的方法？" class="headerlink" title="推动自己放下手机，马上去学习的方法？"></a>推动自己放下手机，马上去学习的方法？</h2><pre><code>- 逼着自己启动</code></pre><p>两分钟的自控力应该有吧，让自己停止思考，然后强迫自己的开始工作，只要一开始了工作，后面的事情就容易多了。</p>
+<h2 id="慢慢走向正规之后，如何开始做计划？"><a href="#慢慢走向正规之后，如何开始做计划？" class="headerlink" title="慢慢走向正规之后，如何开始做计划？"></a>慢慢走向正规之后，如何开始做计划？</h2><pre><code>- WOOP</code></pre><p>wish ：提出愿望<br>Outcome： 想象你完成了这一愿望，会产生什么良好结果<br>Obstacle：找出有什么障碍会阻止你实现愿望<br>Plan： 指定时间和地点，思考出一个应付障碍的行为。</p>
+<h2 id="至此，祝你人生启航！！！"><a href="#至此，祝你人生启航！！！" class="headerlink" title="至此，祝你人生启航！！！"></a>至此，祝你人生启航！！！</h2><p><img src="/2021/03/04/1/%E5%9C%A8%E8%B7%AF%E4%B8%8A.jpeg" alt></p>
+]]></content>
+      <categories>
+        <category>人生锦囊</category>
+      </categories>
   </entry>
   <entry>
     <title>希望自己20岁就懂的10个道理</title>
@@ -371,54 +419,6 @@ sci-hub: https://scihub.wikicn.top/
       </categories>
       <tags>
         <tag>启发</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>人生由每一个小选择铸就</title>
-    <url>/2021/02/05/1/</url>
-    <content><![CDATA[<p>人生是由每天的几个关键小抉择铸就</p>
-<p>（1）起床-每天早上闹钟响的时候是否起床；<br>        -【每天4点半起床，在所有人还在睡眠中时，我已经出发，开始元气满满的一天】<br>（2）规划-早上坐在电脑前面的第一个工作，是否选择先规划一下一天的生活；<br>        - 【仿佛每时每刻都带着地图上图，任何时候都不会迷茫】<br>（3）行动- 开始做事儿之前是否选择尽量排除工作中可能受到的干扰；<br>        - 【主动选择去减少生活中的干扰：开启番茄钟，戴耳塞，手机调成勿扰模式】<br>（4）整理- 晚上合上电脑之前，是否选择先整理一下桌面<br>        -【让第二天准备开始工作的时刻，心情畅爽：清理电脑桌面和实体桌面】<br>（5）少看视频-每天想要拿起手机开视频的时候，时候能够用在重要的事情上，比如把看视频的时间腾挪出来给自己爱的人发微信。- 【心中有人，有梦，有烟火，不只让视频陪伴自己】<br>（6）遇到任何事情，第一反应不是拖着，而是选择想方设法去解决；<br>        -【不懂的问题及时查/马上思考学习路线，一看就会，则立马解决；立马解决不掉，则设计学习路线，开始一点点学习；立马理解不了，写在 to do list 中/向别人求助/寻求合作】</p>
-<p>每天关键瞬间的小选择 -&gt; 好习惯 -&gt; 大选择 -&gt; 大成就</p>
-]]></content>
-      <categories>
-        <category>成长</category>
-      </categories>
-      <tags>
-        <tag>启发</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>R语言中常用的颜色设置</title>
-    <url>/2020/06/25/R%E4%B8%AD%E5%B8%B8%E7%94%A8%E7%9A%84%E9%A2%9C%E8%89%B2%E8%AE%BE%E7%BD%AE/</url>
-    <content><![CDATA[<h2 id="R语言中常用的specific-colors："><a href="#R语言中常用的specific-colors：" class="headerlink" title="R语言中常用的specific colors："></a>R语言中常用的specific colors：</h2><figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">col_heatmap1 &lt;- colorRampPalette(rev(c(&quot;Yellow&quot;, &quot;black&quot;,&quot;#FF00FF&quot;)))( 10)</span><br><span class="line"></span><br><span class="line">col_heatmap2 &lt;- colorRampPalette(rev(c(&quot;#67001F&quot;, &quot;#B2182B&quot;, &quot;#D6604D&quot;, &quot;#F4A582&quot;,</span><br><span class="line">                               &quot;#FDDBC7&quot;, &quot;#FFFFFF&quot;, &quot;#D1E5F0&quot;, &quot;#92C5DE&quot;,</span><br><span class="line">                               &quot;#4393C3&quot;, &quot;#2166AC&quot;, &quot;#053061&quot;)))(11)</span><br><span class="line">                               #colors for clusters </span><br><span class="line">cluster_col &lt;- c(&quot;#E64B35FF&quot;,&quot;#4DBBD5FF&quot;,&quot;#E7298A&quot;,&quot;#3C5488FF&quot;,&quot;#7E6148FF&quot;,</span><br><span class="line">                 &quot;#BA55D3&quot;,&quot;#00A087FF&quot;,&quot;#FFA500&quot;,&quot;#B3DE69&quot;,&quot;#BEBADA&quot;,&quot;#000000&quot;) #all colors are significant difference</span><br></pre></td></tr></table></figure>
-
-<h2 id="R语言中常用的设置颜色的包："><a href="#R语言中常用的设置颜色的包：" class="headerlink" title="R语言中常用的设置颜色的包："></a>R语言中常用的设置颜色的包：</h2><figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">library(RColorBrewer)</span><br><span class="line">display.brewer.all()</span><br><span class="line">display.brewer.pal(10,&quot;Set3&quot;)</span><br><span class="line">brewer.pal(7,&quot;BrBG&quot;)</span><br><span class="line"></span><br><span class="line">library(ggsci)</span><br><span class="line">library(scales)</span><br><span class="line">show_col(pal_aaas(&quot;default&quot;, alpha &#x3D; 0.6)(7))   </span><br><span class="line">rgb_gsea(palette &#x3D; c(&quot;default&quot;), n &#x3D; 12, alpha &#x3D; 1, reverse &#x3D; FALSE)</span><br><span class="line">rgb_material(palette &#x3D; c(&quot;red&quot;, &quot;pink&quot;, &quot;purple&quot;, &quot;deep-purple&quot;, &quot;indigo&quot;,</span><br><span class="line">  &quot;blue&quot;, &quot;light-blue&quot;, &quot;cyan&quot;, &quot;teal&quot;, &quot;green&quot;, &quot;light-green&quot;, &quot;lime&quot;,</span><br><span class="line">  &quot;yellow&quot;, &quot;amber&quot;, &quot;orange&quot;, &quot;deep-orange&quot;, &quot;brown&quot;, &quot;grey&quot;, &quot;blue-grey&quot;),</span><br><span class="line">  n &#x3D; 10, alpha &#x3D; 1, reverse &#x3D; FALSE)</span><br><span class="line"></span><br><span class="line"># n：产生多少个独立的颜色</span><br><span class="line"># alpha：透明度</span><br><span class="line"># reverse：逻辑值，决定颜色的排序是否反序</span><br><span class="line"># palette：在rgb_material中有19种配色方案</span><br></pre></td></tr></table></figure>
-
-<h2 id="R语言中绘图推荐的包"><a href="#R语言中绘图推荐的包" class="headerlink" title="R语言中绘图推荐的包"></a>R语言中绘图推荐的包</h2><figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">library(ggplot2)</span><br><span class="line">library(ggpubr)</span><br></pre></td></tr></table></figure>
-
-<h2 id="参考链接："><a href="#参考链接：" class="headerlink" title="参考链接："></a><strong>参考链接：</strong></h2><p>(1) <a href="https://blog.csdn.net/m0_45248682/article/details/104077631" target="_blank" rel="noopener">ggsci包的使用</a><br>(2) <a href="https://blog.csdn.net/jethai/article/details/52345061" target="_blank" rel="noopener">RColorBrewer包的使用</a><br>(3) <a href="http://www.5tu.cn/colors/rgb-peisebiao.html" target="_blank" rel="noopener">所有R的配色及其对应code</a><br>(4)<a href="https://www.jianshu.com/p/c0ebba8d1853" target="_blank" rel="noopener">ggpubr包的使用</a></p>
-]]></content>
-      <categories>
-        <category>计算机技术</category>
-      </categories>
-      <tags>
-        <tag>R</tag>
-        <tag>Code</tag>
-        <tag>Color</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>linux常用命令积累</title>
-    <url>/2020/06/24/linux%E5%B8%B8%E7%94%A8%E5%91%BD%E4%BB%A4%E7%A7%AF%E7%B4%AF/</url>
-    <content><![CDATA[<p>（1）常用基本命令<br>cp //拷贝<br>touch //新建空白文件<br>rm //删除文件<br>mkdir //新建文件夹<br>rmdir //删除文件夹<br>mv //移动文件<br>chown  -R yjj:rstudo ./folder //更改文件的所属<br>（2） vim 打开文本之后，如何进行字符串搜索？<br><code>:  /test</code> 将定位到test位置，然后用n来进行跳转到不同的test行。</p>
-<p>（3）Linux文件权限设置<br> <code>chmod u|g|o|a  =(设置权限)|+(添加权限)|-(减少权限)  r|w|x  文件或者目录</code><br>for example:<br><code>chmod u=rwx file</code> //u example user</p>
-<p>持续更新中… …</p>
-]]></content>
-      <categories>
-        <category>计算机技术</category>
-      </categories>
-      <tags>
-        <tag>linux</tag>
       </tags>
   </entry>
   <entry>
@@ -450,16 +450,23 @@ sci-hub: https://scihub.wikicn.top/
       </tags>
   </entry>
   <entry>
-    <title>我的第一个博客----今天是我26岁的生日</title>
-    <url>/2020/06/23/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E4%B8%AA%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/</url>
-    <content><![CDATA[<h2 id="新一岁的日常："><a href="#新一岁的日常：" class="headerlink" title="新一岁的日常："></a>新一岁的日常：</h2><p>（1）休息：早睡早起。<br>（2）工作：用好每一刻钟，随时进入心流，高效工作。<br>（3）健身:  增肌减脂，增强体能。<br>（4）习惯：建立成型的习惯打卡计划。</p>
-<h2 id="新一岁的目标："><a href="#新一岁的目标：" class="headerlink" title="新一岁的目标："></a>新一岁的目标：</h2><p>（1）学好专业知识：癌症免疫学/Neoantigen/生物信息学分析技能 —-&gt; 每天进步一点点，每天都有输出（一篇博客）<br>（2）学好基础技能： Oral English/English writing/Code（R and Python）/Mac—-&gt; 每天进步一点点，每天都有输出（一篇博客）<br>（3）做一个会思考的人：每天深入思考生活中的一个问题，查询可执行的答案，每天都有输出（一篇博客）</p>
-]]></content>
+    <title>Linux服务器高效工作指南</title>
+    <url>/2021/02/09/1/</url>
+    <content><![CDATA[<p>服务器高效工作：</p>
+<ol>
+<li>服务器： 华为云服务器</li>
+<li>传输软件： 目前使用transmit 软件 / scp</li>
+<li>文档编辑： Rstudio server</li>
+<li>后台提交任务：screen</li>
+</ol>
+<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">screen -S yourname -&gt; 新建一个叫yourname的session</span><br><span class="line">screen -ls -&gt; 列出当前所有的session</span><br><span class="line">screen -r yourname -&gt; 回到yourname这个session</span><br><span class="line">screen -d yourname -&gt; 远程detach某个session</span><br><span class="line">screen -d -r yourname -&gt; 结束当前session并回到yourname这个session</span><br><span class="line"></span><br><span class="line"># 添加SCREEN log文档</span><br><span class="line">在screen配置文件&#x2F;etc&#x2F;screenrc最后添加下面一行：</span><br><span class="line">logfile &#x2F;tmp&#x2F;screenlog_%t.log</span><br><span class="line"></span><br><span class="line">#启动运行screen 命令</span><br><span class="line">screen -L -t window1 -dmS test -&gt; 启动test 会话，test 会话的窗口名称为window1，屏幕日志记录在当下文件夹 .&#x2F;screenlog_window1.log</span><br></pre></td></tr></table></figure>
+<p>需要注意导出SCREEN 运行命令的log 文件；<br>reference: <a href="https://blog.csdn.net/lovemysea/article/details/78344114" target="_blank" rel="noopener">screen log</a></p>
+<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">Conclusion about how to use Rstudio-server:</span><br><span class="line">(1)open terminal ：ssh root@*****</span><br><span class="line">密码：*****</span><br><span class="line">(2) install Rstudio: 直接查看Rstudio server 官网即可</span><br><span class="line">(3)Open Rstudio </span><br><span class="line">	sudo rstudio-server verify-installation #查看安装是否正常 </span><br><span class="line">	sudo rstudio-server start               #启动RStudio-server </span><br><span class="line">	sudo rstudio-server status                #查看RStudio-server </span><br><span class="line">	sudo rstudio-server stop                #关闭RStudio-server </span><br><span class="line">	sudo rstudio-server restart                #重启RStudio-server </span><br><span class="line">	##添加用户组 </span><br><span class="line">	sudo groupadd rstudio-group </span><br><span class="line">		##添加用户 </span><br><span class="line">	sudo useradd anlan -g rstudio-group </span><br><span class="line">	##设置用户密码 </span><br><span class="line">	sudo passwd xxxxxx </span><br><span class="line">	##创建用户目录 </span><br><span class="line">	sudo mkdir &#x2F;home&#x2F;anlan </span><br><span class="line">	##赋予目录权限 </span><br><span class="line">	sudo chown -R anlan:rstudio-group &#x2F;home&#x2F;anlan </span><br><span class="line"></span><br><span class="line">(4)建立本地隧道</span><br><span class="line">ssh -C -f -N  -L  8787:127.88.88.88:8787  root@121.36.0.146</span><br><span class="line">Need Password：Yjj18636810884@@@</span><br><span class="line">If there is a error: </span><br><span class="line">lsof -ti:8787 | xargs kill -9 </span><br><span class="line">Then do it again.</span><br><span class="line"></span><br><span class="line">(5)Open google chrome: localhost:8787</span><br></pre></td></tr></table></figure>]]></content>
       <categories>
-        <category>成长</category>
+        <category>计算机技术</category>
       </categories>
       <tags>
-        <tag>日常</tag>
+        <tag>Linux</tag>
       </tags>
   </entry>
 </search>
