@@ -326,6 +326,180 @@
   
   
   <div class="post-block">
+    <link itemprop="mainEntityOfPage" href="http://yoursite.com/2021/02/11/1/">
+
+    <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
+      <meta itemprop="name" content="jijunyu">
+      <meta itemprop="description" content="">
+      <meta itemprop="image" content="/images/avatar.gif">
+    </span>
+
+    <span hidden itemprop="publisher" itemscope itemtype="http://schema.org/Organization">
+      <meta itemprop="name" content="小于的思想乐园">
+    </span>
+
+    
+      <header class="post-header">
+
+        
+        
+          <h1 class="post-title" itemprop="name headline">
+                
+                <a class="post-title-link" href="/2021/02/11/1/" itemprop="url">如何快速建立一个Rstudio项目并关联到github</a></h1>
+        
+
+        <div class="post-meta">
+          <span class="post-time">
+            
+              <span class="post-meta-item-icon">
+                <i class="fa fa-calendar-o"></i>
+              </span>
+              
+                <span class="post-meta-item-text">发表于</span>
+              
+              <time title="创建于" itemprop="dateCreated datePublished" datetime="2021-02-11T09:40:35+08:00">
+                2021-02-11
+              </time>
+            
+
+            
+
+            
+          </span>
+
+          
+            <span class="post-category" >
+            
+              <span class="post-meta-divider">|</span>
+            
+              <span class="post-meta-item-icon">
+                <i class="fa fa-folder-o"></i>
+              </span>
+              
+                <span class="post-meta-item-text">分类于</span>
+              
+              
+                <span itemprop="about" itemscope itemtype="http://schema.org/Thing">
+                  <a href="/categories/%E8%AE%A1%E7%AE%97%E6%9C%BA%E6%8A%80%E6%9C%AF/" itemprop="url" rel="index">
+                    <span itemprop="name">计算机技术</span>
+                  </a>
+                </span>
+
+                
+                
+              
+            </span>
+          
+
+          
+            
+          
+
+          
+          
+
+          
+
+          
+
+          
+
+        </div>
+      </header>
+    
+
+    
+    
+    
+    <div class="post-body" itemprop="articleBody">
+
+      
+      
+
+      
+        
+          
+            <h2 id="思路一："><a href="#思路一：" class="headerlink" title="思路一："></a>思路一：</h2><ol start="0">
+<li>然后创建远程Repository </li>
+<li>将远程repository 拉到本地</li>
+<li>创建一个本地的Rstudio 项目，将其创建到刚刚拉下来的folder 中。</li>
+<li>在 Rstudio项目中创建相应的文件夹,<ul>
+<li>/input</li>
+<li>/output</li>
+<li>/script</li>
+<li>/figure </li>
+<li>…….</li>
+</ul>
+</li>
+</ol>
+<ol start="4">
+<li>关掉Rproj，重新开启，应该就自动弹出git 按钮</li>
+<li>按照git按钮提交更新并push<br><img src="/2021/02/11/1/figure2.png" alt><br><img src="/2021/02/11/1/figure3.png" alt></li>
+</ol>
+<h2 id="思路二："><a href="#思路二：" class="headerlink" title="思路二："></a>思路二：</h2><ol>
+<li><p>创建一个本地的R proj ，将其创建在新的folder底下，此时会弹出 Create project as subdirectory 选项卡<br>如下图：<br><img src="/2021/02/11/1/figure1.png" alt></p>
+</li>
+<li><p>在远程创建一个Repository，并将Repository folder 和 远程repository 进行关联：</p>
+</li>
+</ol>
+<figure class="highlight plain"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">git remote add origin https:&#x2F;&#x2F;github.com&#x2F;yujijun&#x2F;CancerAntigenDatabase</span><br></pre></td></tr></table></figure>
+
+<ol start="3">
+<li>将本地的.Rproj 项目推送到远程</li>
+<li>以后在Rstudio 修改了某个文件，commit 后再push下就可以更新到GitHub上了。</li>
+</ol>
+
+          
+        
+      
+    </div>
+    
+    
+    
+
+    
+
+    
+
+    
+    
+      <div>
+	
+      </div>
+
+    <footer class="post-footer">
+      
+
+      
+
+      
+
+      
+      
+        <div class="post-eof"></div>
+      
+    </footer>
+  </div>
+  
+  
+  
+  </article>
+
+
+    
+      
+
+  
+
+  
+  
+  
+
+  <article class="post post-type-normal" itemscope itemtype="http://schema.org/Article">
+  
+  
+  
+  <div class="post-block">
     <link itemprop="mainEntityOfPage" href="http://yoursite.com/2021/02/10/1/">
 
     <span hidden itemprop="author" itemscope itemtype="http://schema.org/Person">
@@ -1757,7 +1931,7 @@
               
                 <a href="/archives">
               
-                  <span class="site-state-item-count">19</span>
+                  <span class="site-state-item-count">20</span>
                   <span class="site-state-item-name">日志</span>
                 </a>
               </div>
@@ -1879,7 +2053,7 @@
 </span>
 <div class="theme-info">
   <div class="powered-by"></div>
-  <span class="post-count">博客全站共7.3k字</span>
+  <span class="post-count">博客全站共8.1k字</span>
 </div>
 
         
