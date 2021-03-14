@@ -1,54 +1,45 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>个人简介</title>
-    <url>/2020/09/09/1/</url>
-    <content><![CDATA[<p><img src="/2020/09/09/1/Yujijun_part1.png" alt="yujijun_CV"><br><img src="/2020/09/09/1/Yujijun_part2.png" alt><br><img src="/2020/09/09/1/Yujijun_part3.png" alt></p>
+    <title>2021_aha_moment</title>
+    <url>/2021/01/28/1/</url>
+    <content><![CDATA[<h1 id="这里主要写下2021年所有启发，这是2021年最值得期待的时刻，也是自己成长的👣的见证"><a href="#这里主要写下2021年所有启发，这是2021年最值得期待的时刻，也是自己成长的👣的见证" class="headerlink" title="这里主要写下2021年所有启发，这是2021年最值得期待的时刻，也是自己成长的👣的见证"></a>这里主要写下2021年所有启发，这是2021年最值得期待的时刻，也是自己成长的👣的见证</h1><ol>
+<li><p>对小磕小碰的态度：虽不可避免，尽量小心和防患于未然；<br> -【来源打篮球磕碰事件】</p>
+</li>
+<li><p>生活中难免有小磕小碰，事情虽然可能不大，但对正常的生活状态和心情影响挺大；<br> -【换药6次*2h + 两次急诊 + 不能洗脸洗头】</p>
+</li>
+<li><p>做事儿做完美：走完99步，最后1步没走，也是失败；<br> -【来源于《见识》】</p>
+</li>
+<li><p>每天看起来都很忙，但是做计划和不作计划还是有非常大的区别：一个是穷忙，一个是高效有产出的忙；</p>
+</li>
+<li><p>没有调理的信息一文不值，甚至会起到反作用<br> -【所有网页标签归类了么？电脑文件夹有多乱，有多少无用信息？… …】</p>
+</li>
+<li><p>你以为你以为的就是你以为的？一定要常常问自己这句话，反思自己有太多的事儿是下意识就去做了，完全没有理性思考，一定要常常激发自己的慢思考；<br> -【因为在第一天早上换的第一次药，之后就要每天都早上去么？； 《思考的快与慢》】</p>
+</li>
+<li><p>积累-思考每一个值得积累的事儿，认真积累起来，这不就是千里之行始于足下的道理么？反思过去，我到底扔了多少瓦砾。<br> -【写到有用的函数，及时打包成R package；整理到有用的生物信息学 知识，及时整理到自己的R_for_Data_Science一书；整理有用的启发时刻，到自己的个人主页上；有用的网页标签做好整理】</p>
+</li>
+<li><p>严于律己，宽以待人，别较真；<br> -【我今天有点明白较真的根本原因了，其实就是以自己的想法要求别人，给别人 灌输自己的想法，想要改变别人，想要别人按你的意愿做，事实上没个人都不同，做事的方法也没有对与错，只是对这件事的理解不一样而已，没法要求别人向自己一样做，所以能做的就是把自己的事情做好】</p>
+</li>
+<li><p>对于别人问问题的时候，无论问题怎么样，态度平和谦逊，不带任何情绪的解决问题，别评论别人问题的好坏，如果不想解决，直接推辞就好，不用类似落井下石似的说三道四 ；<br> -【对于带硕士学习的启发，不能只与自己能力相当的人合作，要学会和能力比你差的人一起共处】</p>
+</li>
+<li><p>需要飞出去的子弹，在尽量全面的条件下，让其尽早飞出去；</p>
+<ul>
+<li>【来源于对于合作事件的考量，合作的过程中，最重要的需求是沟通，沟通中，早沟通好于晚沟通】</li>
+</ul>
+</li>
+</ol>
+<ol start="11">
+<li>如何带人学习：将主动权交出去，而非自己设定计划，以压迫的方式进行。<ul>
+<li>【将主动权交出去，让学生自己设定计划，然后自己设定讨论时间】</li>
+</ul>
+</li>
+</ol>
 ]]></content>
       <categories>
         <category>成长</category>
       </categories>
       <tags>
-        <tag>成长足迹</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>每日迭代系统</title>
-    <url>/2020/07/05/01-%E6%AF%8F%E6%97%A5%E8%BF%AD%E4%BB%A3%E7%B3%BB%E7%BB%9F/</url>
-    <content><![CDATA[<h3 id="每日必做："><a href="#每日必做：" class="headerlink" title="每日必做："></a>每日必做：</h3><p>（1）制作工作计划：前天晚上9点左右</p>
-<p>（2）做工作记录和工作总结：工作记录在Evernote、工作总结到（Evernote、博客、github）</p>
-<p>（3）写日记：每天晚上总结今天生活和工作</p>
-<p>（4）空闲时间，抽空检索阅读paper</p>
-<p>   (5)  检查每日邮件</p>
-<p>   (6)每天必须打开的网站</p>
-<h3 id="相关链接"><a href="#相关链接" class="headerlink" title="相关链接"></a>相关链接</h3><p>** 1.工作计划：**</p>
-<pre><code>Calender(Local):  Alfred -&gt; Calender
-
-Focus Matrix(local): Alfred -&gt; Focus Matrix （工作上的事儿）
-
-Stickies: Alfred -&gt; stickies (生活上的事儿)</code></pre><p> <strong>2. 工作记录和工作总结：</strong></p>
-<pre><code>印象笔记（本地）-&gt; 02-项目管理|8月份项目记录
-
-博客：https://yujijun.github.io/ （用来更新值得长期留存记忆的东西）
-
-github: https://github.com/yujijun (用来更新每天的code)</code></pre><p><strong>3.日记：</strong></p>
-<pre><code>印象笔记（本地）-&gt; 000-2020.08-八月份日记</code></pre><p><strong>4.文章阅读：</strong></p>
-<pre><code>pubmadpro: https://www.pubmed.pro/home
-
-sci-hub: https://scihub.wikicn.top/
-
-文章追踪软件：</code></pre><p><strong>5. 邮件</strong></p>
-<p>  学习邮箱： <a href="mailto:jijunyuedu@outlook.com">jijunyuedu@outlook.com</a></p>
-<p>  gmail邮箱：  <a href="mailto:jijunyu140@gmail.com">jijunyu140@gmail.com</a></p>
-<p>  QQ邮箱：<a href="mailto:1260297406@qq.com">1260297406@qq.com</a></p>
-<p><strong>6.网站</strong></p>
-<p>任务管理网站： Teambition</p>
-]]></content>
-      <categories>
-        <category>成长</category>
-      </categories>
-      <tags>
-        <tag>成长足迹</tag>
+        <tag>启发</tag>
       </tags>
   </entry>
   <entry>
@@ -102,39 +93,116 @@ sci-hub: https://scihub.wikicn.top/
       </tags>
   </entry>
   <entry>
-    <title>2021_aha_moment</title>
-    <url>/2021/01/28/1/</url>
-    <content><![CDATA[<h1 id="这里主要写下2021年所有启发，这是2021年最值得期待的时刻，也是自己成长的👣的见证"><a href="#这里主要写下2021年所有启发，这是2021年最值得期待的时刻，也是自己成长的👣的见证" class="headerlink" title="这里主要写下2021年所有启发，这是2021年最值得期待的时刻，也是自己成长的👣的见证"></a>这里主要写下2021年所有启发，这是2021年最值得期待的时刻，也是自己成长的👣的见证</h1><ol>
-<li><p>对小磕小碰的态度：虽不可避免，尽量小心和防患于未然；<br> -【来源打篮球磕碰事件】</p>
+    <title>每日迭代系统</title>
+    <url>/2020/07/05/01-%E6%AF%8F%E6%97%A5%E8%BF%AD%E4%BB%A3%E7%B3%BB%E7%BB%9F/</url>
+    <content><![CDATA[<h3 id="每日必做："><a href="#每日必做：" class="headerlink" title="每日必做："></a>每日必做：</h3><p>（1）制作工作计划：前天晚上9点左右</p>
+<p>（2）做工作记录和工作总结：工作记录在Evernote、工作总结到（Evernote、博客、github）</p>
+<p>（3）写日记：每天晚上总结今天生活和工作</p>
+<p>（4）空闲时间，抽空检索阅读paper</p>
+<p>   (5)  检查每日邮件</p>
+<p>   (6)每天必须打开的网站</p>
+<h3 id="相关链接"><a href="#相关链接" class="headerlink" title="相关链接"></a>相关链接</h3><p>** 1.工作计划：**</p>
+<pre><code>Calender(Local):  Alfred -&gt; Calender
+
+Focus Matrix(local): Alfred -&gt; Focus Matrix （工作上的事儿）
+
+Stickies: Alfred -&gt; stickies (生活上的事儿)</code></pre><p> <strong>2. 工作记录和工作总结：</strong></p>
+<pre><code>印象笔记（本地）-&gt; 02-项目管理|8月份项目记录
+
+博客：https://yujijun.github.io/ （用来更新值得长期留存记忆的东西）
+
+github: https://github.com/yujijun (用来更新每天的code)</code></pre><p><strong>3.日记：</strong></p>
+<pre><code>印象笔记（本地）-&gt; 000-2020.08-八月份日记</code></pre><p><strong>4.文章阅读：</strong></p>
+<pre><code>pubmadpro: https://www.pubmed.pro/home
+
+sci-hub: https://scihub.wikicn.top/
+
+文章追踪软件：</code></pre><p><strong>5. 邮件</strong></p>
+<p>  学习邮箱： <a href="mailto:jijunyuedu@outlook.com">jijunyuedu@outlook.com</a></p>
+<p>  gmail邮箱：  <a href="mailto:jijunyu140@gmail.com">jijunyu140@gmail.com</a></p>
+<p>  QQ邮箱：<a href="mailto:1260297406@qq.com">1260297406@qq.com</a></p>
+<p><strong>6.网站</strong></p>
+<p>任务管理网站： Teambition</p>
+]]></content>
+      <categories>
+        <category>成长</category>
+      </categories>
+      <tags>
+        <tag>成长足迹</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>R Code 高效工作指南</title>
+    <url>/2021/02/10/1/</url>
+    <content><![CDATA[<ol>
+<li><p>以后开始做任何一个项目，首先想到的就是建立一个projects </p>
 </li>
-<li><p>生活中难免有小磕小碰，事情虽然可能不大，但对正常的生活状态和心情影响挺大；<br> -【换药6次*2h + 两次急诊 + 不能洗脸洗头】</p>
-</li>
-<li><p>做事儿做完美：走完99步，最后1步没走，也是失败；<br> -【来源于《见识》】</p>
-</li>
-<li><p>每天看起来都很忙，但是做计划和不作计划还是有非常大的区别：一个是穷忙，一个是高效有产出的忙；</p>
-</li>
-<li><p>没有调理的信息一文不值，甚至会起到反作用<br> -【所有网页标签归类了么？电脑文件夹有多乱，有多少无用信息？… …】</p>
-</li>
-<li><p>你以为你以为的就是你以为的？一定要常常问自己这句话，反思自己有太多的事儿是下意识就去做了，完全没有理性思考，一定要常常激发自己的慢思考；<br> -【因为在第一天早上换的第一次药，之后就要每天都早上去么？； 《思考的快与慢》】</p>
-</li>
-<li><p>积累-思考每一个值得积累的事儿，认真积累起来，这不就是千里之行始于足下的道理么？反思过去，我到底扔了多少瓦砾。<br> -【写到有用的函数，及时打包成R package；整理到有用的生物信息学 知识，及时整理到自己的R_for_Data_Science一书；整理有用的启发时刻，到自己的个人主页上；有用的网页标签做好整理】</p>
-</li>
-<li><p>严于律己，宽以待人，别较真；<br> -【我今天有点明白较真的根本原因了，其实就是以自己的想法要求别人，给别人 灌输自己的想法，想要改变别人，想要别人按你的意愿做，事实上没个人都不同，做事的方法也没有对与错，只是对这件事的理解不一样而已，没法要求别人向自己一样做，所以能做的就是把自己的事情做好】</p>
-</li>
-<li><p>对于别人问问题的时候，无论问题怎么样，态度平和谦逊，不带任何情绪的解决问题，别评论别人问题的好坏，如果不想解决，直接推辞就好，不用类似落井下石似的说三道四 ；<br> -【对于带硕士学习的启发，不能只与自己能力相当的人合作，要学会和能力比你差的人一起共处】</p>
-</li>
-<li><p>需要飞出去的子弹，在尽量全面的条件下，让其尽早飞出去；</p>
-<ul>
-<li>【来源于对于合作事件的考量，合作的过程中，最重要的需求是沟通，沟通中，早沟通好于晚沟通】</li>
-</ul>
+<li><p>之后在folder下面简历一个完整的folder  架构，最好顺便建立一个github 。</p>
+<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">#至少应该包含以下几个folder：</span><br><span class="line">&#x2F;input</span><br><span class="line">&#x2F;output #for dataset output for example:*.RData；有多个版本，可以设置output_v1，output_v2 等</span><br><span class="line">&#x2F;script </span><br><span class="line"></span><br><span class="line">and a README.md file</span><br></pre></td></tr></table></figure></li>
+<li><p>尽量详细的编写README文件，每次编辑完成之后注意更新</p>
 </li>
 </ol>
-<ol start="11">
-<li>如何带人学习：将主动权交出去，而非自己设定计划，以压迫的方式进行。<ul>
-<li>【将主动权交出去，让学生自己设定计划，然后自己设定讨论时间】</li>
-</ul>
+<p>至少应该包含如下信息：<br>    - 项目说明<br>    - input 和 output 文件介绍<br>    - 整个过程的版本介绍<br>    - 各种参考文件</p>
+<ol start="4">
+<li><p>在Code 中，将 load library、input、parameters、main function、 output dataset、 output figure 几项分开展示<br>如下图所示：<br><img src="/2021/02/10/1/%E6%96%87%E4%BB%B6%E6%A0%BC%E5%BC%8F.png" alt="文件格式"><br><img src="/2021/02/10/1/output.png" alt="output"></p>
+</li>
+<li><p>保存R 语言运行环境</p>
+</li>
+<li><p>在设置R付值变量名称的时候，尽量不要前后覆盖，名称要明确</p>
+</li>
+<li><p>更改完所有文件之后，及时更新README 文件，然后推送到github</p>
 </li>
 </ol>
+]]></content>
+      <categories>
+        <category>编程技术</category>
+      </categories>
+      <tags>
+        <tag>R</tag>
+        <tag>Code</tag>
+        <tag>高效工作</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>R语言中常用的颜色设置</title>
+    <url>/2020/06/25/R%E4%B8%AD%E5%B8%B8%E7%94%A8%E7%9A%84%E9%A2%9C%E8%89%B2%E8%AE%BE%E7%BD%AE/</url>
+    <content><![CDATA[<h2 id="R语言中常用的specific-colors："><a href="#R语言中常用的specific-colors：" class="headerlink" title="R语言中常用的specific colors："></a>R语言中常用的specific colors：</h2><figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">col_heatmap1 &lt;- colorRampPalette(rev(c(&quot;Yellow&quot;, &quot;black&quot;,&quot;#FF00FF&quot;)))( 10)</span><br><span class="line"></span><br><span class="line">col_heatmap2 &lt;- colorRampPalette(rev(c(&quot;#67001F&quot;, &quot;#B2182B&quot;, &quot;#D6604D&quot;, &quot;#F4A582&quot;,</span><br><span class="line">                               &quot;#FDDBC7&quot;, &quot;#FFFFFF&quot;, &quot;#D1E5F0&quot;, &quot;#92C5DE&quot;,</span><br><span class="line">                               &quot;#4393C3&quot;, &quot;#2166AC&quot;, &quot;#053061&quot;)))(11)</span><br><span class="line">                               #colors for clusters </span><br><span class="line">cluster_col &lt;- c(&quot;#E64B35FF&quot;,&quot;#4DBBD5FF&quot;,&quot;#E7298A&quot;,&quot;#3C5488FF&quot;,&quot;#7E6148FF&quot;,</span><br><span class="line">                 &quot;#BA55D3&quot;,&quot;#00A087FF&quot;,&quot;#FFA500&quot;,&quot;#B3DE69&quot;,&quot;#BEBADA&quot;,&quot;#000000&quot;) #all colors are significant difference</span><br></pre></td></tr></table></figure>
+
+<h2 id="R语言中常用的设置颜色的包："><a href="#R语言中常用的设置颜色的包：" class="headerlink" title="R语言中常用的设置颜色的包："></a>R语言中常用的设置颜色的包：</h2><figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">library(RColorBrewer)</span><br><span class="line">display.brewer.all()</span><br><span class="line">display.brewer.pal(10,&quot;Set3&quot;)</span><br><span class="line">brewer.pal(7,&quot;BrBG&quot;)</span><br><span class="line"></span><br><span class="line">library(ggsci)</span><br><span class="line">library(scales)</span><br><span class="line">show_col(pal_aaas(&quot;default&quot;, alpha &#x3D; 0.6)(7))   </span><br><span class="line">rgb_gsea(palette &#x3D; c(&quot;default&quot;), n &#x3D; 12, alpha &#x3D; 1, reverse &#x3D; FALSE)</span><br><span class="line">rgb_material(palette &#x3D; c(&quot;red&quot;, &quot;pink&quot;, &quot;purple&quot;, &quot;deep-purple&quot;, &quot;indigo&quot;,</span><br><span class="line">  &quot;blue&quot;, &quot;light-blue&quot;, &quot;cyan&quot;, &quot;teal&quot;, &quot;green&quot;, &quot;light-green&quot;, &quot;lime&quot;,</span><br><span class="line">  &quot;yellow&quot;, &quot;amber&quot;, &quot;orange&quot;, &quot;deep-orange&quot;, &quot;brown&quot;, &quot;grey&quot;, &quot;blue-grey&quot;),</span><br><span class="line">  n &#x3D; 10, alpha &#x3D; 1, reverse &#x3D; FALSE)</span><br><span class="line"></span><br><span class="line"># n：产生多少个独立的颜色</span><br><span class="line"># alpha：透明度</span><br><span class="line"># reverse：逻辑值，决定颜色的排序是否反序</span><br><span class="line"># palette：在rgb_material中有19种配色方案</span><br></pre></td></tr></table></figure>
+
+<h2 id="R语言中绘图推荐的包"><a href="#R语言中绘图推荐的包" class="headerlink" title="R语言中绘图推荐的包"></a>R语言中绘图推荐的包</h2><figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">library(ggplot2)</span><br><span class="line">library(ggpubr)</span><br></pre></td></tr></table></figure>
+
+<h2 id="参考链接："><a href="#参考链接：" class="headerlink" title="参考链接："></a><strong>参考链接：</strong></h2><p>(1) <a href="https://blog.csdn.net/m0_45248682/article/details/104077631" target="_blank" rel="noopener">ggsci包的使用</a><br>(2) <a href="https://blog.csdn.net/jethai/article/details/52345061" target="_blank" rel="noopener">RColorBrewer包的使用</a><br>(3) <a href="http://www.5tu.cn/colors/rgb-peisebiao.html" target="_blank" rel="noopener">所有R的配色及其对应code</a><br>(4)<a href="https://www.jianshu.com/p/c0ebba8d1853" target="_blank" rel="noopener">ggpubr包的使用</a></p>
+]]></content>
+      <categories>
+        <category>计算机技术</category>
+      </categories>
+      <tags>
+        <tag>R</tag>
+        <tag>Code</tag>
+        <tag>Color</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>linux常用命令积累</title>
+    <url>/2020/06/24/linux%E5%B8%B8%E7%94%A8%E5%91%BD%E4%BB%A4%E7%A7%AF%E7%B4%AF/</url>
+    <content><![CDATA[<p>（1）常用基本命令<br>cp //拷贝<br>touch //新建空白文件<br>rm //删除文件<br>mkdir //新建文件夹<br>rmdir //删除文件夹<br>mv //移动文件<br>chown  -R yjj:rstudo ./folder //更改文件的所属<br>（2） vim 打开文本之后，如何进行字符串搜索？<br><code>:  /test</code> 将定位到test位置，然后用n来进行跳转到不同的test行。</p>
+<p>（3）Linux文件权限设置<br> <code>chmod u|g|o|a  =(设置权限)|+(添加权限)|-(减少权限)  r|w|x  文件或者目录</code><br>for example:<br><code>chmod u=rwx file</code> //u example user</p>
+<p>持续更新中… …</p>
+]]></content>
+      <categories>
+        <category>计算机技术</category>
+      </categories>
+      <tags>
+        <tag>linux</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>人生由每一个小选择铸就</title>
+    <url>/2021/02/05/1/</url>
+    <content><![CDATA[<p>人生是由每天的几个关键小抉择铸就</p>
+<p>（1）起床-每天早上闹钟响的时候是否起床；<br>        -【每天4点半起床，在所有人还在睡眠中时，我已经出发，开始元气满满的一天】<br>（2）规划-早上坐在电脑前面的第一个工作，是否选择先规划一下一天的生活；<br>        - 【仿佛每时每刻都带着地图上图，任何时候都不会迷茫】<br>（3）行动- 开始做事儿之前是否选择尽量排除工作中可能受到的干扰；<br>        - 【主动选择去减少生活中的干扰：开启番茄钟，戴耳塞，手机调成勿扰模式】<br>（4）整理- 晚上合上电脑之前，是否选择先整理一下桌面<br>        -【让第二天准备开始工作的时刻，心情畅爽：清理电脑桌面和实体桌面】<br>（5）少看视频-每天想要拿起手机开视频的时候，时候能够用在重要的事情上，比如把看视频的时间腾挪出来给自己爱的人发微信。- 【心中有人，有梦，有烟火，不只让视频陪伴自己】<br>（6）遇到任何事情，第一反应不是拖着，而是选择想方设法去解决；<br>        -【不懂的问题及时查/马上思考学习路线，一看就会，则立马解决；立马解决不掉，则设计学习路线，开始一点点学习；立马理解不了，写在 to do list 中/向别人求助/寻求合作】</p>
+<p>每天关键瞬间的小选择 -&gt; 好习惯 -&gt; 大选择 -&gt; 大成就</p>
 ]]></content>
       <categories>
         <category>成长</category>
@@ -144,116 +212,15 @@ sci-hub: https://scihub.wikicn.top/
       </tags>
   </entry>
   <entry>
-    <title>高效学习之路</title>
-    <url>/2021/03/11/1/</url>
-    <content><![CDATA[<h2 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h2><p>学习如何学习，才能真正由内而外提升自己的学习效率，走入学习的快车道</p>
-<h2 id="学习能力升级之路中的六大模块"><a href="#学习能力升级之路中的六大模块" class="headerlink" title="学习能力升级之路中的六大模块"></a>学习能力升级之路中的六大模块</h2><ul>
-<li>认知的世界观</li>
-<li>学习的原理</li>
-<li>学习科学基础</li>
-<li>如何甄选知识</li>
-<li><strong>如何学习</strong></li>
-<li>知识管理</li>
-</ul>
-<h2 id="思维导图"><a href="#思维导图" class="headerlink" title="思维导图"></a>思维导图</h2><p><img src="/2021/03/11/1/%E8%AE%A4%E7%9F%A5%E5%AD%A6%E4%B9%A0%E6%B3%95.png" alt><br>完整的导图见：<a href="https://pan.baidu.com/s/1IdHiuv6qKyTwHC88Nx-c_Q" target="_blank" rel="noopener">https://pan.baidu.com/s/1IdHiuv6qKyTwHC88Nx-c_Q</a>  密码: jdpe</p>
-<h2 id="Reference："><a href="#Reference：" class="headerlink" title="Reference："></a>Reference：</h2><p>链接: <a href="https://pan.baidu.com/s/1MSFiuMp2uLaAnbuOtrsmbg" target="_blank" rel="noopener">https://pan.baidu.com/s/1MSFiuMp2uLaAnbuOtrsmbg</a>  密码: s8ih</p>
+    <title>个人简介</title>
+    <url>/2020/09/09/1/</url>
+    <content><![CDATA[<p><img src="/2020/09/09/1/Yujijun_part1.png" alt="yujijun_CV"><br><img src="/2020/09/09/1/Yujijun_part2.png" alt><br><img src="/2020/09/09/1/Yujijun_part3.png" alt></p>
 ]]></content>
       <categories>
-        <category>学习</category>
+        <category>成长</category>
       </categories>
       <tags>
-        <tag>高效学习</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>强势文化和弱势文化</title>
-    <url>/2021/03/10/1/</url>
-    <content><![CDATA[<p>看《天道有感》</p>
-<h2 id="思考的起点"><a href="#思考的起点" class="headerlink" title="思考的起点"></a>思考的起点</h2><p>透视社会依次有三个层面：技术、制度和文化。小到一个人，大到一个国家一个民族，任何一种命运归根到底都是那种文化属性的产物。强势文化造就强者，弱势文化造就弱者，这是规律，也是定律。也可以理解为天道，不以人的意志为转移。 -《天道》</p>
-<h2 id="强势文化"><a href="#强势文化" class="headerlink" title="强势文化"></a>强势文化</h2><h3 id="什么是强势文化？"><a href="#什么是强势文化？" class="headerlink" title="什么是强势文化？"></a>什么是强势文化？</h3><p>强势文化的定义一：遵循事物规律、看清事情真相的文化，特点：尊重客观规律，主动（自强不息），逆向思维推演<br>强势文化的定义二：自我觉醒的文化就是强势文化，其特点为：觉醒、顺应、应用。</p>
-<h3 id="强势文化形成的四个阶段"><a href="#强势文化形成的四个阶段" class="headerlink" title="强势文化形成的四个阶段"></a>强势文化形成的四个阶段</h3><p>分别是：失望阶段、对抗阶段、觉醒阶段、应用阶段</p>
-<h3 id="如何培养自己的强势文化思维"><a href="#如何培养自己的强势文化思维" class="headerlink" title="如何培养自己的强势文化思维"></a>如何培养自己的强势文化思维</h3><p>意识上，要变得更加优秀<br>思维上，眼光放长远，看到事物发展的规律<br>冷血是很好的战略，让我们看清世界<br>好的战术是：拓展和提升自己世界的能量。</p>
-<h3 id="强者文化的外显品质"><a href="#强者文化的外显品质" class="headerlink" title="强者文化的外显品质"></a>强者文化的外显品质</h3><ol>
-<li>情绪淡定，胸有成竹：玉可碎而不可损其白，竹可破而不可毁其节，胸有惊雷而面如平湖者，可拜上将军</li>
-<li>潜居抱道，以待其时：所谓不执著于出人头地，实际上是一种潜居抱道、以待其时的智慧。大凡成就一番事业的人，无不经过长久不鸣的寂寞，在寂寞中执着地追求成功。因为耐得住寂寞，才有可能成功</li>
-</ol>
-<h2 id="弱势文化"><a href="#弱势文化" class="headerlink" title="弱势文化"></a>弱势文化</h2><h3 id="什么是弱势文化"><a href="#什么是弱势文化" class="headerlink" title="什么是弱势文化"></a>什么是弱势文化</h3><p>弱势文化定义一： 弱势文化就是依赖强者的道德期望破格获取的文化，也是期望救主的文化“，特点：等，靠，要<br>    弱者文化，本质上是弱化人，不断压缩一个人的内在的能量，降低一个人的主观能动性。让人不相信自己，害怕变化，变得安于现状，自我满足。什么事都依赖于强者。“凡事等、靠、要”，来等待一位救世主拯救自己。可哪里有什么救世主？强者文化认为，真正的救世主是自己！        弱者还通常扮演了受害者的角色，来博取别人的同情。对于事情更多的是等待、索取，等不到要不到就抱怨、受害心理。</p>
-<p>弱势文化定义二：自我麻木的文化就是弱势文化，其特点是：服从，依赖，麻木。</p>
-<p>弱势文化定义三：活在幻想中，看不清事实的人</p>
-<h3 id="弱势文化形成的四个阶段："><a href="#弱势文化形成的四个阶段：" class="headerlink" title="弱势文化形成的四个阶段："></a>弱势文化形成的四个阶段：</h3><p>分别为：失望阶段、对抗阶段、妥协阶段、麻木阶段。</p>
-<h2 id="参考资料"><a href="#参考资料" class="headerlink" title="参考资料"></a>参考资料</h2><p><a href="https://www.jianshu.com/p/3a5a37bc828d" target="_blank" rel="noopener">https://www.jianshu.com/p/3a5a37bc828d</a><br><a href="https://zhuanlan.zhihu.com/p/355109363" target="_blank" rel="noopener">https://zhuanlan.zhihu.com/p/355109363</a></p>
-]]></content>
-  </entry>
-  <entry>
-    <title>如何总结和整理学术文献</title>
-    <url>/2021/03/08/1/</url>
-    <content><![CDATA[<p>&ensp;&ensp;如果说科研是一场学术竞赛，那么文献就是我们的课本，阅读笔记就是课堂笔记，写自己的学术论文就是一次考试。 如何选自己的学术课本，如何阅读和整理的自己的课堂笔记，将很大程度上决定自己在本次学术考试中的成败。可以这样说，高效的阅读学术论文，是科研人员最基本也是最重要的能力之一。<br>&ensp;&ensp;下面就根据自己的经验，谈谈如何总结和整理自己的学术文献。</p>
-<p><img src="/2021/03/08/1/%E9%98%85%E8%AF%BB%E5%92%8C%E6%95%B4%E7%90%86%E6%96%87%E7%8C%AE.jpg" alt></p>
-<h2 id="总结和整理的定义："><a href="#总结和整理的定义：" class="headerlink" title="总结和整理的定义："></a>总结和整理的定义：</h2><p>&ensp;&ensp;总结是一个消化吸收的过程，整理的实质是在归类这些被消化吸收了的知识，以方便用最高效的方式被唤醒。</p>
-<h2 id="总结文献："><a href="#总结文献：" class="headerlink" title="总结文献："></a>总结文献：</h2><ol>
-<li>预筛：</li>
-</ol>
-<ul>
-<li>不是每篇文献都是需要总结的，提前预筛需要总结的文献，通过快速浏览摘要，关键词，结论等部分做文献预筛选，<strong>筛选的核心标准就是跟自己研究方向的契合程度</strong>。</li>
-</ul>
-<ol start="2">
-<li>阅读<br>（1）<strong>阅读前：</strong></li>
-</ol>
-<ul>
-<li>一定要思考：为什么要总结这篇文章，写下来随时提醒自己。<br>（2）<strong>阅读中：</strong></li>
-</ul>
-<ul>
-<li>初阅读：简单阅读每个章节标题去确定文章的研究问题和研究意义，把握整体脉络；</li>
-<li>深度阅读：在交互式阅读中，标注重点，整理文章脉络，画细节，写标注； </li>
-<li>吸收：结合之前的标注，用自己的话阐述这篇文章的整体脉络和关键知识点（避免抄袭）如果不能用自己的话阐述，可能还没有完全理解本论文。<br>（3）<strong>阅读后：</strong></li>
-</ul>
-<ul>
-<li>以 Minireview 的形式总结学术最新进展。每篇文章都是一个小的little review, 10-20篇文章的系统梳理，就可以整理成Mini review，每周写一到两篇的评论性文章。</li>
-</ul>
-<h2 id="整理文献："><a href="#整理文献：" class="headerlink" title="整理文献："></a>整理文献：</h2><p>（1）思想：轻整理，重搜索 - 推荐工具使用（Mendeley）；<br>（2）同一类的文献放在一个文件夹底下，也不要切分太细；<br>（3）将整理的Minireview 放到文件夹底下；</p>
-<p>学术的路漫长又如何，我愿做一个学术小悟空，一路降妖除魔，求去学术真经。<br><img src="/2021/03/08/1/%E5%A4%A7%E8%AF%9D%E8%A5%BF%E6%B8%B8.jpg" alt></p>
-]]></content>
-      <categories>
-        <category>锦囊</category>
-      </categories>
-      <tags>
-        <tag>文献</tag>
-        <tag>阅读</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>如何走出颓废时光</title>
-    <url>/2021/03/04/1/</url>
-    <content><![CDATA[<h2 id="总述：当我进入丧的状态时，我该如何做？"><a href="#总述：当我进入丧的状态时，我该如何做？" class="headerlink" title="总述：当我进入丧的状态时，我该如何做？"></a>总述：当我进入丧的状态时，我该如何做？</h2><p><img src="/2021/03/04/1/%E9%A2%93%E5%BA%9F%E6%97%B6.png" alt><br>接下来，对上面的Figure 做具体的阐述。</p>
-<h2 id="1-突然进入对什么都不感兴趣，行尸走肉般的状态的原因是什么？"><a href="#1-突然进入对什么都不感兴趣，行尸走肉般的状态的原因是什么？" class="headerlink" title="1. 突然进入对什么都不感兴趣，行尸走肉般的状态的原因是什么？"></a>1. 突然进入对什么都不感兴趣，行尸走肉般的状态的原因是什么？</h2><pre><code>- 没有享受过程</code></pre><p>不是没有毅力，懒散，消极  关键在于，你没法从自己所做的每件事情中，获得足够的愉悦，活力 和 成就感。对于每一事物，我们应该学着积极地去经历一个过程，而不是去完成一个确定的结果。以结果为导向，是固定型思维，以过程为导向，是成长型思维。</p>
-<h2 id="如何快速走出行尸走肉的状态？"><a href="#如何快速走出行尸走肉的状态？" class="headerlink" title="如何快速走出行尸走肉的状态？"></a>如何快速走出行尸走肉的状态？</h2><pre><code>- 放纵心灵，放纵身体，感知社会，开启新知</code></pre><p>（1）大力耍废 - 给自己放个小假又如何<br>（2）大量流汗<br>（3）大量社交<br>（4）灌溉领域新职</p>
-<h2 id="人生焦虑的原因？"><a href="#人生焦虑的原因？" class="headerlink" title="人生焦虑的原因？"></a>人生焦虑的原因？</h2><pre><code>- 渺小力量的自我，妄图掌握过于强大的目标。</code></pre><h2 id="如何解决人生焦虑？"><a href="#如何解决人生焦虑？" class="headerlink" title="如何解决人生焦虑？"></a>如何解决人生焦虑？</h2><pre><code>- 大事化小，难事儿化易。</code></pre><p>做一件事儿，如果目光一直盯着未来那个较长时间尺度的最终目标，就会产生一种匮乏感和无力感。难以把控，甚至最终会对这件事儿失去控制。我们是活在当下的生物，而不是活在未来。将大事化细，分解成自己能力之下可完全掌控的小事儿；将难事儿化易，分解成无数个自己可毫无负担做成的小事儿。</p>
-<h2 id="为什么被手机绑架，感觉精力被掏空了？"><a href="#为什么被手机绑架，感觉精力被掏空了？" class="headerlink" title="为什么被手机绑架，感觉精力被掏空了？"></a>为什么被手机绑架，感觉精力被掏空了？</h2><pre><code>-  透支人生，精力耗散，追求快感，逃避现状</code></pre><p>（1）提前透支了自己人生体会后的空虚，仿佛从虚拟中过完了一生，在回到现实去过，就觉得索然无味。 - 世界上只有一种真正的英雄主义，就是认清了生活的真相后还依然热爱它<br>（2）注意力被过度耗散后的不专注。信息泛滥让人的持续专注力普遍下降了。微软曾经做过一个调查，2000年人们的持续专注力还有12秒，2015年只有8秒了。那2019怕不是只有5秒了。但真正能够让你的大脑汲取到营养的，都是需要高度且长时间专注的事，比如读书。循序渐进夺回自己的注意力。<br>（3） 快感刺激阈值被提高。<br>（4）除了逃避自己的现状外，我们也在利用玩儿手机来拖延、逃避眼前亟待解决的问题，活在有钱人用钱砸出来的虚幻的泡泡。</p>
-<h2 id="推动自己放下手机，马上去学习的方法？"><a href="#推动自己放下手机，马上去学习的方法？" class="headerlink" title="推动自己放下手机，马上去学习的方法？"></a>推动自己放下手机，马上去学习的方法？</h2><pre><code>- 逼着自己启动</code></pre><p>两分钟的自控力应该有吧，让自己停止思考，然后强迫自己的开始工作，只要一开始了工作，后面的事情就容易多了。</p>
-<h2 id="慢慢走向正规之后，如何开始做计划？"><a href="#慢慢走向正规之后，如何开始做计划？" class="headerlink" title="慢慢走向正规之后，如何开始做计划？"></a>慢慢走向正规之后，如何开始做计划？</h2><pre><code>- WOOP</code></pre><p>wish ：提出愿望<br>Outcome： 想象你完成了这一愿望，会产生什么良好结果<br>Obstacle：找出有什么障碍会阻止你实现愿望<br>Plan： 指定时间和地点，思考出一个应付障碍的行为。</p>
-<h2 id="至此，祝你人生启航！！！"><a href="#至此，祝你人生启航！！！" class="headerlink" title="至此，祝你人生启航！！！"></a>至此，祝你人生启航！！！</h2><p><img src="/2021/03/04/1/%E5%9C%A8%E8%B7%AF%E4%B8%8A.jpeg" alt></p>
-]]></content>
-      <categories>
-        <category>锦囊</category>
-      </categories>
-  </entry>
-  <entry>
-    <title>如何提高英语写作能力</title>
-    <url>/2021/03/03/1/</url>
-    <content><![CDATA[<p>建议来源于 对施一公的访谈</p>
-<ol>
-<li>养成阅读英文文章的习惯，每天30-60分钟，刚刚开始可以先阅读英文报纸。</li>
-<li>学会照葫芦画瓢，记住别人写文章的套路</li>
-<li>科研论文，重要的是逻辑</li>
-<li>先按照思路写一个以 sub heading 为主的框架，然后开始具体写作。</li>
-<li>第一稿写完以后，给自己不要超过一天的休息时间，开始休息第二稿，逻辑为主。第二稿之后，逻辑上一般不会有大的调整。</li>
-</ol>
-]]></content>
-      <categories>
-        <category>英语</category>
-      </categories>
-      <tags>
-        <tag>写作</tag>
+        <tag>成长足迹</tag>
       </tags>
   </entry>
   <entry>
@@ -291,27 +258,34 @@ sci-hub: https://scihub.wikicn.top/
       </tags>
   </entry>
   <entry>
-    <title>如何高效安排自己一天的时间</title>
-    <url>/2021/02/24/1/</url>
-    <content><![CDATA[<p>人们常说：人如何度过一天，就如何度过一生。高效的安排自己每一天的生活还是非常重要的。 那么如何高效管理自己的一天的时光呢？我做了如下检索和思考。</p>
-<h2 id="关于时间管理的观点"><a href="#关于时间管理的观点" class="headerlink" title="关于时间管理的观点"></a>关于时间管理的观点</h2><p>关于时间管理，我比较认可的观念是李笑来的一个观点：和时间做朋友，我们需要管理是人，是人的精力，而不是时间。我们需要知道这个朋友什么时候高效，什么时候偷懒；真正了解这个朋友，才能与朋友精诚合作。</p>
-<h2 id="那么人一天什么时候最高效呢？"><a href="#那么人一天什么时候最高效呢？" class="headerlink" title="那么人一天什么时候最高效呢？"></a>那么人一天什么时候最高效呢？</h2><p>这是之前研究机构统计的一天24个小时中创建和完成的任务百分比：</p>
-<p><img src="/2021/02/24/1/1_%E4%B8%80%E5%A4%A9%E5%AE%89%E6%8E%92%E5%92%8C%E5%88%9B%E5%BB%BA%E4%BB%BB%E5%8A%A1%E7%99%BE%E5%88%86%E6%AF%94.png" alt>，</p>
-<p>从这个图的中我们能得到的最直观的结论是，人一天的精力和能量是有起伏的，并不是随时想做什么事儿，都有精力和能量高效的完成。是需要根据自己的生物节律来完成一天的工作。</p>
-<p>基于人一天生物节律的特性和对人工作效率的研究，台湾一个研究机构给出了如下建议：<br><img src="/2021/02/24/1/3_%E4%B8%80%E5%A4%A9%E6%97%B6%E9%97%B4%E6%AE%B5%E5%AE%89%E6%8E%92%E5%BB%BA%E8%AE%AE.png" alt></p>
-<h2 id="自己的工作安排"><a href="#自己的工作安排" class="headerlink" title="自己的工作安排"></a>自己的工作安排</h2><p>结合如上两个研究结果及自己的工作习惯，对自己的生活做了如下时间安排：</p>
-<p><strong>—总结—</strong></p>
-<p>【4:30-7:30】 写晨间日记 + 写毕业论文+早饭 逐渐让自己的进入工作状态 （早起，让我们在正常上班时间就度过了脑袋迟钝阶段，可以快速进入高效工作阶段）【生活自省 + 起步阶段】</p>
-<p>【8:00-11:00】 难度的工作，适合做高度集中脑力的工作 (完成自己的研究工作)、学习新软件【生命动力阶段】</p>
-<p>【12:00-14:00】午餐后； 午睡、简单的事前调查、安装软件、整理论文中的表格，下载文献，插入文献等。【中间休整阶段、自省阶段】</p>
-<p>【14:00-18:00】 创造性作业（头脑最清醒的时间阶段）、完成自己的研究性工作；思考编写论文框架、学习新软件【生命动力阶段】</p>
-<p>中间是我一天中难得的放松时光呢： 跑步🏃‍♀️，篮球、台球、羽毛球….. </p>
-<p>【19:30-21:30】 整理工作记录，写博客、写毕业论文【生活沉淀、自省阶段】</p>
-<p>【21:30-22:00】 清理桌面和做第二天计划 【生活规划阶段】</p>
-<p><strong>—补充—</strong><br>下面是一周7天中每天完成任务的百分比，冷冰冰的数字，对于拖延症患者是赤裸裸的警醒，一周的前几天尽量完成本周的重点任务，尽量不要拖延到明天。</p>
-<p><img src="/2021/02/24/1/2_%E4%B8%80%E5%91%A8%E5%AE%8C%E6%88%90%E4%BB%BB%E5%8A%A1%E6%AF%94%E4%BE%8B.png" alt></p>
-<p>做好了规划，剩下了坚持，养成良好习惯了，加油⛽️，小鱼儿🐠!!!</p>
+    <title>如何对一组字符串批量操作</title>
+    <url>/2021/02/06/1/</url>
+    <content><![CDATA[<p>问题： </p>
+<ol>
+<li><p>下载到一组字符串之后，如何进行简单操作，使之成为string 网站进行富集分析的input 文件格式</p>
+<ul>
+<li>打开Rstudio IDE，然后用替换的方式，将”，“ 替换为 ”\n“</li>
+</ul>
+</li>
+<li><p>如何将替换为一竖列的字符串，两边添加双引号和逗号，生成方便R code方便进行探索的格式：</p>
+<ul>
+<li>Cmd + A 进行全选</li>
+<li>Cmd + Shift + L 进行待操作状态</li>
+<li>使用左右健 选择你要操作行首还是行尾</li>
+<li>所有的光标在每行的行首或者行尾，此时添加字符串即可</li>
+</ul>
+</li>
+</ol>
+<p>即可生成类似于下面格式的向量    </p>
+<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">down_go &lt;- c(&quot;GO:0006094&quot;,</span><br><span class="line">             &quot;GO:0005978&quot;,</span><br><span class="line">             &quot;GO:0006695&quot;,</span><br><span class="line">             &quot;GO:0042254&quot;,</span><br><span class="line">             &quot;GO:0090070&quot;,</span><br><span class="line">             &quot;GO:0002181&quot;)</span><br></pre></td></tr></table></figure>
 ]]></content>
+      <categories>
+        <category>计算机技术</category>
+      </categories>
+      <tags>
+        <tag>Code</tag>
+        <tag>小技能</tag>
+      </tags>
   </entry>
   <entry>
     <title>如何快速建立一个Rstudio项目并关联到github</title>
@@ -355,85 +329,88 @@ sci-hub: https://scihub.wikicn.top/
       </tags>
   </entry>
   <entry>
-    <title>R Code 高效工作指南</title>
-    <url>/2021/02/10/1/</url>
-    <content><![CDATA[<ol>
-<li><p>以后开始做任何一个项目，首先想到的就是建立一个projects </p>
-</li>
-<li><p>之后在folder下面简历一个完整的folder  架构，最好顺便建立一个github 。</p>
-<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">#至少应该包含以下几个folder：</span><br><span class="line">&#x2F;input</span><br><span class="line">&#x2F;output #for dataset output for example:*.RData；有多个版本，可以设置output_v1，output_v2 等</span><br><span class="line">&#x2F;script </span><br><span class="line"></span><br><span class="line">and a README.md file</span><br></pre></td></tr></table></figure></li>
-<li><p>尽量详细的编写README文件，每次编辑完成之后注意更新</p>
-</li>
+    <title>如何总结和整理学术文献</title>
+    <url>/2021/03/08/1/</url>
+    <content><![CDATA[<p>&ensp;&ensp;如果说科研是一场学术竞赛，那么文献就是我们的课本，阅读笔记就是课堂笔记，写自己的学术论文就是一次考试。 如何选自己的学术课本，如何阅读和整理的自己的课堂笔记，将很大程度上决定自己在本次学术考试中的成败。可以这样说，高效的阅读学术论文，是科研人员最基本也是最重要的能力之一。<br>&ensp;&ensp;下面就根据自己的经验，谈谈如何总结和整理自己的学术文献。</p>
+<p><img src="/2021/03/08/1/%E9%98%85%E8%AF%BB%E5%92%8C%E6%95%B4%E7%90%86%E6%96%87%E7%8C%AE.jpg" alt></p>
+<h2 id="总结和整理的定义："><a href="#总结和整理的定义：" class="headerlink" title="总结和整理的定义："></a>总结和整理的定义：</h2><p>&ensp;&ensp;总结是一个消化吸收的过程，整理的实质是在归类这些被消化吸收了的知识，以方便用最高效的方式被唤醒。</p>
+<h2 id="总结文献："><a href="#总结文献：" class="headerlink" title="总结文献："></a>总结文献：</h2><ol>
+<li>预筛：</li>
 </ol>
-<p>至少应该包含如下信息：<br>    - 项目说明<br>    - input 和 output 文件介绍<br>    - 整个过程的版本介绍<br>    - 各种参考文件</p>
-<ol start="4">
-<li><p>在Code 中，将 load library、input、parameters、main function、 output dataset、 output figure 几项分开展示<br>如下图所示：<br><img src="/2021/02/10/1/%E6%96%87%E4%BB%B6%E6%A0%BC%E5%BC%8F.png" alt="文件格式"><br><img src="/2021/02/10/1/output.png" alt="output"></p>
-</li>
-<li><p>保存R 语言运行环境</p>
-</li>
-<li><p>在设置R付值变量名称的时候，尽量不要前后覆盖，名称要明确</p>
-</li>
-<li><p>更改完所有文件之后，及时更新README 文件，然后推送到github</p>
-</li>
+<ul>
+<li>不是每篇文献都是需要总结的，提前预筛需要总结的文献，通过快速浏览摘要，关键词，结论等部分做文献预筛选，<strong>筛选的核心标准就是跟自己研究方向的契合程度</strong>。</li>
+</ul>
+<ol start="2">
+<li>阅读<br>（1）<strong>阅读前：</strong></li>
 </ol>
+<ul>
+<li>一定要思考：为什么要总结这篇文章，写下来随时提醒自己。<br>（2）<strong>阅读中：</strong></li>
+</ul>
+<ul>
+<li>初阅读：简单阅读每个章节标题去确定文章的研究问题和研究意义，把握整体脉络；</li>
+<li>深度阅读：在交互式阅读中，标注重点，整理文章脉络，画细节，写标注； </li>
+<li>吸收：结合之前的标注，用自己的话阐述这篇文章的整体脉络和关键知识点（避免抄袭）如果不能用自己的话阐述，可能还没有完全理解本论文。<br>（3）<strong>阅读后：</strong></li>
+</ul>
+<ul>
+<li>以 Minireview 的形式总结学术最新进展。每篇文章都是一个小的little review, 10-20篇文章的系统梳理，就可以整理成Mini review，每周写一到两篇的评论性文章。</li>
+</ul>
+<h2 id="整理文献："><a href="#整理文献：" class="headerlink" title="整理文献："></a>整理文献：</h2><p>（1）思想：轻整理，重搜索 - 推荐工具使用（Mendeley）；<br>（2）同一类的文献放在一个文件夹底下，也不要切分太细；<br>（3）将整理的Minireview 放到文件夹底下；</p>
+<p>学术的路漫长又如何，我愿做一个学术小悟空，一路降妖除魔，求去学术真经。<br><img src="/2021/03/08/1/%E5%A4%A7%E8%AF%9D%E8%A5%BF%E6%B8%B8.jpg" alt></p>
 ]]></content>
       <categories>
-        <category>编程技术</category>
+        <category>锦囊</category>
       </categories>
       <tags>
-        <tag>R</tag>
-        <tag>Code</tag>
-        <tag>高效工作</tag>
+        <tag>文献</tag>
+        <tag>阅读</tag>
       </tags>
   </entry>
   <entry>
-    <title>Linux服务器高效工作指南</title>
-    <url>/2021/02/09/1/</url>
-    <content><![CDATA[<p>服务器高效工作：</p>
+    <title>如何提高英语写作能力</title>
+    <url>/2021/03/03/1/</url>
+    <content><![CDATA[<p>建议来源于 对施一公的访谈</p>
 <ol>
-<li>服务器： 华为云服务器</li>
-<li>传输软件： 目前使用transmit 软件 / scp</li>
-<li>文档编辑： Rstudio server</li>
-<li>后台提交任务：screen</li>
+<li>养成阅读英文文章的习惯，每天30-60分钟，刚刚开始可以先阅读英文报纸。</li>
+<li>学会照葫芦画瓢，记住别人写文章的套路</li>
+<li>科研论文，重要的是逻辑</li>
+<li>先按照思路写一个以 sub heading 为主的框架，然后开始具体写作。</li>
+<li>第一稿写完以后，给自己不要超过一天的休息时间，开始休息第二稿，逻辑为主。第二稿之后，逻辑上一般不会有大的调整。</li>
 </ol>
-<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">screen -S yourname -&gt; 新建一个叫yourname的session</span><br><span class="line">screen -ls -&gt; 列出当前所有的session</span><br><span class="line">screen -r yourname -&gt; 回到yourname这个session</span><br><span class="line">screen -d yourname -&gt; 远程detach某个session</span><br><span class="line">screen -d -r yourname -&gt; 结束当前session并回到yourname这个session</span><br><span class="line"></span><br><span class="line"># 添加SCREEN log文档</span><br><span class="line">在screen配置文件&#x2F;etc&#x2F;screenrc最后添加下面一行：</span><br><span class="line">logfile &#x2F;tmp&#x2F;screenlog_%t.log</span><br><span class="line"></span><br><span class="line">#启动运行screen 命令</span><br><span class="line">screen -L -t window1 -dmS test -&gt; 启动test 会话，test 会话的窗口名称为window1，屏幕日志记录在当下文件夹 .&#x2F;screenlog_window1.log</span><br></pre></td></tr></table></figure>
-<p>需要注意导出SCREEN 运行命令的log 文件；<br>reference: <a href="https://blog.csdn.net/lovemysea/article/details/78344114" target="_blank" rel="noopener">screen log</a></p>
-<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">Conclusion about how to use Rstudio-server:</span><br><span class="line">(1)open terminal ：ssh root@*****</span><br><span class="line">密码：*****</span><br><span class="line">(2) install Rstudio: 直接查看Rstudio server 官网即可</span><br><span class="line">(3)Open Rstudio </span><br><span class="line">	sudo rstudio-server verify-installation #查看安装是否正常 </span><br><span class="line">	sudo rstudio-server start               #启动RStudio-server </span><br><span class="line">	sudo rstudio-server status                #查看RStudio-server </span><br><span class="line">	sudo rstudio-server stop                #关闭RStudio-server </span><br><span class="line">	sudo rstudio-server restart                #重启RStudio-server </span><br><span class="line">	##添加用户组 </span><br><span class="line">	sudo groupadd rstudio-group </span><br><span class="line">		##添加用户 </span><br><span class="line">	sudo useradd anlan -g rstudio-group </span><br><span class="line">	##设置用户密码 </span><br><span class="line">	sudo passwd xxxxxx </span><br><span class="line">	##创建用户目录 </span><br><span class="line">	sudo mkdir &#x2F;home&#x2F;anlan </span><br><span class="line">	##赋予目录权限 </span><br><span class="line">	sudo chown -R anlan:rstudio-group &#x2F;home&#x2F;anlan </span><br><span class="line"></span><br><span class="line">(4)建立本地隧道</span><br><span class="line">ssh -C -f -N  -L  8787:127.88.88.88:8787  root@121.36.0.146</span><br><span class="line">Need Password：Yjj18636810884@@@</span><br><span class="line">If there is a error: </span><br><span class="line">lsof -ti:8787 | xargs kill -9 </span><br><span class="line">Then do it again.</span><br><span class="line"></span><br><span class="line">(5)Open google chrome: localhost:8787</span><br></pre></td></tr></table></figure>]]></content>
+]]></content>
       <categories>
-        <category>计算机技术</category>
+        <category>英语</category>
       </categories>
       <tags>
-        <tag>Linux</tag>
+        <tag>写作</tag>
       </tags>
   </entry>
   <entry>
-    <title>如何对一组字符串批量操作</title>
-    <url>/2021/02/06/1/</url>
-    <content><![CDATA[<p>问题： </p>
-<ol>
-<li><p>下载到一组字符串之后，如何进行简单操作，使之成为string 网站进行富集分析的input 文件格式</p>
-<ul>
-<li>打开Rstudio IDE，然后用替换的方式，将”，“ 替换为 ”\n“</li>
-</ul>
-</li>
-<li><p>如何将替换为一竖列的字符串，两边添加双引号和逗号，生成方便R code方便进行探索的格式：</p>
-<ul>
-<li>Cmd + A 进行全选</li>
-<li>Cmd + Shift + L 进行待操作状态</li>
-<li>使用左右健 选择你要操作行首还是行尾</li>
-<li>所有的光标在每行的行首或者行尾，此时添加字符串即可</li>
-</ul>
-</li>
-</ol>
-<p>即可生成类似于下面格式的向量    </p>
-<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">down_go &lt;- c(&quot;GO:0006094&quot;,</span><br><span class="line">             &quot;GO:0005978&quot;,</span><br><span class="line">             &quot;GO:0006695&quot;,</span><br><span class="line">             &quot;GO:0042254&quot;,</span><br><span class="line">             &quot;GO:0090070&quot;,</span><br><span class="line">             &quot;GO:0002181&quot;)</span><br></pre></td></tr></table></figure>
+    <title>如何走出颓废时光</title>
+    <url>/2021/03/04/1/</url>
+    <content><![CDATA[<h2 id="总述：当我进入丧的状态时，我该如何做？"><a href="#总述：当我进入丧的状态时，我该如何做？" class="headerlink" title="总述：当我进入丧的状态时，我该如何做？"></a>总述：当我进入丧的状态时，我该如何做？</h2><p><img src="/2021/03/04/1/%E9%A2%93%E5%BA%9F%E6%97%B6.png" alt><br>接下来，对上面的Figure 做具体的阐述。</p>
+<h2 id="1-突然进入对什么都不感兴趣，行尸走肉般的状态的原因是什么？"><a href="#1-突然进入对什么都不感兴趣，行尸走肉般的状态的原因是什么？" class="headerlink" title="1. 突然进入对什么都不感兴趣，行尸走肉般的状态的原因是什么？"></a>1. 突然进入对什么都不感兴趣，行尸走肉般的状态的原因是什么？</h2><pre><code>- 没有享受过程</code></pre><p>不是没有毅力，懒散，消极  关键在于，你没法从自己所做的每件事情中，获得足够的愉悦，活力 和 成就感。对于每一事物，我们应该学着积极地去经历一个过程，而不是去完成一个确定的结果。以结果为导向，是固定型思维，以过程为导向，是成长型思维。</p>
+<h2 id="如何快速走出行尸走肉的状态？"><a href="#如何快速走出行尸走肉的状态？" class="headerlink" title="如何快速走出行尸走肉的状态？"></a>如何快速走出行尸走肉的状态？</h2><pre><code>- 放纵心灵，放纵身体，感知社会，开启新知</code></pre><p>（1）大力耍废 - 给自己放个小假又如何<br>（2）大量流汗<br>（3）大量社交<br>（4）灌溉领域新职</p>
+<h2 id="人生焦虑的原因？"><a href="#人生焦虑的原因？" class="headerlink" title="人生焦虑的原因？"></a>人生焦虑的原因？</h2><pre><code>- 渺小力量的自我，妄图掌握过于强大的目标。</code></pre><h2 id="如何解决人生焦虑？"><a href="#如何解决人生焦虑？" class="headerlink" title="如何解决人生焦虑？"></a>如何解决人生焦虑？</h2><pre><code>- 大事化小，难事儿化易。</code></pre><p>做一件事儿，如果目光一直盯着未来那个较长时间尺度的最终目标，就会产生一种匮乏感和无力感。难以把控，甚至最终会对这件事儿失去控制。我们是活在当下的生物，而不是活在未来。将大事化细，分解成自己能力之下可完全掌控的小事儿；将难事儿化易，分解成无数个自己可毫无负担做成的小事儿。</p>
+<h2 id="为什么被手机绑架，感觉精力被掏空了？"><a href="#为什么被手机绑架，感觉精力被掏空了？" class="headerlink" title="为什么被手机绑架，感觉精力被掏空了？"></a>为什么被手机绑架，感觉精力被掏空了？</h2><pre><code>-  透支人生，精力耗散，追求快感，逃避现状</code></pre><p>（1）提前透支了自己人生体会后的空虚，仿佛从虚拟中过完了一生，在回到现实去过，就觉得索然无味。 - 世界上只有一种真正的英雄主义，就是认清了生活的真相后还依然热爱它<br>（2）注意力被过度耗散后的不专注。信息泛滥让人的持续专注力普遍下降了。微软曾经做过一个调查，2000年人们的持续专注力还有12秒，2015年只有8秒了。那2019怕不是只有5秒了。但真正能够让你的大脑汲取到营养的，都是需要高度且长时间专注的事，比如读书。循序渐进夺回自己的注意力。<br>（3） 快感刺激阈值被提高。<br>（4）除了逃避自己的现状外，我们也在利用玩儿手机来拖延、逃避眼前亟待解决的问题，活在有钱人用钱砸出来的虚幻的泡泡。</p>
+<h2 id="推动自己放下手机，马上去学习的方法？"><a href="#推动自己放下手机，马上去学习的方法？" class="headerlink" title="推动自己放下手机，马上去学习的方法？"></a>推动自己放下手机，马上去学习的方法？</h2><pre><code>- 逼着自己启动</code></pre><p>两分钟的自控力应该有吧，让自己停止思考，然后强迫自己的开始工作，只要一开始了工作，后面的事情就容易多了。</p>
+<h2 id="慢慢走向正规之后，如何开始做计划？"><a href="#慢慢走向正规之后，如何开始做计划？" class="headerlink" title="慢慢走向正规之后，如何开始做计划？"></a>慢慢走向正规之后，如何开始做计划？</h2><pre><code>- WOOP</code></pre><p>wish ：提出愿望<br>Outcome： 想象你完成了这一愿望，会产生什么良好结果<br>Obstacle：找出有什么障碍会阻止你实现愿望<br>Plan： 指定时间和地点，思考出一个应付障碍的行为。</p>
+<h2 id="至此，祝你人生启航！！！"><a href="#至此，祝你人生启航！！！" class="headerlink" title="至此，祝你人生启航！！！"></a>至此，祝你人生启航！！！</h2><p><img src="/2021/03/04/1/%E5%9C%A8%E8%B7%AF%E4%B8%8A.jpeg" alt></p>
 ]]></content>
       <categories>
-        <category>计算机技术</category>
+        <category>锦囊</category>
+      </categories>
+  </entry>
+  <entry>
+    <title>我的第一个博客----今天是我26岁的生日</title>
+    <url>/2020/06/23/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E4%B8%AA%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/</url>
+    <content><![CDATA[<h2 id="新一岁的日常："><a href="#新一岁的日常：" class="headerlink" title="新一岁的日常："></a>新一岁的日常：</h2><p>（1）休息：早睡早起。<br>（2）工作：用好每一刻钟，随时进入心流，高效工作。<br>（3）健身:  增肌减脂，增强体能。<br>（4）习惯：建立成型的习惯打卡计划。</p>
+<h2 id="新一岁的目标："><a href="#新一岁的目标：" class="headerlink" title="新一岁的目标："></a>新一岁的目标：</h2><p>（1）学好专业知识：癌症免疫学/Neoantigen/生物信息学分析技能 —-&gt; 每天进步一点点，每天都有输出（一篇博客）<br>（2）学好基础技能： Oral English/English writing/Code（R and Python）/Mac—-&gt; 每天进步一点点，每天都有输出（一篇博客）<br>（3）做一个会思考的人：每天深入思考生活中的一个问题，查询可执行的答案，每天都有输出（一篇博客）</p>
+]]></content>
+      <categories>
+        <category>成长</category>
       </categories>
       <tags>
-        <tag>Code</tag>
-        <tag>小技能</tag>
+        <tag>日常</tag>
       </tags>
   </entry>
   <entry>
@@ -459,51 +436,119 @@ sci-hub: https://scihub.wikicn.top/
       </tags>
   </entry>
   <entry>
-    <title>人生由每一个小选择铸就</title>
-    <url>/2021/02/05/1/</url>
-    <content><![CDATA[<p>人生是由每天的几个关键小抉择铸就</p>
-<p>（1）起床-每天早上闹钟响的时候是否起床；<br>        -【每天4点半起床，在所有人还在睡眠中时，我已经出发，开始元气满满的一天】<br>（2）规划-早上坐在电脑前面的第一个工作，是否选择先规划一下一天的生活；<br>        - 【仿佛每时每刻都带着地图上图，任何时候都不会迷茫】<br>（3）行动- 开始做事儿之前是否选择尽量排除工作中可能受到的干扰；<br>        - 【主动选择去减少生活中的干扰：开启番茄钟，戴耳塞，手机调成勿扰模式】<br>（4）整理- 晚上合上电脑之前，是否选择先整理一下桌面<br>        -【让第二天准备开始工作的时刻，心情畅爽：清理电脑桌面和实体桌面】<br>（5）少看视频-每天想要拿起手机开视频的时候，时候能够用在重要的事情上，比如把看视频的时间腾挪出来给自己爱的人发微信。- 【心中有人，有梦，有烟火，不只让视频陪伴自己】<br>（6）遇到任何事情，第一反应不是拖着，而是选择想方设法去解决；<br>        -【不懂的问题及时查/马上思考学习路线，一看就会，则立马解决；立马解决不掉，则设计学习路线，开始一点点学习；立马理解不了，写在 to do list 中/向别人求助/寻求合作】</p>
-<p>每天关键瞬间的小选择 -&gt; 好习惯 -&gt; 大选择 -&gt; 大成就</p>
+    <title>如何高效安排自己一天的时间</title>
+    <url>/2021/02/24/1/</url>
+    <content><![CDATA[<p>人们常说：人如何度过一天，就如何度过一生。高效的安排自己每一天的生活还是非常重要的。 那么如何高效管理自己的一天的时光呢？我做了如下检索和思考。</p>
+<h2 id="关于时间管理的观点"><a href="#关于时间管理的观点" class="headerlink" title="关于时间管理的观点"></a>关于时间管理的观点</h2><p>关于时间管理，我比较认可的观念是李笑来的一个观点：和时间做朋友，我们需要管理是人，是人的精力，而不是时间。我们需要知道这个朋友什么时候高效，什么时候偷懒；真正了解这个朋友，才能与朋友精诚合作。</p>
+<h2 id="那么人一天什么时候最高效呢？"><a href="#那么人一天什么时候最高效呢？" class="headerlink" title="那么人一天什么时候最高效呢？"></a>那么人一天什么时候最高效呢？</h2><p>这是之前研究机构统计的一天24个小时中创建和完成的任务百分比：</p>
+<p><img src="/2021/02/24/1/1_%E4%B8%80%E5%A4%A9%E5%AE%89%E6%8E%92%E5%92%8C%E5%88%9B%E5%BB%BA%E4%BB%BB%E5%8A%A1%E7%99%BE%E5%88%86%E6%AF%94.png" alt>，</p>
+<p>从这个图的中我们能得到的最直观的结论是，人一天的精力和能量是有起伏的，并不是随时想做什么事儿，都有精力和能量高效的完成。是需要根据自己的生物节律来完成一天的工作。</p>
+<p>基于人一天生物节律的特性和对人工作效率的研究，台湾一个研究机构给出了如下建议：<br><img src="/2021/02/24/1/3_%E4%B8%80%E5%A4%A9%E6%97%B6%E9%97%B4%E6%AE%B5%E5%AE%89%E6%8E%92%E5%BB%BA%E8%AE%AE.png" alt></p>
+<h2 id="自己的工作安排"><a href="#自己的工作安排" class="headerlink" title="自己的工作安排"></a>自己的工作安排</h2><p>结合如上两个研究结果及自己的工作习惯，对自己的生活做了如下时间安排：</p>
+<p><strong>—总结—</strong></p>
+<p>【4:30-7:30】 写晨间日记 + 写毕业论文+早饭 逐渐让自己的进入工作状态 （早起，让我们在正常上班时间就度过了脑袋迟钝阶段，可以快速进入高效工作阶段）【生活自省 + 起步阶段】</p>
+<p>【8:00-11:00】 难度的工作，适合做高度集中脑力的工作 (完成自己的研究工作)、学习新软件【生命动力阶段】</p>
+<p>【12:00-14:00】午餐后； 午睡、简单的事前调查、安装软件、整理论文中的表格，下载文献，插入文献等。【中间休整阶段、自省阶段】</p>
+<p>【14:00-18:00】 创造性作业（头脑最清醒的时间阶段）、完成自己的研究性工作；思考编写论文框架、学习新软件【生命动力阶段】</p>
+<p>中间是我一天中难得的放松时光呢： 跑步🏃‍♀️，篮球、台球、羽毛球….. </p>
+<p>【19:30-21:30】 整理工作记录，写博客、写毕业论文【生活沉淀、自省阶段】</p>
+<p>【21:30-22:00】 清理桌面和做第二天计划 【生活规划阶段】</p>
+<p><strong>—补充—</strong><br>下面是一周7天中每天完成任务的百分比，冷冰冰的数字，对于拖延症患者是赤裸裸的警醒，一周的前几天尽量完成本周的重点任务，尽量不要拖延到明天。</p>
+<p><img src="/2021/02/24/1/2_%E4%B8%80%E5%91%A8%E5%AE%8C%E6%88%90%E4%BB%BB%E5%8A%A1%E6%AF%94%E4%BE%8B.png" alt></p>
+<p>做好了规划，剩下了坚持，养成良好习惯了，加油⛽️，小鱼儿🐠!!!</p>
+]]></content>
+  </entry>
+  <entry>
+    <title>高效学习之路</title>
+    <url>/2021/03/11/1/</url>
+    <content><![CDATA[<h2 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h2><p>学习如何学习，才能真正由内而外提升自己的学习效率，走入学习的快车道</p>
+<h2 id="关于认知学习法"><a href="#关于认知学习法" class="headerlink" title="关于认知学习法"></a>关于认知学习法</h2><p>关于认知学习法我需要记住的： 认知世界观、学习的认知原理，认知学习的生物学基础、如何甄选知识、如何学习知识、如何管理知识</p>
+<h3 id="认知世界观："><a href="#认知世界观：" class="headerlink" title="认知世界观："></a>认知世界观：</h3><ol>
+<li>认知的定义：认知是人们用思想、经验、感受等认识和掌握知识的过程。</li>
+<li>人是有不同的心智模式的，分为有成长型心智模式和僵固型心智模式，成长型人格将心门打开，接受世界新信息的输入。</li>
+<li>齐物论：世界万物都遵循较为相似的规则，我们要积极寻找这种相似的规则，在生活中学会迁应用。</li>
+</ol>
+<h3 id="学习的认知原理："><a href="#学习的认知原理：" class="headerlink" title="学习的认知原理："></a>学习的认知原理：</h3><ol>
+<li><p>认知学习方法可以分为以下几个步骤：组块【注重组块之间的关联，将小的组块串联成大的组块】、记忆【宫殿记忆】、迁移</p>
+</li>
+<li><p>学习的过程中如何进行知识迁移： 总结归纳（平时做完任何一件事儿之后要重视总结）、条件假设（假设不同的条件下会有什么不同的差异）、批量思考法（几件事儿一同，抽象出统一的道理）、情景联想法（想象自己置身一个完全不同的场景，如何用同样的理论解决这些情景下的问题）<br>总结：一件事儿总结归纳、设置条件法、不同情景、进行批量思考。</p>
+</li>
+<li><p>三重心智模型：<br> 自主心智、算法心智、反省心智；如何尽量让自己进入算法心智，防止自主心智模型的误差：事前验尸、饮水机闲谈；如何在合适的时间用合适的心智模型也值得我们好好思考</p>
+</li>
+</ol>
+<h3 id="认知学习的生物学基础："><a href="#认知学习的生物学基础：" class="headerlink" title="认知学习的生物学基础："></a>认知学习的生物学基础：</h3><ol>
+<li>大脑是用进废退的，需要多用自己的大脑。</li>
+<li>不断学习的过程，就是将自己的某条神经元不断固化和加粗的过程。</li>
+</ol>
+<h3 id="如何甄选知识："><a href="#如何甄选知识：" class="headerlink" title="如何甄选知识："></a>如何甄选知识：</h3><ol>
+<li>如何甄选适合学习的知识：<br>（1）科学方法论（科学研究、科学评价、科学发展的正确的一般的方法。广义上： 由正确的世界观决定的人们正确认识世界，改造世界的根本方法）<br>（2）算法心智模型<br>（3）元知识（关于知识的知识，比如，什么是数学）<br>（4）人格的解读（认知自己、认识身边人）<br>（5）心智程序的筛选（反省自己内心认识自己，反省自己的心智程序，不断的调整自己的心智程序）</li>
+</ol>
+<p><strong>总结</strong>：解读人格（包括自己的和他人）、感知自己的情绪和心智模型、学习算法心智模型、学习元知识、学习科学方法论【其实就是认知自己 和 认识世界】</p>
+<ol start="2">
+<li>甄选知识总原则：<br>适合自己的知识背景、避免全知屏蔽（闭关锁国、科研学术交流）、自带接口，保持开放，随时更新整个底层操作系统、不要在意细节，关注底层的思维框架。</li>
+</ol>
+<h3 id="如何学习知识："><a href="#如何学习知识：" class="headerlink" title="如何学习知识："></a>如何学习知识：</h3><ol>
+<li><p>科学的学习方法应该遵循的原则：生成效应、交叉效应、间隔效应、测试效应、必要难度</p>
+</li>
+<li><p>科学学习环节：<br>科学的学习环节可以分为：读取、编码、应用、迭代四个步骤。<br>（1）读取（寻找概念、组块、间隔效应（艾宾浩斯记忆曲线）、交叉效应（将学习技术贯穿学习的各个环节，并结合多种工具使用）；<br>（2）编码（组块+生成+交叉）<br> 具体实践方法：比喻+类比、3R、费曼技巧、自我生成问题、卡片学习法、康奈尔笔记法、思维流笔记法（用旧信息解释新的内容，将概念与概念连同为统同一组块、视觉化；<br>（3）应用【卡片学习法、最小可执行产品（火箭发射式 vs 精益创业式）、根据地策略（写作、演讲、咨询、创业）<br> 比如：自我生成问题-卡片测试-阶段测试-大考试；<br>（4）迭代（迭代的标准：科学方法论、奥卡姆剃刀理论、元认知策略（评估任务、评估优劣势、计划、执行监督、反思调整）</p>
+</li>
+<li><p>形式和工具是无效的,要更加注重实际效果</p>
+</li>
+</ol>
+<h3 id="如何管理知识："><a href="#如何管理知识：" class="headerlink" title="如何管理知识："></a>如何管理知识：</h3><ol>
+<li>知识管理： 分类（三重心智模式）、剔除（工作记忆：费曼技巧/奥卡姆剃刀）、固化（刻意练习：MVP（minimum viable product）+ 根据地模式：写作-演讲-咨询-创业）、融通（知识迁移：提问式融合-批量解决问题，提问是一种典型知识应用的MVP/融通的根据地策略：提问-教授-实践）</li>
+</ol>
+<h2 id="思维导图"><a href="#思维导图" class="headerlink" title="思维导图"></a>思维导图</h2><p><img src="/2021/03/11/1/%E8%AE%A4%E7%9F%A5%E5%AD%A6%E4%B9%A0%E6%B3%95.png" alt></p>
+<h2 id="Reference："><a href="#Reference：" class="headerlink" title="Reference："></a>Reference：</h2><ol>
+<li>引入：<a href="https://www.sohu.com/a/329595538_100118827" target="_blank" rel="noopener">https://www.sohu.com/a/329595538_100118827</a></li>
+<li>整理的完整思维导图可以在这里下载：链接: <a href="https://pan.baidu.com/s/1BrLY0Lmu_O9PqVj3YqZ5dQ" target="_blank" rel="noopener">https://pan.baidu.com/s/1BrLY0Lmu_O9PqVj3YqZ5dQ</a>  密码: f8lf</li>
+<li>PPT链接如图：链接: <a href="https://pan.baidu.com/s/1NaVBron3qLABRFj8cQW6fQ" target="_blank" rel="noopener">https://pan.baidu.com/s/1NaVBron3qLABRFj8cQW6fQ</a>  密码: acp8</li>
+</ol>
 ]]></content>
       <categories>
-        <category>成长</category>
+        <category>学习</category>
       </categories>
       <tags>
-        <tag>启发</tag>
+        <tag>高效学习</tag>
       </tags>
   </entry>
   <entry>
-    <title>R语言中常用的颜色设置</title>
-    <url>/2020/06/25/R%E4%B8%AD%E5%B8%B8%E7%94%A8%E7%9A%84%E9%A2%9C%E8%89%B2%E8%AE%BE%E7%BD%AE/</url>
-    <content><![CDATA[<h2 id="R语言中常用的specific-colors："><a href="#R语言中常用的specific-colors：" class="headerlink" title="R语言中常用的specific colors："></a>R语言中常用的specific colors：</h2><figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">col_heatmap1 &lt;- colorRampPalette(rev(c(&quot;Yellow&quot;, &quot;black&quot;,&quot;#FF00FF&quot;)))( 10)</span><br><span class="line"></span><br><span class="line">col_heatmap2 &lt;- colorRampPalette(rev(c(&quot;#67001F&quot;, &quot;#B2182B&quot;, &quot;#D6604D&quot;, &quot;#F4A582&quot;,</span><br><span class="line">                               &quot;#FDDBC7&quot;, &quot;#FFFFFF&quot;, &quot;#D1E5F0&quot;, &quot;#92C5DE&quot;,</span><br><span class="line">                               &quot;#4393C3&quot;, &quot;#2166AC&quot;, &quot;#053061&quot;)))(11)</span><br><span class="line">                               #colors for clusters </span><br><span class="line">cluster_col &lt;- c(&quot;#E64B35FF&quot;,&quot;#4DBBD5FF&quot;,&quot;#E7298A&quot;,&quot;#3C5488FF&quot;,&quot;#7E6148FF&quot;,</span><br><span class="line">                 &quot;#BA55D3&quot;,&quot;#00A087FF&quot;,&quot;#FFA500&quot;,&quot;#B3DE69&quot;,&quot;#BEBADA&quot;,&quot;#000000&quot;) #all colors are significant difference</span><br></pre></td></tr></table></figure>
-
-<h2 id="R语言中常用的设置颜色的包："><a href="#R语言中常用的设置颜色的包：" class="headerlink" title="R语言中常用的设置颜色的包："></a>R语言中常用的设置颜色的包：</h2><figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">library(RColorBrewer)</span><br><span class="line">display.brewer.all()</span><br><span class="line">display.brewer.pal(10,&quot;Set3&quot;)</span><br><span class="line">brewer.pal(7,&quot;BrBG&quot;)</span><br><span class="line"></span><br><span class="line">library(ggsci)</span><br><span class="line">library(scales)</span><br><span class="line">show_col(pal_aaas(&quot;default&quot;, alpha &#x3D; 0.6)(7))   </span><br><span class="line">rgb_gsea(palette &#x3D; c(&quot;default&quot;), n &#x3D; 12, alpha &#x3D; 1, reverse &#x3D; FALSE)</span><br><span class="line">rgb_material(palette &#x3D; c(&quot;red&quot;, &quot;pink&quot;, &quot;purple&quot;, &quot;deep-purple&quot;, &quot;indigo&quot;,</span><br><span class="line">  &quot;blue&quot;, &quot;light-blue&quot;, &quot;cyan&quot;, &quot;teal&quot;, &quot;green&quot;, &quot;light-green&quot;, &quot;lime&quot;,</span><br><span class="line">  &quot;yellow&quot;, &quot;amber&quot;, &quot;orange&quot;, &quot;deep-orange&quot;, &quot;brown&quot;, &quot;grey&quot;, &quot;blue-grey&quot;),</span><br><span class="line">  n &#x3D; 10, alpha &#x3D; 1, reverse &#x3D; FALSE)</span><br><span class="line"></span><br><span class="line"># n：产生多少个独立的颜色</span><br><span class="line"># alpha：透明度</span><br><span class="line"># reverse：逻辑值，决定颜色的排序是否反序</span><br><span class="line"># palette：在rgb_material中有19种配色方案</span><br></pre></td></tr></table></figure>
-
-<h2 id="R语言中绘图推荐的包"><a href="#R语言中绘图推荐的包" class="headerlink" title="R语言中绘图推荐的包"></a>R语言中绘图推荐的包</h2><figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">library(ggplot2)</span><br><span class="line">library(ggpubr)</span><br></pre></td></tr></table></figure>
-
-<h2 id="参考链接："><a href="#参考链接：" class="headerlink" title="参考链接："></a><strong>参考链接：</strong></h2><p>(1) <a href="https://blog.csdn.net/m0_45248682/article/details/104077631" target="_blank" rel="noopener">ggsci包的使用</a><br>(2) <a href="https://blog.csdn.net/jethai/article/details/52345061" target="_blank" rel="noopener">RColorBrewer包的使用</a><br>(3) <a href="http://www.5tu.cn/colors/rgb-peisebiao.html" target="_blank" rel="noopener">所有R的配色及其对应code</a><br>(4)<a href="https://www.jianshu.com/p/c0ebba8d1853" target="_blank" rel="noopener">ggpubr包的使用</a></p>
+    <title>强势文化和弱势文化</title>
+    <url>/2021/03/10/1/</url>
+    <content><![CDATA[<p>看《天道有感》</p>
+<h2 id="思考的起点"><a href="#思考的起点" class="headerlink" title="思考的起点"></a>思考的起点</h2><p>透视社会依次有三个层面：技术、制度和文化。小到一个人，大到一个国家一个民族，任何一种命运归根到底都是那种文化属性的产物。强势文化造就强者，弱势文化造就弱者，这是规律，也是定律。也可以理解为天道，不以人的意志为转移。 -《天道》</p>
+<h2 id="强势文化"><a href="#强势文化" class="headerlink" title="强势文化"></a>强势文化</h2><h3 id="什么是强势文化？"><a href="#什么是强势文化？" class="headerlink" title="什么是强势文化？"></a>什么是强势文化？</h3><p>强势文化的定义一：遵循事物规律、看清事情真相的文化，特点：尊重客观规律，主动（自强不息），逆向思维推演<br>强势文化的定义二：自我觉醒的文化就是强势文化，其特点为：觉醒、顺应、应用。</p>
+<h3 id="强势文化形成的四个阶段"><a href="#强势文化形成的四个阶段" class="headerlink" title="强势文化形成的四个阶段"></a>强势文化形成的四个阶段</h3><p>分别是：失望阶段、对抗阶段、觉醒阶段、应用阶段</p>
+<h3 id="如何培养自己的强势文化思维"><a href="#如何培养自己的强势文化思维" class="headerlink" title="如何培养自己的强势文化思维"></a>如何培养自己的强势文化思维</h3><p>意识上，要变得更加优秀<br>思维上，眼光放长远，看到事物发展的规律<br>冷血是很好的战略，让我们看清世界<br>好的战术是：拓展和提升自己世界的能量。</p>
+<h3 id="强者文化的外显品质"><a href="#强者文化的外显品质" class="headerlink" title="强者文化的外显品质"></a>强者文化的外显品质</h3><ol>
+<li>情绪淡定，胸有成竹：玉可碎而不可损其白，竹可破而不可毁其节，胸有惊雷而面如平湖者，可拜上将军</li>
+<li>潜居抱道，以待其时：所谓不执著于出人头地，实际上是一种潜居抱道、以待其时的智慧。大凡成就一番事业的人，无不经过长久不鸣的寂寞，在寂寞中执着地追求成功。因为耐得住寂寞，才有可能成功</li>
+</ol>
+<h2 id="弱势文化"><a href="#弱势文化" class="headerlink" title="弱势文化"></a>弱势文化</h2><h3 id="什么是弱势文化"><a href="#什么是弱势文化" class="headerlink" title="什么是弱势文化"></a>什么是弱势文化</h3><p>弱势文化定义一： 弱势文化就是依赖强者的道德期望破格获取的文化，也是期望救主的文化“，特点：等，靠，要<br>    弱者文化，本质上是弱化人，不断压缩一个人的内在的能量，降低一个人的主观能动性。让人不相信自己，害怕变化，变得安于现状，自我满足。什么事都依赖于强者。“凡事等、靠、要”，来等待一位救世主拯救自己。可哪里有什么救世主？强者文化认为，真正的救世主是自己！        弱者还通常扮演了受害者的角色，来博取别人的同情。对于事情更多的是等待、索取，等不到要不到就抱怨、受害心理。</p>
+<p>弱势文化定义二：自我麻木的文化就是弱势文化，其特点是：服从，依赖，麻木。</p>
+<p>弱势文化定义三：活在幻想中，看不清事实的人</p>
+<h3 id="弱势文化形成的四个阶段："><a href="#弱势文化形成的四个阶段：" class="headerlink" title="弱势文化形成的四个阶段："></a>弱势文化形成的四个阶段：</h3><p>分别为：失望阶段、对抗阶段、妥协阶段、麻木阶段。</p>
+<h2 id="参考资料"><a href="#参考资料" class="headerlink" title="参考资料"></a>参考资料</h2><p><a href="https://www.jianshu.com/p/3a5a37bc828d" target="_blank" rel="noopener">https://www.jianshu.com/p/3a5a37bc828d</a><br><a href="https://zhuanlan.zhihu.com/p/355109363" target="_blank" rel="noopener">https://zhuanlan.zhihu.com/p/355109363</a></p>
 ]]></content>
+  </entry>
+  <entry>
+    <title>Linux服务器高效工作指南</title>
+    <url>/2021/02/09/1/</url>
+    <content><![CDATA[<p>服务器高效工作：</p>
+<ol>
+<li>服务器： 华为云服务器</li>
+<li>传输软件： 目前使用transmit 软件 / scp</li>
+<li>文档编辑： Rstudio server</li>
+<li>后台提交任务：screen</li>
+</ol>
+<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">screen -S yourname -&gt; 新建一个叫yourname的session</span><br><span class="line">screen -ls -&gt; 列出当前所有的session</span><br><span class="line">screen -r yourname -&gt; 回到yourname这个session</span><br><span class="line">screen -d yourname -&gt; 远程detach某个session</span><br><span class="line">screen -d -r yourname -&gt; 结束当前session并回到yourname这个session</span><br><span class="line"></span><br><span class="line"># 添加SCREEN log文档</span><br><span class="line">在screen配置文件&#x2F;etc&#x2F;screenrc最后添加下面一行：</span><br><span class="line">logfile &#x2F;tmp&#x2F;screenlog_%t.log</span><br><span class="line"></span><br><span class="line">#启动运行screen 命令</span><br><span class="line">screen -L -t window1 -dmS test -&gt; 启动test 会话，test 会话的窗口名称为window1，屏幕日志记录在当下文件夹 .&#x2F;screenlog_window1.log</span><br></pre></td></tr></table></figure>
+<p>需要注意导出SCREEN 运行命令的log 文件；<br>reference: <a href="https://blog.csdn.net/lovemysea/article/details/78344114" target="_blank" rel="noopener">screen log</a></p>
+<figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">Conclusion about how to use Rstudio-server:</span><br><span class="line">(1)open terminal ：ssh root@*****</span><br><span class="line">密码：*****</span><br><span class="line">(2) install Rstudio: 直接查看Rstudio server 官网即可</span><br><span class="line">(3)Open Rstudio </span><br><span class="line">	sudo rstudio-server verify-installation #查看安装是否正常 </span><br><span class="line">	sudo rstudio-server start               #启动RStudio-server </span><br><span class="line">	sudo rstudio-server status                #查看RStudio-server </span><br><span class="line">	sudo rstudio-server stop                #关闭RStudio-server </span><br><span class="line">	sudo rstudio-server restart                #重启RStudio-server </span><br><span class="line">	##添加用户组 </span><br><span class="line">	sudo groupadd rstudio-group </span><br><span class="line">		##添加用户 </span><br><span class="line">	sudo useradd anlan -g rstudio-group </span><br><span class="line">	##设置用户密码 </span><br><span class="line">	sudo passwd xxxxxx </span><br><span class="line">	##创建用户目录 </span><br><span class="line">	sudo mkdir &#x2F;home&#x2F;anlan </span><br><span class="line">	##赋予目录权限 </span><br><span class="line">	sudo chown -R anlan:rstudio-group &#x2F;home&#x2F;anlan </span><br><span class="line"></span><br><span class="line">(4)建立本地隧道</span><br><span class="line">ssh -C -f -N  -L  8787:127.88.88.88:8787  root@121.36.0.146</span><br><span class="line">Need Password：Yjj18636810884@@@</span><br><span class="line">If there is a error: </span><br><span class="line">lsof -ti:8787 | xargs kill -9 </span><br><span class="line">Then do it again.</span><br><span class="line"></span><br><span class="line">(5)Open google chrome: localhost:8787</span><br></pre></td></tr></table></figure>]]></content>
       <categories>
         <category>计算机技术</category>
       </categories>
       <tags>
-        <tag>R</tag>
-        <tag>Color</tag>
-        <tag>Code</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>linux常用命令积累</title>
-    <url>/2020/06/24/linux%E5%B8%B8%E7%94%A8%E5%91%BD%E4%BB%A4%E7%A7%AF%E7%B4%AF/</url>
-    <content><![CDATA[<p>（1）常用基本命令<br>cp //拷贝<br>touch //新建空白文件<br>rm //删除文件<br>mkdir //新建文件夹<br>rmdir //删除文件夹<br>mv //移动文件<br>chown  -R yjj:rstudo ./folder //更改文件的所属<br>（2） vim 打开文本之后，如何进行字符串搜索？<br><code>:  /test</code> 将定位到test位置，然后用n来进行跳转到不同的test行。</p>
-<p>（3）Linux文件权限设置<br> <code>chmod u|g|o|a  =(设置权限)|+(添加权限)|-(减少权限)  r|w|x  文件或者目录</code><br>for example:<br><code>chmod u=rwx file</code> //u example user</p>
-<p>持续更新中… …</p>
-]]></content>
-      <categories>
-        <category>计算机技术</category>
-      </categories>
-      <tags>
-        <tag>linux</tag>
+        <tag>Linux</tag>
       </tags>
   </entry>
   <entry>
@@ -532,19 +577,6 @@ sci-hub: https://scihub.wikicn.top/
       </categories>
       <tags>
         <tag>前端技术</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>我的第一个博客----今天是我26岁的生日</title>
-    <url>/2020/06/23/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E4%B8%AA%E4%B8%AA%E4%BA%BA%E5%8D%9A%E5%AE%A2/</url>
-    <content><![CDATA[<h2 id="新一岁的日常："><a href="#新一岁的日常：" class="headerlink" title="新一岁的日常："></a>新一岁的日常：</h2><p>（1）休息：早睡早起。<br>（2）工作：用好每一刻钟，随时进入心流，高效工作。<br>（3）健身:  增肌减脂，增强体能。<br>（4）习惯：建立成型的习惯打卡计划。</p>
-<h2 id="新一岁的目标："><a href="#新一岁的目标：" class="headerlink" title="新一岁的目标："></a>新一岁的目标：</h2><p>（1）学好专业知识：癌症免疫学/Neoantigen/生物信息学分析技能 —-&gt; 每天进步一点点，每天都有输出（一篇博客）<br>（2）学好基础技能： Oral English/English writing/Code（R and Python）/Mac—-&gt; 每天进步一点点，每天都有输出（一篇博客）<br>（3）做一个会思考的人：每天深入思考生活中的一个问题，查询可执行的答案，每天都有输出（一篇博客）</p>
-]]></content>
-      <categories>
-        <category>成长</category>
-      </categories>
-      <tags>
-        <tag>日常</tag>
       </tags>
   </entry>
 </search>
