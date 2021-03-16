@@ -144,11 +144,37 @@ sci-hub: https://scihub.wikicn.top/
       </tags>
   </entry>
   <entry>
+    <title>高效精力管理法</title>
+    <url>/2021/03/16/1/</url>
+    <content><![CDATA[<h3 id="关于精力管理"><a href="#关于精力管理" class="headerlink" title="关于精力管理"></a>关于精力管理</h3><ol>
+<li><p>无论是时间管理还是精力管理，本质目的都是为了提高自己的工作效率，高效的利用自己的时间。</p>
+</li>
+<li><p>一个人每天的时间是固定的，其实每天的精力总量也是基本固定的，但是可以通过方法调整，提升自己的精力总量。</p>
+</li>
+<li><p>精力管理就是：用好精力存量、创造更多精力增量</p>
+</li>
+<li><p>用好精力存量：寻找自己的精力周期，在合适时间做合适的事儿；避免注意力耗散、进入心流工作状态。</p>
+</li>
+<li><p>关于如何创造更多的精力增量，见下面的思维导图</p>
+</li>
+</ol>
+<h3 id="精力管理思维导图"><a href="#精力管理思维导图" class="headerlink" title="精力管理思维导图"></a>精力管理思维导图</h3><p><img src="/2021/03/16/1/%E7%B2%BE%E5%8A%9B%E7%AE%A1%E7%90%86.jpg" alt></p>
+]]></content>
+      <categories>
+        <category>成长</category>
+        <category>锦囊</category>
+      </categories>
+      <tags>
+        <tag>精力</tag>
+        <tag>时间管理</tag>
+      </tags>
+  </entry>
+  <entry>
     <title>习惯的力量</title>
     <url>/2021/03/15/1/</url>
     <content><![CDATA[<p>习惯在人生的重要性不言而喻，下面通过一本书系统的梳理一下习惯的理论知识：</p>
 <p>习惯是具有的惯性的，这种惯性迫使我们坚持原有习惯，在养成新习惯的过程中阻力重重。</p>
-<h2 id="习惯分类"><a href="#习惯分类" class="headerlink" title="习惯分类"></a>习惯分类</h2><p>（1）可以分为行为习惯（写日记）；<br>（2）身体习惯（几点睡）；<br>（3）思维习惯（遇到困难事儿时候的应对态度）；<br>不同的习惯养成难度是不同的，不能一概而论21天养成某种习惯。</p>
+<h2 id="习惯分类"><a href="#习惯分类" class="headerlink" title="习惯分类"></a>习惯分类</h2><p>（1）行为习惯（写日记）；<br>（2）身体习惯（几点睡）；<br>（3）思维习惯（遇到困难事儿时候的应对态度）；<br>不同的习惯养成难度是不同的，不能一概而论21天养成某种习惯。</p>
 <h2 id="习惯养成的不同阶段"><a href="#习惯养成的不同阶段" class="headerlink" title="习惯养成的不同阶段"></a>习惯养成的不同阶段</h2><p>（1）反抗期（儿童学步式的微习惯法、做简单记录，记录成长，防止自己的懈怠）；<br>（2）不稳定期（行为模式化（尽量固定的时间、地点、场合做固定的事情）、引入奖惩措施）；<br>（3）倦怠期（增加变化、引入下一个习惯）；</p>
 <h2 id="习惯养成的注意事项"><a href="#习惯养成的注意事项" class="headerlink" title="习惯养成的注意事项"></a>习惯养成的注意事项</h2><p>（1）一次只养成一个习惯；<br>（2）越简单越好、习惯的设置，越简单越好；<br>（3）不同过分在意结果，正确的方向，正确的过程必然导致正确的结果；</p>
 <h2 id="习惯养成的思维导图"><a href="#习惯养成的思维导图" class="headerlink" title="习惯养成的思维导图"></a>习惯养成的思维导图</h2><p><img src="/2021/03/15/1/%E5%9D%9A%E6%8C%81%E4%B8%80%E7%A7%8D%E5%8F%AF%E4%BB%A5%E5%85%BB%E6%88%90%E7%9A%84%E4%B9%A0%E6%83%AF.jpeg" alt></p>
@@ -539,8 +565,8 @@ sci-hub: https://scihub.wikicn.top/
       </categories>
       <tags>
         <tag>R</tag>
-        <tag>Color</tag>
         <tag>Code</tag>
+        <tag>Color</tag>
       </tags>
   </entry>
   <entry>
